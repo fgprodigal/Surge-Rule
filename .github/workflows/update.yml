@@ -28,6 +28,9 @@ jobs:
 
       - name: Get rules and modules
         run: |
+          mkdir -p Surge-Rule/Rules
+          mkdir -p Surge-Rule/Module
+          mkdir -p Surge-Rule/Script
           curl -o Surge-Rule/Rules/apple.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/apple.txt
           curl -o Surge-Rule/Rules/icloud.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/icloud.txt
           curl -o Surge-Rule/Rules/google.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/google.txt
