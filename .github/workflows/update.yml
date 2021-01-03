@@ -1,0 +1,80 @@
+name: Update Surge rules
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/**"
+      - "config/**"
+  schedule:
+    - cron: 0 * * * *
+  watch:
+    types: started
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    if: github.event.repository.owner.id == github.event.sender.id
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Clone repository
+        run: git clone https://github.com/fgprodigal/Surge-Rule.git Surge-Rule
+
+      - name: Get rules and modules
+        run: |
+          curl -o Surge-Rule/Rules/apple.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/apple.txt
+          curl -o Surge-Rule/Rules/icloud.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/icloud.txt
+          curl -o Surge-Rule/Rules/google.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/google.txt
+          curl -o Surge-Rule/Rules/proxy.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt
+          curl -o Surge-Rule/Rules/direct.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
+          curl -o Surge-Rule/Rules/cncidr.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/cncidr.txt
+
+          curl -o Surge-Rule/Module/douyin.sgmodule https://raw.githubusercontent.com/Choler/Surge/master/Module/douyin.sgmodule
+          sed -i 's#https://Choler.github.io/Surge#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master#g' Surge-Rule/Module/douyin.sgmodule
+          curl -o Surge-Rule/Script/douyin.js https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
+
+      - name: URL Rewrite
+        run: |
+          cp -f Surge-Rule/Prototype.conf Surge-Rule/Ray.conf
+          curl -o url_rewrite.txt https://raw.githubusercontent.com/lhie1/Rules/master/Auto/URL%20Rewrite.conf
+          sed -i '/# URL Rewrite/{
+            s/# URL Rewrite//g
+            r url_rewrite.txt
+          }' Surge-Rule/Ray.conf
+          printf "hostname = " > hostname.txt
+          curl https://raw.githubusercontent.com/lhie1/Rules/master/Auto/Hostname.conf | paste -sd "," - >> hostname.txt
+          sed -i '/# Hostname/{
+            s/# Hostname//g
+            r hostname.txt
+          }' Surge-Rule/Ray.conf
+          printf "hostname = " > hostname.txt
+
+      - name: Git commit
+        id: commit
+        run: |
+          cd Surge-Rule
+          git config --local user.email "769910+fgprodigal@users.noreply.github.com"
+          git config --local user.name "github-action[bot]"
+          git add -A
+          if ! git diff-index --quiet --cached HEAD; then
+            git commit -am "Auto updated at $(date)"
+            echo "::set-output name=changes::true"
+          fi
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        if: steps.commit.outputs.changes
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          directory: "Surge-Rule"
+
+      - name: Purge jsDelivr
+        if: steps.commit.outputs.changes
+        run: |
+          curl https://purge.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Ray.conf
