@@ -1,5 +1,5 @@
 try {
-  let body = $response.body.replace(/\"room_id\":(\d{2,})/g, '"room_id":"$1"');
+  let body = $response.body.replace(/\"room_id\":(\d{2,})/g,'"room_id":"$1"');
   let obj = JSON.parse(body);
   if (obj.data) obj.data = filter_data(obj.data);
   if (obj.aweme_list) obj.aweme_list = filter_list(obj.aweme_list);
