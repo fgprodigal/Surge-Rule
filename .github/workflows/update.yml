@@ -42,19 +42,27 @@ jobs:
           sed -i 's#https://Choler.github.io/Surge#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master#g' Surge-Rule/Module/douyin.sgmodule
           curl -o Surge-Rule/Script/douyin.js https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
 
+          git clone https://github.com/lxk0301/jd_scripts.git -b master jd_scripts
+          cp jd_scripts/Surge/lxk0301_Task.sgmodule.sgmodule Surge-Rule/Module/JD_task.sgmodule
+          sed -i 's#https://raw.githubusercontent.com/lxk0301/jd_scripts/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/JD_task.sgmodule
+          cp jd_scripts/*.js Surge-Rule/Script/
+
+          git clone https://github.com/lxk0301/jd_scripts.git -b master yichahucha
+          cp yichahucha/*.js Surge-Rule/Script/
+
       - name: URL Rewrite
         run: |
           cp -f Surge-Rule/Prototype.conf Surge-Rule/Ray.conf
           curl -o url_rewrite.txt https://raw.githubusercontent.com/lhie1/Rules/master/Auto/URL%20Rewrite.conf
           sed -i '/# URL Rewrite/{
-            s/# URL Rewrite//g
             r url_rewrite.txt
+            /# URL Rewrite/d
           }' Surge-Rule/Ray.conf
           printf "hostname = " > hostname.txt
           curl https://raw.githubusercontent.com/lhie1/Rules/master/Auto/Hostname.conf | paste -sd "," - >> hostname.txt
           sed -i '/# Hostname/{
-            s/# Hostname//g
             r hostname.txt
+            /# Hostname/d
           }' Surge-Rule/Ray.conf
           printf "hostname = " > hostname.txt
 
