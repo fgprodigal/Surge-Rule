@@ -1,3 +1,9 @@
+### 📥 配置地址
+
+| 📃 配置  |                                :octocat: GitHub RAW                                 |                                  🚀 CDN 加速                                  |
+| :------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| Ray.conf | [点我下载](https://raw.githubusercontent.com/fgprodigal/Surge-Rule/master/Ray.conf) | [点我起飞](https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Ray.conf) |
+
 ### 📥 模块列表
 
 |    📃 模块     |                                           :octocat: GitHub RAW                                            |                                             🚀 CDN 加速                                             |
