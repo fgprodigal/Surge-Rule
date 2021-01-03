@@ -48,7 +48,7 @@ jobs:
           sed -i 's/lxk0301 iOS Tasks Module/京东自动任务/g' Surge-Rule/Module/JD_task.sgmodule
           cp jd_scripts/*.js Surge-Rule/Script/
 
-          git clone https://github.com/lxk0301/jd_scripts.git -b master yichahucha
+          git clone https://github.com/yichahucha/surge.git -b master yichahucha
           cp yichahucha/*.js Surge-Rule/Script/
 
           git clone https://github.com/onewayticket255/Surge-Script.git onewayticket255
