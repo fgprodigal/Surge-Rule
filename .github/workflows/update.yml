@@ -5,7 +5,7 @@ on:
     branches: [master]
     paths:
       - "Prototype.conf"
-      - "config/**"
+      - ".github/**"
   schedule:
     - cron: 0 * * * *
   watch:
