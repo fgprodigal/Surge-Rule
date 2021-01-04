@@ -1,0 +1,14 @@
+#!name=历史价格
+#!desc=显示淘宝、京东历史价格.
+#!system=ios
+
+# 不生效或失效的检查一下配置有没有这两条复写，删除试试
+# ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start - reject
+# ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts) - reject
+[Script]
+jd_price = type=http-response,requires-body=1,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),script-path=https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script/jd_price.js
+tb_price = type=http-request,requires-body=1,pattern=^http://.+/amdc/mobileDispatch,script-path=https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script/tb_price.js
+tb_price2 = type=http-response,requires-body=1,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,script-path=https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script/tb_price.js
+
+[MITM]
+hostname = api.m.jd.com, trade-acs.m.taobao.com

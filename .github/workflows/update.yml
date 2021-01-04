@@ -43,7 +43,7 @@ jobs:
           curl -o Surge-Rule/Script/douyin.js https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
 
           git clone https://github.com/lxk0301/jd_scripts.git -b master jd_scripts
-          cp jd_scripts/Surge/lxk0301_Task.sgmodule.sgmodule Surge-Rule/Module/JD_task.sgmodule
+          cp jd_scripts/Surge/lxk0301_Task.sgmodule Surge-Rule/Module/JD_task.sgmodule
           sed -i 's#https://raw.githubusercontent.com/lxk0301/jd_scripts/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/JD_task.sgmodule
           sed -i 's/lxk0301 iOS Tasks Module/京东自动任务/g' Surge-Rule/Module/JD_task.sgmodule
           cp jd_scripts/*.js Surge-Rule/Script/
@@ -53,7 +53,7 @@ jobs:
           cp yichahucha/*.js Surge-Rule/Script/
 
           git clone https://github.com/onewayticket255/Surge-Script.git onewayticket255
-          cp onewayticket255/module/*.sgmodule Surge-Rule/Module/
+          # cp onewayticket255/module/*.sgmodule Surge-Rule/Module/
           sed -i 's#https://raw.githubusercontent.com/onewayticket255/Surge-Script/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/*.sgmodule
           cp onewayticket255/*.js Surge-Rule/Script/
 
