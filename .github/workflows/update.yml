@@ -65,17 +65,17 @@ jobs:
           cp -f Prototype.conf Ray.conf
 
           sed -i '/# URL Rewrite/{
-            r url_rewrite.txt
+            r Rules/url_rewrite.txt
             /# URL Rewrite/d
           }' Ray.conf
 
           sed -i '/# Hostname/{
-            r hostname.txt
+            r Rules/hostname.txt
             /# Hostname/d
           }' Ray.conf
 
           sed -i '/# Script/{
-            r script.txt
+            r Rules/script.txt
             /# Script/d
           }' Ray.conf
 
