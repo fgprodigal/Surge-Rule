@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
     paths:
-      - "Prototype.conf"
-      - ".github/**"
+      - 'Prototype.conf'
+      - '.github/**'
   schedule:
     - cron: 0 * * * *
   watch:
@@ -37,6 +37,7 @@ jobs:
           curl -o Surge-Rule/Rules/proxy.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt
           curl -o Surge-Rule/Rules/direct.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
           curl -o Surge-Rule/Rules/cncidr.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/cncidr.txt
+          curl -o Surge-Rule/Rules/netflix.list https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
 
           curl -o Surge-Rule/Module/douyin.sgmodule https://raw.githubusercontent.com/Choler/Surge/master/Module/douyin.sgmodule
           sed -i 's#https://Choler.github.io/Surge#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master#g' Surge-Rule/Module/douyin.sgmodule
@@ -90,7 +91,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
-          directory: "Surge-Rule"
+          directory: 'Surge-Rule'
 
       - name: Purge jsDelivr
         if: steps.commit.outputs.changes
