@@ -61,22 +61,23 @@ jobs:
 
       - name: URL Rewrite
         run: |
-          cp -f Surge-Rule/Prototype.conf Surge-Rule/Ray.conf
+          cd Surge-Rule
+          cp -f Prototype.conf Ray.conf
 
           sed -i '/# URL Rewrite/{
-            r Surge-Rule/url_rewrite.txt
+            r url_rewrite.txt
             /# URL Rewrite/d
-          }' Surge-Rule/Ray.conf
+          }' Ray.conf
 
           sed -i '/# Hostname/{
-            r Surge-Rule/hostname.txt
+            r hostname.txt
             /# Hostname/d
-          }' Surge-Rule/Ray.conf
+          }' Ray.conf
 
           sed -i '/# Script/{
-            r Surge-Rule/script.txt
+            r script.txt
             /# Script/d
-          }' Surge-Rule/Ray.conf
+          }' Ray.conf
 
       - name: Git commit
         id: commit
