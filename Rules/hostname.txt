@@ -1,0 +1,1 @@
+hostname = *.amemv.com, api.bilibili.com, app.bilibili.com, api.live.bilibili.com, ios.prod.ftl.netflix.com, www.zhihu.com, api.zhihu.com, link.zhihu.com, 118.89.204.198

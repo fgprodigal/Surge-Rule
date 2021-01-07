@@ -62,18 +62,21 @@ jobs:
       - name: URL Rewrite
         run: |
           cp -f Surge-Rule/Prototype.conf Surge-Rule/Ray.conf
-          # curl -o url_rewrite.txt https://raw.githubusercontent.com/lhie1/Rules/master/Auto/URL%20Rewrite.conf
-          # sed -i '/# URL Rewrite/{
-          #   r url_rewrite.txt
-          #   /# URL Rewrite/d
-          # }' Surge-Rule/Ray.conf
-          # printf "hostname = " > hostname.txt
-          # curl https://raw.githubusercontent.com/lhie1/Rules/master/Auto/Hostname.conf | paste -sd "," - >> hostname.txt
-          # sed -i '/# Hostname/{
-          #   r hostname.txt
-          #   /# Hostname/d
-          # }' Surge-Rule/Ray.conf
-          # printf "hostname = " > hostname.txt
+
+          sed -i '/# URL Rewrite/{
+            r Surge-Rule/url_rewrite.txt
+            /# URL Rewrite/d
+          }' Surge-Rule/Ray.conf
+
+          sed -i '/# Hostname/{
+            r Surge-Rule/hostname.txt
+            /# Hostname/d
+          }' Surge-Rule/Ray.conf
+
+          sed -i '/# Script/{
+            r Surge-Rule/script.txt
+            /# Script/d
+          }' Surge-Rule/Ray.conf
 
       - name: Git commit
         id: commit
