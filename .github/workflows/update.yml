@@ -38,6 +38,7 @@ jobs:
           curl -o Surge-Rule/Rules/direct.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
           curl -o Surge-Rule/Rules/cncidr.txt https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/cncidr.txt
           curl -o Surge-Rule/Rules/netflix.list https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
+          curl -o Surge-Rule/Rules/cn-ad.list https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Custom/CN-ad.list
 
           curl -o Surge-Rule/Module/douyin.sgmodule https://raw.githubusercontent.com/Choler/Surge/master/Module/douyin.sgmodule
           sed -i 's#https://Choler.github.io/Surge#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master#g' Surge-Rule/Module/douyin.sgmodule
