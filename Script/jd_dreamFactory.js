@@ -1,6 +1,6 @@
 /*
 京东京喜工厂
-更新时间：2020-12-27
+更新时间：2021-1-9
 活动入口 :京东APP->游戏与互动->查看更多->京喜工厂
 或者: 京东APP首页搜索 "玩一玩" ,造物工厂即可
 
@@ -316,11 +316,11 @@ function QueryHireReward() {
     })
   })
 }
-// 收取招工电力
+// 收取招工/劳模电力
 function hireAward(date, type = 0) {
   return new Promise(async resolve => {
     // const url = `/dreamfactory/friend/HireAward?zone=dream_factory&date=${new Date().Format("yyyyMMdd")}&type=0&sceneval=2&g_login_type=1`
-    $.get(taskurl('friend/HireAward', `date=${date}&type=${type}`), async (err, resp, data) => {
+    $.get(taskurl('friend/HireAward', `date=${date}&type=${type}&_stk=_time,date,type,zone`), async (err, resp, data) => {
       try {
         if (err) {
           console.log(`${JSON.stringify(err)}`)
@@ -676,7 +676,7 @@ function DrawProductionStagePrize() {
 }
 async function PickUp(encryptPin = $.encryptPin, help = false) {
   $.pickUpMyselfComponent = true;
-  const GetUserComponentRes = await GetUserComponent(encryptPin);
+  const GetUserComponentRes = await GetUserComponent(encryptPin, 500);
   if (GetUserComponentRes && GetUserComponentRes['ret'] === 0) {
     const { componentList } = GetUserComponentRes['data'];
     if (componentList && componentList.length <= 0) {
@@ -713,36 +713,38 @@ async function PickUp(encryptPin = $.encryptPin, help = false) {
     }
   }
 }
-function GetUserComponent(pin = $.encryptPin) {
+function GetUserComponent(pin = $.encryptPin, timeout = 0) {
   return new Promise(resolve => {
-    $.get(taskurl('usermaterial/GetUserComponent', `pin=${pin}`), (err, resp, data) => {
-      try {
-        if (err) {
-          console.log(`${JSON.stringify(err)}`)
-          console.log(`${$.name} API请求失败，请检查网路重试`)
-        } else {
-          if (safeGet(data)) {
-            data = JSON.parse(data);
-            if (data['ret'] === 0) {
+    setTimeout(() => {
+      $.get(taskurl('usermaterial/GetUserComponent', `pin=${pin}`), (err, resp, data) => {
+        try {
+          if (err) {
+            console.log(`${JSON.stringify(err)}`)
+            console.log(`${$.name} API请求失败，请检查网路重试`)
+          } else {
+            if (safeGet(data)) {
+              data = JSON.parse(data);
+              if (data['ret'] === 0) {
 
-            } else {
-              console.log(`GetUserComponent失败：${JSON.stringify(data)}`)
+              } else {
+                console.log(`GetUserComponent失败：${JSON.stringify(data)}`)
+              }
             }
           }
+        } catch (e) {
+          $.logErr(e, resp)
+        } finally {
+          resolve(data);
         }
-      } catch (e) {
-        $.logErr(e, resp)
-      } finally {
-        resolve(data);
-      }
-    })
+      })
+    }, timeout)
   })
 }
 //收取地下随机零件电力API
 
 function PickUpComponent(index, encryptPin) {
   return new Promise(resolve => {
-    $.get(taskurl('usermaterial/PickUpComponent', `placeId=${index}&pin=${encryptPin}`), (err, resp, data) => {
+    $.get(taskurl('usermaterial/PickUpComponent', `placeId=${index}&pin=${encryptPin}&_stk=_time,pin,placeId,zone`), (err, resp, data) => {
       try {
         if (err) {
           console.log(`${JSON.stringify(err)}`)
