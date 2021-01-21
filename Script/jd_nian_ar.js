@@ -1,27 +1,26 @@
 /*
-京东炸年兽签到任务🧨
+京东炸年兽AR
 活动时间:2021-1-18至2021-2-11
-暂不加入品牌会员
 活动入口:https://wbbny.m.jd.com/babelDiy/Zeus/2cKMj86srRdhgWcKonfExzK4ZMBy/index.html
 活动地址：京东app左侧浮动窗口
 已支持IOS双京东账号,Node.js支持N个京东账号
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ============Quantumultx===============
 [task_local]
-#京东炸年兽签到任务🧨
-30 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js, tag=京东炸年兽签到任务🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true
+#京东炸年兽AR
+0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_ar.js, tag=京东炸年兽AR, enabled=true
 
 ================Loon==============
 [Script]
-cron "30 8 * * *" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js,tag=京东炸年兽签到任务🧨
+cron "0 8 * * *" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_ar.js,tag=京东炸年兽AR
 
 ===============Surge=================
-京东炸年兽签到任务🧨 = type=cron,cronexp="30 8 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js
+京东炸年兽AR = type=cron,cronexp="0 8 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_ar.js
 
 ============小火箭=========
-京东炸年兽签到任务🧨 = type=cron,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js, cronexpr="30 8 * * *", timeout=3600, enable=true
+京东炸年兽AR = type=cron,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_ar.js, cronexpr="0 8 * * *", timeout=200, enable=true
  */
-const $ = new Env('京东炸年兽签到任务🧨');
+const $ = new Env('京东炸年兽AR');
 
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
@@ -35,6 +34,7 @@ if ($.isNode()) {
     cookiesArr.push(jdCookieNode[item])
   })
   if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
+  if(JSON.stringify(process.env).indexOf('GITHUB')>-1) process.exit(0)
 } else {
   let cookiesData = $.getdata('CookiesJD') || "[]";
   cookiesData = jsonParse(cookiesData);
@@ -45,7 +45,12 @@ if ($.isNode()) {
   cookiesArr = cookiesArr.filter(item => item !== "" && item !== null && item !== undefined);
 }
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
+const inviteCodes = [
+  `cgxZaDXWZPCmiUa2akPVmFMI27K6antJzucULQPYNim_BPEW1Dwd@cgxZdTXtIrPYuAqfDgSpusxr97nagU6hwFa3TXxnqM95u3ib-xt4nWqZdz8@cgxZdTXtIO-O6QmYDVf67KCEJ19JcybuMB2_hYu8NSNQg0oS2Z_FpMce45g@cgxZdTXtILiLvg7OAASp61meehou4OeZvqbjghsZlc3rI5SBk7b3InUqSQ0@cgxZ9_MZ8gByP7FZ368dN8oTZBwGieaH5HvtnvXuK1Epn_KK8yol8OYGw7h3M2j_PxSZvYA`,
+  `cgxZaDXWZPCmiUa2akPVmFMI27K6antJzucULQPYNim_BPEW1Dwd@cgxZdTXtIrPYuAqfDgSpusxr97nagU6hwFa3TXxnqM95u3ib-xt4nWqZdz8@cgxZdTXtIO-O6QmYDVf67KCEJ19JcybuMB2_hYu8NSNQg0oS2Z_FpMce45g@cgxZdTXtILiLvg7OAASp61meehou4OeZvqbjghsZlc3rI5SBk7b3InUqSQ0@cgxZdTXtIumO4w2cDgSqvYcqHwjaAzLxu0S371Dh_fctFJtN0tXYzdR7JaY`
+];
 !(async () => {
+  await requireConfig();
   if (!cookiesArr[0]) {
     $.msg($.name, '【提示】请先获取京东账号一cookie\n直接使用NobyDa的京东签到获取', 'https://bean.m.jd.com/bean/signIndex.action', {"open-url": "https://bean.m.jd.com/bean/signIndex.action"});
     return;
@@ -68,27 +73,23 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
         }
         continue
       }
+      await shareCodesFormat();
       await jdNian()
     }
   }
 })()
-    .catch((e) => {
-      $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
-    })
-    .finally(() => {
-      $.done();
-    })
+  .catch((e) => {
+    $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
+  })
+  .finally(() => {
+    $.done();
+  })
 async function jdNian() {
-  try {
-    await getHomeData()
-    if(!$.secretp) return
-    await queryMaterials2()
-    await $.wait(2000)
-    await getHomeData(true)
-    await showMsg()
-  } catch (e) {
-    $.logErr(e)
-  }
+  await getHomeData()
+  if(!$.secretp) return
+  await getArInfo()
+  await getHomeData(true)
+  await showMsg()
 }
 function encode(data, aa, extraData) {
   const temp = {
@@ -103,8 +104,6 @@ function getRnd() {
 }
 function showMsg() {
   return new Promise(resolve => {
-    console.log('任务已做完！\n如有未完成的任务，请多执行几次。注：目前入会任务不会做')
-    console.log('如出现taskVos错误的，请更新USER_AGENTS.js或使用自定义UA功能')
     if (!jdNotify) {
       $.msg($.name, '', `${message}`);
     } else {
@@ -116,7 +115,6 @@ function showMsg() {
     resolve()
   })
 }
-
 
 function getHomeData(info=false) {
   return new Promise((resolve) => {
@@ -137,6 +135,10 @@ function getHomeData(info=false) {
               return
             }
             console.log(`当前爆竹${$.userInfo.raiseInfo.remainScore}🧨，下一关需要${$.userInfo.raiseInfo.nextLevelScore}🧨`)
+
+            if(info) {
+              message += `当前爆竹${$.userInfo.raiseInfo.remainScore}🧨\n`
+            }
           }
           else{
             $.secretp = null
@@ -146,110 +148,6 @@ function getHomeData(info=false) {
         }
       } catch (e) {
         $.logErr(e, resp);
-      } finally {
-        resolve();
-      }
-    })
-  })
-}
-function queryMaterials2() {
-  let body ={"qryParam":"[{\"type\":\"advertGroup\",\"mapTo\":\"homeFeedBannerT\",\"id\":\"05143017\"},{\"type\":\"advertGroup\",\"mapTo\":\"homeFeedBannerS\",\"id\":\"05144045\"},{\"type\":\"advertGroup\",\"mapTo\":\"homeFeedBannerA\",\"id\":\"05144046\"},{\"type\":\"advertGroup\",\"mapTo\":\"homeFeedBannerB\",\"id\":\"05144047\"},{\"type\":\"advertGroup\",\"mapTo\":\"domainShopData\",\"id\":\"05139136\"},{\"type\":\"advertGroup\",\"mapTo\":\"domainShopData2\",\"id\":\"05144271\"},{\"type\":\"advertGroup\",\"mapTo\":\"domainShopToT\",\"id\":\"05152048\"}]","activityId":"2cKMj86srRdhgWcKonfExzK4ZMBy","pageId":"","reqSrc":"","applyKey":"21beast"}
-  return new Promise(resolve => {
-    $.post(taskPostUrl("qryCompositeMaterials", body, "qryCompositeMaterials"), async (err, resp, data) => {
-      try {
-        if (err) {
-          console.log(`${JSON.stringify(err)}`)
-          console.log(`${$.name} API请求失败，请检查网路重试`)
-        } else {
-          if (safeGet(data)) {
-            data = JSON.parse(data);
-            if(data.code==='0') {
-              let shopList = data.data.domainShopData2.list
-              let nameList = []
-              $.canSign = true
-              for(let vo of shopList){
-                if(nameList.includes(vo.name)) continue
-                nameList.push(vo.name)
-                console.log(`去做${vo.name}店铺任务`)
-                await signInRead(vo.link)
-                if(!$.canSign) break
-                await $.wait(2000)
-              }
-            }
-          }
-        }
-      } catch (e) {
-        $.logErr(e, resp)
-      } finally {
-        resolve();
-      }
-    })
-  })
-}
-function signInRead(shopSign) {
-  let body = {"shopSign":shopSign}
-  return new Promise(resolve => {
-    $.post(taskPostUrl("nian_shopSignInRead", body, "nian_shopSignInRead"), async (err, resp, data) => {
-      try {
-        if (err) {
-          console.log(`${JSON.stringify(err)}`)
-          console.log(`${$.name} API请求失败，请检查网路重试`)
-        } else {
-          if (safeGet(data)) {
-            data = JSON.parse(data);
-            if(data.code===0 && data.data && data.data.result && !data.data.result.signInTag) {
-              console.log(`店铺未签到，去签到`)
-              await signInWrite(shopSign)
-            } else{
-              console.log(`店铺已签到过`)
-            }
-          }
-        }
-      } catch (e) {
-        $.logErr(e, resp)
-      } finally {
-        resolve();
-      }
-    })
-  })
-}
-function signInWrite(shopSign) {
-  let temp = {
-    "shopSign": shopSign,
-  }
-  const extraData = {
-    "jj": 6,
-    "buttonid": "jmdd-react-smash_0",
-    "sceneid": "homePageh5",
-    "appid": '50073'
-  }
-  let body = {
-    ...encode(temp, $.secretp, extraData),
-    shopSign:shopSign
-  }
-  return new Promise(resolve => {
-    $.post(taskPostUrl("nian_shopSignInWrite", body, "nian_shopSignInWrite"), async (err, resp, data) => {
-      try {
-        if (err) {
-          console.log(`${JSON.stringify(err)}`)
-          console.log(`${$.name} API请求失败，请检查网路重试`)
-        } else {
-          if (safeGet(data)) {
-            data = JSON.parse(data);
-            if (data.data.bizCode === 0) {
-              if(data.data.result.score)
-                console.log(`签到成功，获得${data.data.result.score}爆竹🧨`)
-              else
-                console.log(`签到成功，获得空气`)
-            }
-            else{
-              $.canSign = false
-              console.log(data.data.bizMsg)
-            }
-          }
-        }
-      } catch (e) {
-        $.logErr(e, resp)
       } finally {
         resolve();
       }
@@ -355,6 +253,96 @@ function pkAssignGroup(inviteId) {
     })
   })
 }
+function getArInfo() {
+  return new Promise(resolve => {
+    $.get(taskArGetUrl("arNianGetUser.do"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.code === 200) {
+              const { level,gameNum,maxGameNum} = data.rv
+              $.level = level
+              $.maxLevel = 27
+              console.log(`当前第${$.level}/${$.maxLevel}关`)
+              for(let i = gameNum;i<maxGameNum&&$.level<=$.maxLevel;++i){
+                await arStart($.level)
+                await $.wait(5000)
+              }
+            }
+            else{
+              console.log(`AR游戏信息获取失败，${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function arStart(level) {
+  return new Promise(resolve => {
+    $.post(taskArPostUrl("arNianStartGame.do", `level=${level}`), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.code === 0) {
+              console.log(`游戏开启成功，等待20秒完成`)
+              await $.wait(28*1000)
+              await arEnd(level,data.rv.random)
+            }
+            else{
+              console.log(`游戏开启失败，错误：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function arEnd(level,random) {
+  return new Promise(resolve => {
+    $.post(taskArPostUrl("arNianEndGame.do", `random=${random}&type=1&level=${level}`), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.code === 0) {
+              const { level, maxLevel} = data.rv
+              $.level = level
+              $.maxLevel = maxLevel
+              console.log(`游戏完成成功，获得${data.rv.winAward + data.rv.firstWin}🧨，通关情况：${level}/${maxLevel}`)
+            }
+            else{
+              console.log(`游戏开启失败，错误：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
 function readShareCode() {
   console.log(`开始`)
   return new Promise(async resolve => {
@@ -424,7 +412,33 @@ function requireConfig() {
     resolve()
   })
 }
-
+function taskArGetUrl(function_id) {
+  let url = `https://arvractivity.jd.com/nian/${function_id}`;
+  return {
+    url,
+    headers: {
+      "Cookie": cookie,
+      "origin": "https://h5.m.jd.com",
+      'Content-Type': 'application/x-www-form-urlencoded',
+      "User-Agent":  "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0",
+      'referer': 'https://h5.m.jd.com/babelDiy/Zeus/2ZUbtdUfe8ZTyCQrVecyjdNehHpL/index.html'
+    }
+  }
+}
+function taskArPostUrl(function_id, body = '') {
+  let url = `https://arvractivity.jd.com/nian/${function_id}`;
+  return {
+    url,
+    body: body,
+    headers: {
+      "Cookie": cookie,
+      "origin": "https://h5.m.jd.com",
+      'Content-Type': 'application/x-www-form-urlencoded',
+      "User-Agent":  "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0",
+      'referer': 'https://h5.m.jd.com/babelDiy/Zeus/2ZUbtdUfe8ZTyCQrVecyjdNehHpL/index.html'
+    }
+  }
+}
 function taskPostUrl(function_id, body = {}, function_id2) {
   let url = `${JD_API_HOST}`;
   if (function_id2) {
