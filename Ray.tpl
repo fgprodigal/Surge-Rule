@@ -64,7 +64,7 @@ PROCESS-NAME,WebTorrent,DIRECT
 PROCESS-NAME,Jump Desktop,DIRECT
 PROCESS-NAME,JumpConnect,DIRECT
 
-RULE-SET,https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Rules/cn-ad.list,REJECT-TINYGI
+RULE-SET,https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Rules/cn-ad.list,REJECT-TINYGIF
 
 DOMAIN-SET,https://cdn.jsdelivr.net/gh/fgprodigal/anti-AD@master/anti-ad-surge2.txt,🛑 Block
 
