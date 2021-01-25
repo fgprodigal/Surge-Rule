@@ -5933,6 +5933,7 @@ zeenews-fonts.s3.amazonaws.com
 .coreextreme.com
 .coreml.net
 .coreoptics.net
+.corepublishingsolutions.com
 .coreyjew.com
 .coronavirusnow.com
 .corp.bandsintown.com
@@ -7463,6 +7464,7 @@ zeenews-fonts.s3.amazonaws.com
 .elexpresso.com
 .elgoog.im
 .elifesciences.org
+.elite.com
 .elitebabes.com
 .elitter.net
 .elixir-lang.org
@@ -12324,6 +12326,7 @@ zeenews-fonts.s3.amazonaws.com
 .lefrak
 .legalporno.com
 .legaltech.law.com
+.legaltracker.com
 .legend.pandafan.org
 .leggycash.com
 .lego
@@ -16181,6 +16184,9 @@ zeenews-fonts.s3.amazonaws.com
 .puffstore.com
 .pugetsoundbmw.com
 .pugetsoundmini.com
+.pugpig-dev.com
+.pugpig-stage.com
+.pugpig.com
 .pullfolio.com
 .pullstring.net
 .pumped.io
@@ -18628,6 +18634,7 @@ zeenews-fonts.s3.amazonaws.com
 .thomassmart.com
 .thompent.com
 .thomsonreuters.com
+.thomsonreutersmexico.com
 .thongdreams.com
 .thoof.com
 .threatchaos.com
@@ -18823,6 +18830,7 @@ zeenews-fonts.s3.amazonaws.com
 .tmhk.org
 .tmi.me
 .tmpp.org
+.tmsnrt.rs
 .tn
 .tn1.shemalez.com
 .tn2.shemalez.com
@@ -18934,6 +18942,7 @@ zeenews-fonts.s3.amazonaws.com
 .tparents.org
 .tpprc.org
 .tr
+.tr.com
 .tr.im
 .tra.tvbjjj.com
 .trace.org
