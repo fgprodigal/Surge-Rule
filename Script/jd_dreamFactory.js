@@ -4,7 +4,6 @@
 活动入口：京东APP-游戏与互动-查看更多-京喜工厂
 或者: 京东APP首页搜索 "玩一玩" ,造物工厂即可
 
-
 已支持IOS双京东账号,Node.js支持N个京东账号
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ============Quantumultx===============
@@ -1522,8 +1521,8 @@ function jsonParse(str) {
 function decrypt(time, stk, type) {
   if (stk) {
     const random = 'pmUmA8IyRcDp';
-    const token = `tk01wd5f01c58a8nekZxK1IwSm5St6zzPArjBtWbW5WBscsrXLTOOu7Ogq0jKd3RkQJah4XVLGS9oiKNBo+s1/vK6ZMT`;
-    const fingerprint = 1126982714367161;
+    const token = ``;
+    const fingerprint = 8410347712257161;
     const timestamp = new Date(time).Format("yyyyMMddhhmmssS");
     const appId = 10001;
     const str = `${token}${fingerprint}${timestamp}${appId}${random}`;
