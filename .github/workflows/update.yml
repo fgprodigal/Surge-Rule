@@ -44,12 +44,6 @@ jobs:
           sed -i 's#https://Choler.github.io/Surge#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master#g' Surge-Rule/Module/douyin.sgmodule
           curl -o Surge-Rule/Script/douyin.js https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
 
-          git clone https://github.com/LXK9301/jd_scripts.git -b master jd_scripts
-          cp jd_scripts/Surge/lxk0301_Task.sgmodule.sgmodule Surge-Rule/Module/JD_task.sgmodule
-          sed -i 's#https://raw.githubusercontent.com/LXK9301/jd_scripts/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/JD_task.sgmodule
-          sed -i 's/LXK9301 iOS Tasks Module/京东自动任务/g' Surge-Rule/Module/JD_task.sgmodule
-          cp jd_scripts/*.js Surge-Rule/Script/
-
           git clone https://github.com/yichahucha/surge.git -b master yichahucha
           sed -i 's#https://raw.githubusercontent.com/yichahucha/surge/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/*.sgmodule
           cp yichahucha/*.js Surge-Rule/Script/
