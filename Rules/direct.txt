@@ -2849,7 +2849,6 @@ xb.dlservice.microsoft.com
 .22edu.com
 .22evil.com
 .22ff.com
-.22ff.org
 .22hd.com
 .22hyk.com
 .22ja.com
@@ -3660,6 +3659,7 @@ xb.dlservice.microsoft.com
 .360tpcdn.com
 .360u9.com
 .360uu.com
+.360vipshop.com
 .360vps.com
 .360vrzy.com
 .360wbl.com
@@ -5545,6 +5545,7 @@ xb.dlservice.microsoft.com
 .5360ok.com
 .53617686.com
 .5366.com
+.53666.org
 .536wx.com
 .537.com
 .5379yx.com
@@ -10087,7 +10088,6 @@ xb.dlservice.microsoft.com
 .ane56.com
 .aneasystone.com
 .anf-z.com
-.anfadianqi.com
 .anfan.com
 .anfang086.com
 .anfang6688.com
@@ -10419,7 +10419,6 @@ xb.dlservice.microsoft.com
 .aoyunque.com
 .aozehuanbao.com
 .aozhougoufang.com
-.aozsw.com
 .ap88.com
 .apa.me
 .apabi.com
@@ -13200,7 +13199,6 @@ xb.dlservice.microsoft.com
 .blazefire.com
 .blazefire.net
 .blbx.com
-.blc-cn.com
 .blchen.com
 .blctwed.com
 .bld-hotel.com
@@ -15876,6 +15874,7 @@ xb.dlservice.microsoft.com
 .chhzm.com
 .chi2ko.com
 .chi588.com
+.chiang.fun
 .chianqs.com
 .chibaole.com
 .chichuang.com
@@ -16715,7 +16714,6 @@ xb.dlservice.microsoft.com
 .chncomic.com
 .chncpa.org
 .chncwds.com
-.chndayu.com
 .chndesign.com
 .chndsnews.com
 .chndtb.com
@@ -27784,7 +27782,6 @@ xb.dlservice.microsoft.com
 .gwauto.com
 .gwclouds.net
 .gwdang.com
-.gwdij.com
 .gwell.cc
 .gwidc.com
 .gwj-test.com
@@ -29823,6 +29820,7 @@ xb.dlservice.microsoft.com
 .higame123.com
 .higeshi.com
 .highdigitizing.com
+.highgg.com
 .highgo.com
 .highlm.com
 .hightopo.com
@@ -34931,6 +34929,7 @@ xb.dlservice.microsoft.com
 .jiazhua.com
 .jiazhuang.com
 .jiazhuang6.com
+.jiazijun.com
 .jiazile.com
 .jiazuo.cc
 .jibai.com
@@ -36514,6 +36513,7 @@ xb.dlservice.microsoft.com
 .justep.com
 .justering.com
 .justjavac.com
+.justoracle.com
 .justpodmedia.com
 .justsy.com
 .justwe.site
@@ -37698,6 +37698,7 @@ xb.dlservice.microsoft.com
 .km18.net
 .km1818.com
 .km198.com
+.kmaa4.com
 .kmail.com
 .kmapp.net
 .kmcaishui.com
@@ -41236,6 +41237,7 @@ xb.dlservice.microsoft.com
 .lz520.net
 .lz6.com
 .lzabcd.com
+.lzafny.com
 .lzane.com
 .lzbank.com
 .lzc369.com
@@ -47236,7 +47238,6 @@ xb.dlservice.microsoft.com
 .pkvs.com
 .pkzx.com
 .plaidc.com
-.planetdoge.com
 .planetmeican.com
 .planoi.com
 .plantextra.com
@@ -47430,7 +47431,6 @@ xb.dlservice.microsoft.com
 .poqsoft.com
 .porlockz.com
 .porschesky.com
-.portofinohotels.cc
 .portoflower.com
 .ports-intl.com
 .pos.gold
@@ -49637,6 +49637,7 @@ xb.dlservice.microsoft.com
 .qzone.cc
 .qzone.com
 .qzoneapp.com
+.qzqstudio.com
 .qzrbx.com
 .qzrc.com
 .qzrx.net
@@ -49965,7 +49966,6 @@ xb.dlservice.microsoft.com
 .remembermor.club
 .rememtek.com
 .remen88.com
-.remote88.com
 .remoteaps.com
 .remotedu.com
 .renaren.com
