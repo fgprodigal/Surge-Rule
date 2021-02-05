@@ -2663,6 +2663,7 @@ zeenews-fonts.s3.amazonaws.com
 .applemagickeyboard.com
 .applemasters.info
 .applemusic.berlin
+.applemusic.co
 .applemusic.com
 .applemusic.hamburg
 .applemusic.wang
@@ -9717,8 +9718,6 @@ zeenews-fonts.s3.amazonaws.com
 .gostorego.com
 .gosyntheticusa.com
 .got-game.org
-.got001.com
-.got002.com
 .gotcosmos.com
 .gotdns.ch
 .gotgayporn.com
@@ -11857,7 +11856,6 @@ zeenews-fonts.s3.amazonaws.com
 .jsfiddle.net
 .jshint.com
 .jstor.org
-.jstucdn.com
 .jtbc.joins.com
 .jtizyl.net
 .jtvnw.net
@@ -13230,6 +13228,7 @@ zeenews-fonts.s3.amazonaws.com
 .meetyourdevices.com
 .mefeedia.com
 .mefound.com
+.mega.io
 .megacorpwars.com
 .megaphone.fm
 .megaproxy.com
@@ -15827,7 +15826,6 @@ zeenews-fonts.s3.amazonaws.com
 .playboy.com
 .playboyplus.com
 .playbydurex.com
-.playcvn.com
 .player.4fusion.xyz
 .player.fm
 .playerjs.io
@@ -16877,10 +16875,6 @@ zeenews-fonts.s3.amazonaws.com
 .rrr626.net
 .rrr633.net
 .rrtis.com
-.rrys.tv
-.rrys2019.com
-.rrys2020.com
-.rrysapp.com
 .rsc.org
 .rsdlmonitor.com
 .rsf-chinese.org
@@ -24704,7 +24698,6 @@ zeenews-fonts.s3.amazonaws.com
 .yy0110.com
 .yy735.com
 .yyabo12.com
-.yyets.com
 .yyg.deptofhealth.xyz
 .yyhbet.com
 .yyii.org
@@ -24855,8 +24848,6 @@ zeenews-fonts.s3.amazonaws.com
 .zhwp.org
 .ziddu.com
 .zillionk.com
-.zimuzu.com
-.zimuzu.tv
 .zind.cloud
 .zinio.com
 .zionsoft.net
@@ -24869,8 +24860,6 @@ zeenews-fonts.s3.amazonaws.com
 .zkaip.com
 .zkoxv.com
 .zm
-.zmz2019.com
-.zmzapi.com
 .zndsk.com
 .zneth.com
 .znetlive.com
