@@ -1704,7 +1704,6 @@ zeenews-fonts.s3.amazonaws.com
 .aaronnieh.com
 .aarp
 .aashiengg.com
-.aast.edu
 .aavideo.live
 .aavs.xyz
 .abacusnews.com
@@ -1740,7 +1739,6 @@ zeenews-fonts.s3.amazonaws.com
 .aboutmcdonalds.com
 .aboutyourmini.com
 .abpchina.org
-.abs.edu
 .abyfine.web.id
 .ac
 .ac-pocketcamp.com
@@ -1921,7 +1919,6 @@ zeenews-fonts.s3.amazonaws.com
 .aetoscg.com
 .aex.com
 .af
-.af.mil
 .afamilycompany
 .afantibbs.com
 .afcp09.com
@@ -2352,7 +2349,6 @@ zeenews-fonts.s3.amazonaws.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
-.amrita.edu
 .ams02.space
 .ams1.racingvpn.com
 .amtb-taipei.org
@@ -2497,7 +2493,6 @@ zeenews-fonts.s3.amazonaws.com
 .api.phantom.avira-vpn.com
 .api.pncle8.com
 .api.proxlet.com
-.api.termius.com
 .api.threema.ch
 .api.vitservers.pw
 .api.wangrunxin.com
@@ -2790,9 +2785,7 @@ zeenews-fonts.s3.amazonaws.com
 .areyoucreditwise.com
 .aria.ms
 .arizona-friends-of-tibet.org
-.arlingtoncemetery.mil
 .armorgames.com
-.army.mil
 .armyporn.ml
 .arph.org
 .arphic.com
@@ -3222,7 +3215,6 @@ zeenews-fonts.s3.amazonaws.com
 .bannednews.org
 .banorte.com
 .bansheerocks.com
-.banweb.concordia-ny.edu
 .baramangaonline.com
 .barclaycard
 .barclays
@@ -3694,7 +3686,6 @@ zeenews-fonts.s3.amazonaws.com
 .bergherz.ch
 .beric.me
 .berkanawireless.com
-.berkeley.edu
 .berlintwitterwall.com
 .berzinarchives.com
 .bestbeats4u.com
@@ -3906,7 +3897,6 @@ zeenews-fonts.s3.amazonaws.com
 .bitballoon.com
 .bitbank.cc
 .bitbucket.org
-.bitc.bme.emory.edu
 .bitchute.com
 .bitcoin.org
 .bitcointalk.org
@@ -4559,7 +4549,6 @@ zeenews-fonts.s3.amazonaws.com
 .brocaproject.com
 .bronks.net
 .bronto.com
-.brookings.edu
 .brother
 .brotli.org
 .brovpn.io
@@ -5285,7 +5274,6 @@ zeenews-fonts.s3.amazonaws.com
 .cfxzp.com
 .cg
 .cgdepot.org
-.cgst.edu
 .ch.shvoong.com
 .ch5.cc
 .ch9.ms
@@ -5734,7 +5722,6 @@ zeenews-fonts.s3.amazonaws.com
 .cm
 .cm.spacetechnology.net
 .cm33.cf
-.cmail.cornell.edu
 .cmail19.com
 .cmcmarkets.com
 .cmcn.org
@@ -5742,7 +5729,6 @@ zeenews-fonts.s3.amazonaws.com
 .cmhalq.com
 .cmpaas.com
 .cms.korea.net
-.cmu.edu
 .cmule.com
 .cmule.net
 .cmule.org
@@ -5808,7 +5794,6 @@ zeenews-fonts.s3.amazonaws.com
 .cnshopin.com
 .cntube.net
 .cnyes.com
-.co.ng.mil
 .co.spacetechnology.net
 .coastshoxs.com
 .cobatt.com
@@ -6282,7 +6267,6 @@ zeenews-fonts.s3.amazonaws.com
 .dalailama.com
 .dalailama.it
 .dalailama.org
-.dalailama.usc.edu
 .dalailama80.org
 .dalailamacenter.org
 .dalailamafellows.org
@@ -6325,7 +6309,6 @@ zeenews-fonts.s3.amazonaws.com
 .darkness-risen.com
 .darktech.org
 .darktoy.net
-.darpa.mil
 .darrenliuwei.com
 .dart.dev
 .dartlang.org
@@ -6540,7 +6523,6 @@ zeenews-fonts.s3.amazonaws.com
 .df8mm.com
 .df911.xyz
 .df915.com
-.dfas.mil
 .dfh48.com
 .dfn.org
 .dgbc.coworking-space.cc
@@ -7031,7 +7013,6 @@ zeenews-fonts.s3.amazonaws.com
 .dstv
 .dtdns.net
 .dtiblog.com
-.dtic.mil
 .dtsell.com
 .dtunnel.com
 .dtv
@@ -7415,6 +7396,7 @@ zeenews-fonts.s3.amazonaws.com
 .edninfo.com
 .edns.biz
 .edoors.com
+.edu
 .edu-research.org
 .edubridge.com
 .educationtimes.com
@@ -8056,7 +8038,6 @@ zeenews-fonts.s3.amazonaws.com
 .falun-inlandnw.org
 .falun-ne.org
 .falun-ny.net
-.falun.caltech.edu
 .falunart.org
 .falunasia.info
 .falunau.org
@@ -9559,7 +9540,6 @@ zeenews-fonts.s3.amazonaws.com
 .goldenfrog.com
 .goldenshara5-net.freeproxy.fun
 .goldjizz.com
-.goldmail.etsu.edu
 .goldnikeclub.com
 .goldpoint
 .goldstep.net
@@ -9600,7 +9580,6 @@ zeenews-fonts.s3.amazonaws.com
 .google.berlin
 .google.bf
 .google.bt
-.google.calstate.edu
 .google.cat
 .google.cc
 .google.cf
@@ -9864,7 +9843,6 @@ zeenews-fonts.s3.amazonaws.com
 .gunsnroses.com
 .guo.media
 .guokehome.xicp.net
-.gusconnect.barnesjewishcollege.edu
 .gutteruncensored.com
 .gv.com
 .gv104.com
@@ -10275,7 +10253,6 @@ zeenews-fonts.s3.amazonaws.com
 .hkchronicles.com
 .hkchurch.org
 .hkcitizenmedia.com
-.hkcmi.edu
 .hkcnews.com
 .hkcoc.com
 .hkday.net
@@ -11388,7 +11365,6 @@ zeenews-fonts.s3.amazonaws.com
 .isaacmao.com
 .isaacscomputertips.com
 .isasecret.com
-.isc.sans.edu
 .isca-speech.org
 .ischool.com
 .isebaro.com
@@ -11442,7 +11418,6 @@ zeenews-fonts.s3.amazonaws.com
 .itnext.io
 .itools.info
 .itripto.com
-.its.caltech.edu
 .itsaol.com
 .itsapenalty.com
 .itsbetterwhenyouwinit.com
@@ -12274,7 +12249,6 @@ zeenews-fonts.s3.amazonaws.com
 .landrover
 .lang51.com
 .lang588.com
-.languagelog.ldc.upenn.edu
 .lanking.web44.net
 .lantern.io
 .lanternal.com
@@ -12316,7 +12290,6 @@ zeenews-fonts.s3.amazonaws.com
 .launchpadlibrarian.org
 .laurelvictoriagray.com
 .law-hongkong.com
-.law.uci.edu
 .lawofhongkong.com
 .lawsofhongkong.com
 .lawyerpu.com
@@ -12539,7 +12512,6 @@ zeenews-fonts.s3.amazonaws.com
 .linuxfromscratch.org
 .linuxmint.com
 .linuxtoy.org
-.lionmail.columbia.edu
 .lionsdesneigesmontblanc.over-blog.com
 .lionsroar.com
 .lipsy
@@ -13440,6 +13412,7 @@ zeenews-fonts.s3.amazonaws.com
 .mike.cz.cc
 .mikesoltys.com
 .miktex.org
+.mil
 .milnews2.com
 .milofetch.com
 .milph.net
@@ -13607,7 +13580,6 @@ zeenews-fonts.s3.amazonaws.com
 .mist.so
 .mist.vip
 .mit
-.mit.edu
 .mit.net
 .mitbbs.com
 .mitbbs.org
@@ -14269,8 +14241,6 @@ zeenews-fonts.s3.amazonaws.com
 .naver.com
 .naver.net
 .navercorp.com
-.navyfamily.navy.mil
-.navyreserve.navy.mil
 .naweeklytimes.com
 .nazi.net
 .nb.kity.pw
@@ -14471,7 +14441,6 @@ zeenews-fonts.s3.amazonaws.com
 .nflxvideo.net
 .nfsworld.com
 .ng
-.nga.mil
 .ngensis.com
 .ngeo.com
 .nginx.com
@@ -14684,7 +14653,6 @@ zeenews-fonts.s3.amazonaws.com
 .njactb.org
 .njuice.com
 .nke6.com
-.nko.navy.mil
 .nl
 .nl.hideproxy.me
 .nlfreevpn.com
@@ -14793,7 +14761,6 @@ zeenews-fonts.s3.amazonaws.com
 .ns2.name
 .ns3.name
 .ns5240.com
-.nsarchive.gwu.edu
 .nsimg.net
 .nsstatic.net
 .nssurge.com
@@ -15145,7 +15112,6 @@ zeenews-fonts.s3.amazonaws.com
 .oraclefoundation.org
 .oracleimg.com
 .orange
-.orangemail.okstate.edu
 .orbitera.com
 .orchid.com
 .order.shadowsocks.ch
@@ -16077,7 +16043,6 @@ zeenews-fonts.s3.amazonaws.com
 .primevideo.info
 .primevideo.org
 .primevideo.tv
-.princeton.edu
 .printeron.com
 .printersetupsupport.com
 .printspots.com
@@ -16712,7 +16677,6 @@ zeenews-fonts.s3.amazonaws.com
 .repsneakermall.com
 .repswing.com
 .res.iqucai.com
-.research.ivc.edu
 .researchandcare.org
 .researchgate.net
 .researchintel.com
@@ -17628,7 +17592,6 @@ zeenews-fonts.s3.amazonaws.com
 .smathis.com
 .smchbooks.com
 .smhric.org
-.smith.edu
 .smoqueed.com
 .smpte.org
 .smt.live
@@ -17660,7 +17623,6 @@ zeenews-fonts.s3.amazonaws.com
 .snowpear.com
 .soasta-dswb.com
 .sobees.com
-.soc.mil
 .socalbmw.com
 .socaltibet.org
 .soccermatchpass.com
@@ -17992,7 +17954,6 @@ zeenews-fonts.s3.amazonaws.com
 .standup4tibet.org
 .standupfortibet.org
 .standwithhk.org
-.stanford.edu
 .staples
 .star-telegram.com
 .starbucks.com
@@ -18550,6 +18511,7 @@ zeenews-fonts.s3.amazonaws.com
 .terapeak.com
 .terapeak.info
 .teraperk.com
+.termius.com
 .terra
 .terraclicks.com
 .terraform.io
@@ -19492,8 +19454,6 @@ zeenews-fonts.s3.amazonaws.com
 .ucanews.com
 .ucdavis.pubs.curricunet.com
 .ucdc1998.org
-.uchicago.edu
-.ucla.edu
 .uclaut.net
 .uconnect
 .udacity.com
@@ -19542,11 +19502,9 @@ zeenews-fonts.s3.amazonaws.com
 .um
 .um.domain888.pw
 .um.freepac.pw
-.umass.edu
 .umblr.com
 .umei.cc
 .umei.fun
-.umich.edu
 .ummah.com
 .umyaquene.gq
 .un.org
@@ -19592,7 +19550,6 @@ zeenews-fonts.s3.amazonaws.com
 .unirule.cloud
 .unitedsocialpress.com
 .unitefortibet.org
-.unitrans.ucdavis.edu
 .unity.com
 .unity3d.com
 .universalorlando.com
@@ -19689,17 +19646,13 @@ zeenews-fonts.s3.amazonaws.com
 .users.skynet.be
 .usersfiles.com
 .usertrust.com
-.usfk.mil
 .usfuli.co
 .usgfx.com
 .ushahidi.com
 .ushuarencity.com
 .ushuarencity.echainhost.com
-.usma.edu
 .usmagazine.com
-.usmc.mil
 .usmgtcg.ning.com
-.usno.navy.mil
 .usocctn.com
 .ustibetcommittee.org
 .ustream.tv
@@ -20033,7 +19986,6 @@ zeenews-fonts.s3.amazonaws.com
 .vipshoes2.com
 .virbuzz.com
 .virgin
-.virginia.edu
 .virsto.com
 .virsto.net
 .virtuagirl2.com
@@ -20643,8 +20595,6 @@ zeenews-fonts.s3.amazonaws.com
 .weblagu.com
 .webmail.fix-well.com
 .webmail.mtco.com
-.webmail.oakland.edu
-.webmail.otis.edu
 .webmasta.org
 .webmoneyinfo.com
 .webmproject.org
@@ -20708,7 +20658,6 @@ zeenews-fonts.s3.amazonaws.com
 .westernshugdensociety.org
 .westernwolves.com
 .westkit.net
-.westpoint.edu
 .westword.com
 .wetinim.com
 .wetplace.com
@@ -20756,7 +20705,6 @@ zeenews-fonts.s3.amazonaws.com
 .whispertalks.com
 .white-plus.net
 .whitebear.freebearblog.org
-.whitmail.whitman.edu
 .who.int
 .whodns.xyz
 .whoer.net
@@ -21741,7 +21689,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.boyi188.com
 .www.brandibelle.com
 .www.breakwall.org
-.www.brenau.edu
 .www.browsercam.com
 .www.brsbox.com
 .www.bryanboy.com
@@ -21909,7 +21856,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.copangroup.com
 .www.corbacho.net
 .www.corbisimages.com
-.www.cornerstone.edu
 .www.cosmicarmchair.com
 .www.counterpunch.org
 .www.couwe.com
@@ -21953,7 +21899,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.dailytime.gq
 .www.dajinyule.vip
 .www.dakashangche.net
-.www.dalailama.umn.edu
 .www.dalailamanola.com
 .www.dalailamasandiego.org
 .www.danejones.com
@@ -22913,7 +22858,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.navweaps.com
 .www.nbclearn.com
 .www.nbty-china.com
-.www.ncat.edu
 .www.ne88.net
 .www.neihan8.com
 .www.neopets.com
@@ -23201,7 +23145,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.runnerinn.com
 .www.runox.biz
 .www.runox.net
-.www.rutgers.edu
 .www.rutor.org
 .www.rwsentosa.com
 .www.ry1002.com
@@ -23916,7 +23859,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.zz323.com
 .www.zz727.com
 .www.zzwav.com
-.www1.american.edu
 .www1.biz
 .www2.hele888.com
 .www2.ohchr.org
@@ -24393,7 +24335,6 @@ zeenews-fonts.s3.amazonaws.com
 .yahoosportsbook.com
 .yak.comxa.com
 .yakbutterblues.com
-.yale.edu
 .yam.com
 .yamaxun
 .yamaxun.com
