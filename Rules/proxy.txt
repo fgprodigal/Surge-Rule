@@ -13257,6 +13257,7 @@ zeenews-fonts.s3.amazonaws.com
 .medium.com
 .medium.systems
 .medley.com
+.medrxiv.org
 .meebo.com
 .meet.new
 .meetav.com
@@ -24852,6 +24853,7 @@ zeenews-fonts.s3.amazonaws.com
 .zengjinyan.org
 .zenguard.org
 .zenmate.com
+.zenodo.org
 .zensur.freerk.com
 .zentekinternational.com
 .zenvpn.net
