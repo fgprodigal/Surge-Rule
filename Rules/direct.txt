@@ -2705,6 +2705,7 @@ xb.dlservice.microsoft.com
 .2144gy.com
 .2146677.com
 .214yx.com
+.2155.com
 .217.net
 .217play.com
 .217wo.com
@@ -3410,6 +3411,7 @@ xb.dlservice.microsoft.com
 .333-555.com
 .33324333.com
 .333333.com
+.333666999.club
 .3339.cc
 .3339auto.com
 .333ck.com
@@ -3918,7 +3920,10 @@ xb.dlservice.microsoft.com
 .39655.com
 .3970yy.com
 .3975.com
+.3975ad.com
 .3975ad.xyz
+.3975app.com
+.3975cdn.com
 .398990.com
 .39ask.net
 .39box.com
@@ -5238,6 +5243,7 @@ xb.dlservice.microsoft.com
 .52115211.com
 .5211game.com
 .521360.com
+.52177.com
 .521che.com
 .521g.com
 .521g.org
@@ -9062,6 +9068,7 @@ xb.dlservice.microsoft.com
 .ag260.net
 .ag365.com
 .agalwood.net
+.agamepower.com
 .agcloudcs.com
 .agctc.com
 .age06.com
@@ -11355,6 +11362,7 @@ xb.dlservice.microsoft.com
 .baikezh.com
 .bailiaijia.com
 .bailiangroup.com
+.bailiguangmang.com
 .bailitech.com
 .bailitop.com
 .bailuqixiu.com
@@ -18476,6 +18484,7 @@ xb.dlservice.microsoft.com
 .coubei.com
 .counect.com
 .couns.com
+.couplefish.com
 .coupon996.com
 .couponmaster.store
 .coursegraph.com
@@ -22573,6 +22582,7 @@ xb.dlservice.microsoft.com
 .ebeta.org
 .ebfcn.com
 .ebfortune.com
+.ebibi.com
 .ebico.com
 .ebigear.com
 .ebingqilin.com
@@ -27673,6 +27683,7 @@ xb.dlservice.microsoft.com
 .guyidai.com
 .guyiyangsd.com
 .guyuenglish.com
+.guyungame.com
 .guzaosf.com
 .guzhangting.com
 .guzhifengds.com
@@ -49430,7 +49441,6 @@ xb.dlservice.microsoft.com
 .qycn.org
 .qydaili.com
 .qydimg.com
-.qydm.net
 .qydns1.com
 .qyec.com
 .qyer.com
@@ -53594,6 +53604,7 @@ xb.dlservice.microsoft.com
 .soliloquize.org
 .solo-launcher.com
 .solochex.com
+.solodonna.world
 .solosea.com
 .solotoon.com
 .solution9.net
@@ -54806,6 +54817,7 @@ xb.dlservice.microsoft.com
 .sy-home.com
 .sy25.com
 .sy2k.com
+.sy3.com
 .sy76.com
 .sy916.net
 .sy9d.com
@@ -57453,6 +57465,7 @@ xb.dlservice.microsoft.com
 .tuchong.net
 .tuchuang.org
 .tuchuang001.com
+.tuchuang188.com
 .tucia.net
 .tucoo.com
 .tudai.cc
@@ -62845,7 +62858,6 @@ xb.dlservice.microsoft.com
 .xf3z.com
 .xf4hs.com
 .xf5z.com
-.xf9168.com
 .xfabs.com
 .xfannix.com
 .xfb315.com
@@ -63662,6 +63674,7 @@ xb.dlservice.microsoft.com
 .ximalaya.com
 .ximalayaos.com
 .ximgs.net
+.ximiplay.com
 .ximiued.com
 .ximiyouxi.com
 .ximizi.com
@@ -64502,6 +64515,7 @@ xb.dlservice.microsoft.com
 .xntt.com
 .xntv.tv
 .xnw.com
+.xnwan.com
 .xnwx2014.net
 .xnxin.com
 .xny365.com
@@ -65430,7 +65444,6 @@ xb.dlservice.microsoft.com
 .yangyi08.com
 .yangyingming.com
 .yangyongquan.com
-.yangyoulin.com
 .yangyq.net
 .yangzhe1991.org
 .yangzhi.net
@@ -66418,6 +66431,7 @@ xb.dlservice.microsoft.com
 .yiruanwang.com
 .yiruide.com
 .yiruikecorp.com
+.yiruituo.com
 .yisa.com
 .yisafe.co
 .yisanban.com
