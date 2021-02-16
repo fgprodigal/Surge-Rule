@@ -3763,7 +3763,6 @@ xb.dlservice.microsoft.com
 .365weifu.com
 .365wenku.com
 .365world.com
-.365wos.com
 .365xiaoyanzi.com
 .365xiazai.com
 .365xuet.com
@@ -6381,7 +6380,6 @@ xb.dlservice.microsoft.com
 .6688.com
 .66880.com
 .66889.net
-.668891.com
 .668895.com
 .6688pay.com
 .668app.com
@@ -8029,6 +8027,7 @@ xb.dlservice.microsoft.com
 .93sdk.com
 .93soso.com
 .93tyy.com
+.93wgames.com
 .93zp.com
 .93zw.com
 .941.so
@@ -9050,7 +9049,6 @@ xb.dlservice.microsoft.com
 .afilmb.com
 .afjk.com
 .afjob88.com
-.afoo.me
 .afriendx.com
 .afshanghai.org
 .aft1v1.com
@@ -9063,7 +9061,6 @@ xb.dlservice.microsoft.com
 .afxbbs.com
 .afzhan.com
 .ag17.wang
-.ag260.net
 .ag365.com
 .agalwood.net
 .agamepower.com
@@ -10391,7 +10388,6 @@ xb.dlservice.microsoft.com
 .apelearn.com
 .apesk.com
 .apetdog.com
-.apex100.com
 .apexmic.com
 .apexyun.com
 .apgblogs.com
@@ -11737,7 +11733,6 @@ xb.dlservice.microsoft.com
 .barstowcollege.net
 .bartender.cc
 .bartholomewart.com
-.bartmoney.com
 .base64.us
 .base9174.com
 .basemu.com
@@ -13767,7 +13762,6 @@ xb.dlservice.microsoft.com
 .budueba.com
 .bufan.com
 .buffst.com
-.bug200.com
 .bughd.com
 .bugku.com
 .bugnull.com
@@ -19234,6 +19228,7 @@ xb.dlservice.microsoft.com
 .cxmms.com
 .cxmt.com
 .cxmtc.net
+.cxqb.net
 .cxsw3d.com
 .cxsyjy.com
 .cxta.com
@@ -20860,7 +20855,6 @@ xb.dlservice.microsoft.com
 .dingdongcloud.com
 .dingdongqb.com
 .dingfang123.com
-.dingguajiao.com
 .dinghaiec.com
 .dinghuaren.com
 .dinghuihuojia.com
@@ -23904,7 +23898,6 @@ xb.dlservice.microsoft.com
 .faceu.net
 .faceui.com
 .faceunity.com
-.faceye.net
 .facri.com
 .factj.com
 .factube.com
@@ -25163,7 +25156,6 @@ xb.dlservice.microsoft.com
 .fox800.xyz
 .foxbeen.com
 .foxconn.com
-.foxease.com
 .foxera.com
 .foxmail.com
 .foxphp.com
@@ -27646,7 +27638,6 @@ xb.dlservice.microsoft.com
 .gupen.com
 .gupiao111.com
 .gupiao135.com
-.gupiao266.vip
 .gupiao3.com
 .gupiao8.com
 .gupiaowajue.com
@@ -27694,7 +27685,6 @@ xb.dlservice.microsoft.com
 .gw-ec.com
 .gw2field.com
 .gw2sc.com
-.gw630.com
 .gw6c.com
 .gw8888.com
 .gwamcc.com
@@ -29393,7 +29383,6 @@ xb.dlservice.microsoft.com
 .hemayun.com
 .hemayx.com
 .heminjie.com
-.hemnq.com
 .hempelgroup.com
 .hen360.com
 .henan100.com
@@ -30070,7 +30059,6 @@ xb.dlservice.microsoft.com
 .hnapay.com
 .hnayg.com
 .hnbaiyun.com
-.hnbka.com
 .hnbljy.com
 .hnboxu.com
 .hnbwsd.com
@@ -31572,7 +31560,6 @@ xb.dlservice.microsoft.com
 .hx2car.com
 .hx2cars.com
 .hx36.net
-.hx8666.com
 .hx8886.com
 .hx95.com
 .hx99.net
@@ -31640,7 +31627,6 @@ xb.dlservice.microsoft.com
 .hxzdhn.com
 .hxzxg.com
 .hy-cgp.com
-.hy-cn.com
 .hy-zr.com
 .hy01888.com
 .hy05190134.com
@@ -39765,6 +39751,7 @@ xb.dlservice.microsoft.com
 .linux265.com
 .linux5.net
 .linux6.com
+.linuxacme.icu
 .linuxba.com
 .linuxbaike.com
 .linuxbaodian.com
@@ -46847,6 +46834,7 @@ xb.dlservice.microsoft.com
 .piaoshen.com
 .piaotian.org
 .piaotian.us
+.piaotian5.com
 .piaotongyun.com
 .piaowu99.com
 .piaowusong.com
@@ -47770,7 +47758,6 @@ xb.dlservice.microsoft.com
 .pyynsm.com
 .pyyx.com
 .pz0033.com
-.pz1789.com
 .pz18155.com
 .pz2777.com
 .pz2999.com
@@ -50503,6 +50490,7 @@ xb.dlservice.microsoft.com
 .ruuxee.com
 .ruvar.com
 .ruvisas.com
+.ruwen5.com
 .ruxianke.com
 .ruyahui.com
 .ruyi.ai
@@ -56845,7 +56833,6 @@ xb.dlservice.microsoft.com
 .tongtool.com
 .tongwang.net
 .tongxiang.net
-.tongxiehui.net
 .tongxin.com
 .tongxin.org
 .tongxinclub.com
@@ -57321,6 +57308,7 @@ xb.dlservice.microsoft.com
 .tt-beian.com
 .tt-bike.com
 .tt-ly.com
+.tt-tz.com
 .tt116114.com
 .tt1386.com
 .tt1h.com
@@ -59310,6 +59298,7 @@ xb.dlservice.microsoft.com
 .vqudo.com
 .vqudochina.com
 .vqudoshop.com
+.vqxfj.bar
 .vr-cat.com
 .vr1000.com
 .vr186.com
@@ -62511,7 +62500,6 @@ xb.dlservice.microsoft.com
 .x-medex.com
 .x-mol.com
 .x-plans.com
-.x-ssp.com
 .x0431.com
 .x0769.com
 .x118.net
@@ -64005,7 +63993,6 @@ xb.dlservice.microsoft.com
 .xinyelianmeng.com
 .xinyicms.com
 .xinyifu.net
-.xinyiqi.net
 .xinyisemi.com
 .xinyitt.com
 .xinyo100.com
@@ -64468,7 +64455,6 @@ xb.dlservice.microsoft.com
 .xn--fjqz50cv5q3so.ltd
 .xn--fjqz50cv5q3so.online
 .xn--glr604k.com
-.xn--gtv651d.com
 .xn--hgvp6a86z.xn--6qq986b3xl
 .xn--i7qt52bvsr0u0a.com
 .xn--io0a7i
