@@ -54,6 +54,7 @@ gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
 github-avatars.oss-cn-hongkong.aliyuncs.com
+github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 homebrew.bintray.com
 hpstore.corpmerchandise.com
@@ -1821,6 +1822,7 @@ zeenews-fonts.s3.amazonaws.com
 .actionnetwork.org
 .actionsportsready.absorbtraining.com
 .active
+.activeteachonline.com
 .activism.com
 .activpn.com
 .acts29network.org
@@ -1839,6 +1841,7 @@ zeenews-fonts.s3.amazonaws.com
 .adcex.com
 .adcommerce.tv
 .adcp002.com
+.addison-wesley.ch
 .addthis.com
 .addthiscdn.com
 .addthisedge.com
@@ -1884,6 +1887,7 @@ zeenews-fonts.s3.amazonaws.com
 .adobelogin.com
 .adobeoobe.com
 .adobeplatinumclub.com
+.adobepress.ch
 .adobeprojectm.com
 .adobesc.com
 .adobesign.com
@@ -5655,6 +5659,7 @@ zeenews-fonts.s3.amazonaws.com
 .cisconetspace.net
 .ciscopartnermarketing.com
 .ciscopowercube.com
+.ciscopress.ch
 .ciscoprice.com
 .ciscoresearch.com
 .ciscosoftware.com
@@ -5954,6 +5959,9 @@ zeenews-fonts.s3.amazonaws.com
 .connected-drive.com
 .connectedcommerce.com
 .connectedcommerce.tv
+.connectionsacademy.com
+.connectionseducation.com
+.connectionslearning.com
 .connectors
 .connectssr.com
 .conquerwithcharacter.com
@@ -11000,6 +11008,7 @@ zeenews-fonts.s3.amazonaws.com
 .ilife.wang
 .illianacomputerrecycling.com
 .illusionfactory.com
+.ilongman.com
 .ilookchina.net
 .ilove80.be
 .iloveinterracial.com
@@ -11221,6 +11230,7 @@ zeenews-fonts.s3.amazonaws.com
 .intagram.com
 .intagrm.com
 .intc.com
+.integral7.com
 .integratedsandt.com
 .intel
 .intel-research.net
@@ -11273,6 +11283,7 @@ zeenews-fonts.s3.amazonaws.com
 .intelvmwarecybersecurity.com
 .intercom.io
 .international-news.newsmagazine.asia
+.internationalconnectionsacademy.com
 .internationalsaimoe.com
 .internet-studies.org
 .internet.org
@@ -12486,6 +12497,7 @@ zeenews-fonts.s3.amazonaws.com
 .lehua.weebly.com
 .leisurepro.com
 .lematin.ch
+.lencr.org
 .lenovoappspot.com
 .lenwhite.com
 .leon.net
@@ -12747,6 +12759,7 @@ zeenews-fonts.s3.amazonaws.com
 .long3158.com
 .longhu99.com
 .longjohnsilvers.com
+.longman.ch
 .longmusic.com
 .longtailvideo.com
 .longtermly.net
@@ -14071,6 +14084,7 @@ zeenews-fonts.s3.amazonaws.com
 .muslimmatters.org
 .muslimvideo.com
 .mustseeindia.com
+.mut.ch
 .muthead.com
 .mutual
 .mutuelle
@@ -14208,6 +14222,7 @@ zeenews-fonts.s3.amazonaws.com
 .mygaysites.com
 .mygraybar.graybar.com
 .myhas.gq
+.myhelpinglab.com
 .myhhg.org
 .myhotbook.com
 .myhotsite.net
@@ -14220,6 +14235,7 @@ zeenews-fonts.s3.amazonaws.com
 .mykomica.org
 .mylcloud.net
 .mylftv.com
+.mylogiclab.com
 .myluckymap.com
 .mylust.com
 .mymediarom.com
@@ -14234,6 +14250,8 @@ zeenews-fonts.s3.amazonaws.com
 .mynumber.org
 .myothantsinaung.weebly.com
 .myparagliding.com
+.mypearson.com
+.mypearsonenglish.ch
 .mypets.ws
 .mypicture.info
 .mypop3.net
@@ -14261,6 +14279,7 @@ zeenews-fonts.s3.amazonaws.com
 .mysimsracing.com
 .mysinablog.com
 .mysinchew.com
+.mysocialworklab.com
 .myspace.com
 .myspacecdn.com
 .mysql.com
@@ -15704,6 +15723,29 @@ zeenews-fonts.s3.amazonaws.com
 .peachyforum.com
 .peacocktv.com
 .pearlher.org
+.pearson-anaya.com
+.pearson-intl.com
+.pearson-schule.ch
+.pearson-studium.ch
+.pearson.ch
+.pearson.com
+.pearsonactivelearn.com
+.pearsonassessment.be
+.pearsonassessments.com
+.pearsonclinical.be
+.pearsoncmg.com
+.pearsoncred.com
+.pearsoned.com
+.pearsoneducacion.net
+.pearsoneducationbooks.com
+.pearsonelt.ch
+.pearsonelt.com
+.pearsonenespanol.com
+.pearsonhighered.com
+.pearsonlongman.ch
+.pearsononlineacademy.com
+.pearsonvue.com
+.pearsonvue.net
 .pecelmadiun.web.id
 .pediawan.web.id
 .peeasian.com
@@ -15985,6 +16027,7 @@ zeenews-fonts.s3.amazonaws.com
 .pnc
 .po2b.com
 .pobieramy.top
+.pobl-content.com
 .pocketbiketrader.com
 .pocketcasts.com
 .podbean.com
@@ -16419,6 +16462,8 @@ zeenews-fonts.s3.amazonaws.com
 .puuko.com
 .pvp.net
 .pvp.tv
+.pvue1.com
+.pvue2.com
 .pvzgw2.com
 .pvzheroes.com
 .pw.fiddlefish.net
@@ -18121,6 +18166,7 @@ zeenews-fonts.s3.amazonaws.com
 .starfox.com
 .stargate.one
 .starhub
+.stark-verlag.ch
 .starlink.one
 .starp2p.com
 .starthereright.weebly.com
@@ -18509,6 +18555,7 @@ zeenews-fonts.s3.amazonaws.com
 .taiwanyes.ning.com
 .takeafile.com
 .takegoto.com
+.talentlens.com
 .talesofwisdom.com
 .talk853.com
 .talk910.com
@@ -18798,6 +18845,7 @@ zeenews-fonts.s3.amazonaws.com
 .thelancet.com
 .thelegendarystarfy.com
 .themarvelexperiencetour.com
+.themathsfactor.com
 .themecraft.net
 .thememriblog.org
 .themoviedb.org
@@ -24355,6 +24403,7 @@ zeenews-fonts.s3.amazonaws.com
 .xn--noss43i.com
 .xn--oiq.cc
 .xn--p8j9a0d9c9a.xn--q9jyb4c
+.xn--pearsonenespaol-brb.com
 .xn--pgb3ceoj
 .xn--q41am8x.com
 .xn--qcka1pmc
