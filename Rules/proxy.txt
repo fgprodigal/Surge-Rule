@@ -2585,7 +2585,6 @@ zeenews-fonts.s3.amazonaws.com
 .app.peardeck.com
 .app.staging.nuorder.com
 .app.stex.com
-.app.tutanota.com
 .app0le.com
 .app2.gq
 .app365.gq
@@ -2833,6 +2832,7 @@ zeenews-fonts.s3.amazonaws.com
 .area120.com
 .areca-backup.org
 .arena.taipei
+.arewereadyyet.com
 .arextv.com
 .arexv.com
 .areyoucreditwise.com
@@ -7586,6 +7586,7 @@ zeenews-fonts.s3.amazonaws.com
 .electricluxury.com
 .electronicarts.com
 .electronjs.org
+.element.io
 .element14.com
 .elephantsdream.org
 .elephantvpn.com
@@ -13878,6 +13879,7 @@ zeenews-fonts.s3.amazonaws.com
 .modelhub.com
 .modfetish.com
 .modmyi.com
+.modular.im
 .moeerolibrary.com
 .moeshare.com
 .moess.cc
@@ -17032,6 +17034,7 @@ zeenews-fonts.s3.amazonaws.com
 .riolearn.org
 .riot-games.com
 .riot.com
+.riot.im
 .riot.net
 .riotcdn.net
 .riotforgegames.com
@@ -19599,6 +19602,8 @@ zeenews-fonts.s3.amazonaws.com
 .turntable.fm
 .tusfiles.net
 .tushycash.com
+.tuta.io
+.tutanota.com
 .tuttogratis.it
 .tuvpn.com
 .tuzaijidi.com
@@ -20188,6 +20193,7 @@ zeenews-fonts.s3.amazonaws.com
 .vct.news
 .vds.rightster.com
 .ve
+.vector.im
 .vedaadvantage.com
 .veecos.net
 .veesecurity.com
