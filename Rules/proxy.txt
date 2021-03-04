@@ -39,6 +39,7 @@ dfp6rglgjqszk.cloudfront.net
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
 ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
 dtlgalleryint.cloudapp.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
@@ -64,6 +65,7 @@ imperial.insendi.com
 interactive-examples.mdn.mozilla.net
 itunes-apple.com.akadns.net
 lgelectronics.122.2o7.net
+linear-abematv.akamaized.net
 lolstatic-a.akamaihd.net
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
@@ -177,6 +179,7 @@ ubisoft-uplay-savegames.s3.amazonaws.com
 venmo.s3.amazonaws.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
+vod-abematv.akamaized.net
 widgets.stripst.com
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
@@ -17343,6 +17346,7 @@ zeenews-fonts.s3.amazonaws.com
 .sbobet.com
 .sbofa88.com
 .sbs
+.sbuxcard.com
 .sc
 .sc-cdn.net
 .sc1288.co
@@ -18273,9 +18277,25 @@ zeenews-fonts.s3.amazonaws.com
 .standwithhk.org
 .staples
 .star-telegram.com
+.starbucks-stars.com
+.starbucks.be
+.starbucks.ch
+.starbucks.co.id
 .starbucks.com
+.starbucks.com.co
+.starbucks.it
+.starbucks.pt
+.starbucks.rs
 .starbucksathome.com
+.starbuckscardb2b.com
+.starbuckscoffeegear.com
+.starbuckscoffeegearstore.com
+.starbucksforlife.com
+.starbuckspoq.com
 .starbucksreserve.com
+.starbucksrewardsstarland.com
+.starbucksrtd.com
+.starbuckssummergame.com
 .starcelebs.com
 .starchu.com
 .starcraft.com
