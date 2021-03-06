@@ -998,7 +998,6 @@ xb.dlservice.microsoft.com
 .086jx.com
 .086kd.com
 .086mai.com
-.086xinhua.com
 .08817k.com
 .08817y.com
 .08817z.com
@@ -4059,7 +4058,6 @@ xb.dlservice.microsoft.com
 .3mtw.com
 .3n110.com
 .3nian.com
-.3pk2.com
 .3png.com
 .3poo.com
 .3q2008.com
@@ -7109,7 +7107,6 @@ xb.dlservice.microsoft.com
 .802203.com
 .8038.pw
 .8044445.com
-.806699a.com
 .80710.com
 .80714.com
 .80800.vip
@@ -8658,7 +8655,6 @@ xb.dlservice.microsoft.com
 .abcve.com
 .abcxs.com
 .abcydia.com
-.abcyzf.com
 .abczw.com
 .abdstem.com
 .abe-tech.com
@@ -10854,7 +10850,6 @@ xb.dlservice.microsoft.com
 .atzjg.net
 .atzlinux.com
 .atzuche.com
-.au54150.icu
 .auak.com
 .aucanlink.com
 .aucheng.cc
@@ -13736,6 +13731,7 @@ xb.dlservice.microsoft.com
 .buguangdeng.com
 .bugucn.com
 .bugutime.com
+.bugwz.com
 .bugxia.com
 .buhuiwan.com
 .buhuyo.com
@@ -22356,7 +22352,6 @@ xb.dlservice.microsoft.com
 .e6816.com
 .e68cname.com
 .e6hd.com
-.e7560.net
 .e7890.com
 .e7e.co
 .e7e6.net
@@ -26295,7 +26290,6 @@ xb.dlservice.microsoft.com
 .geyo.com
 .geyoukj.com
 .gezhixq.net
-.gezhongshu.com
 .gezida.com
 .gezila.com
 .gf-funds.com
@@ -27375,6 +27369,7 @@ xb.dlservice.microsoft.com
 .guardrailchina.com
 .guatian.com
 .guazhuan.com
+.guazi-apps.com
 .guazi.com
 .guazipai.com
 .guazistatic.com
@@ -28799,6 +28794,7 @@ xb.dlservice.microsoft.com
 .hbha027.com
 .hbhande.com
 .hbhaolinju.com
+.hbhcdn.com
 .hbhdhd.com
 .hbhm.net
 .hbhtcm.com
@@ -29452,7 +29448,6 @@ xb.dlservice.microsoft.com
 .hfbaogao.com
 .hfbeta.com
 .hfbz.com
-.hfccri.com
 .hfcn.cc
 .hfcyh.com
 .hffund.com
@@ -46014,6 +46009,7 @@ xb.dlservice.microsoft.com
 .p4vip.com
 .p512.com
 .p5w.net
+.p8games.com
 .p99998888.com
 .pa18.com
 .pa1pa.com
@@ -50020,7 +50016,6 @@ xb.dlservice.microsoft.com
 .romhui.com
 .romjd.com
 .romleyuan.com
-.romman.net
 .romphone.net
 .romwang.com
 .romzhijia.net
@@ -51716,6 +51711,7 @@ xb.dlservice.microsoft.com
 .shellsec.com
 .shelter-china.com
 .shelterdome.net
+.sheluyou.com
 .shelwee.com
 .shen-hua.com
 .shen1shen.com
@@ -59843,6 +59839,7 @@ xb.dlservice.microsoft.com
 .wdaveh5game.com
 .wddcn.com
 .wddream.com
+.wddun.com
 .wdfangyi.com
 .wdfok.com
 .wdfxw.net
@@ -62044,6 +62041,7 @@ xb.dlservice.microsoft.com
 .wvshare.com
 .ww2bbs.net
 .wwaaffxx.com
+.wwc-blog.com
 .wwe008.com
 .wwenglish.com
 .wwenglish.org
@@ -63555,6 +63553,7 @@ xb.dlservice.microsoft.com
 .xinfushe.com
 .xing-yan.com
 .xing008.com
+.xing73.com
 .xingaiming.com
 .xingames.com
 .xingbangip.com
@@ -66609,7 +66608,6 @@ xb.dlservice.microsoft.com
 .ynshijian.com
 .ynsjg.com
 .ynteng.com
-.yntlgs.com
 .ynwin.com
 .ynxr.com
 .ynxxb.com
