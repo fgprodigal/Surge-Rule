@@ -5,6 +5,7 @@ apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 asahishimbun.sc.omtrdc.net
+audio-ak-spotify-com.akamaized.net
 avatargarenanow-a.akamaihd.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
@@ -57,6 +58,7 @@ gigabyte2.azureedge.net
 github-avatars.oss-cn-hongkong.aliyuncs.com
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
+heads4-ak-spotify-com.akamaized.net
 homebrew.bintray.com
 hpstore.corpmerchandise.com
 img-prod-cms-rt-microsoft-com.akamaized.net
