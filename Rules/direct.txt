@@ -1377,7 +1377,6 @@ xb.dlservice.microsoft.com
 .114-91.com
 .1140086.com
 .114160.com
-.1144kan.com
 .11467.com
 .114admall.com
 .114best.com
@@ -2143,7 +2142,6 @@ xb.dlservice.microsoft.com
 .17ivr.com
 .17jiaoyu.com
 .17jita.com
-.17jq.net
 .17k.com
 .17kanzb.com
 .17kgk.com
@@ -3174,7 +3172,6 @@ xb.dlservice.microsoft.com
 .2r3r.com
 .2r9qgy.com
 .2rich.net
-.2s.tv
 .2seachbusiness.com
 .2shihui.net
 .2shoujie.com
@@ -3355,7 +3352,6 @@ xb.dlservice.microsoft.com
 .32668g.com
 .32800.com
 .328f.com
-.329329.com
 .32bh.com
 .32ka.com
 .32r.com
@@ -4390,6 +4386,7 @@ xb.dlservice.microsoft.com
 .4inlook.com
 .4jplus.com
 .4k123.com
+.4kbizhi.com
 .4khi.com
 .4kong.com
 .4kyy.com
@@ -6109,7 +6106,6 @@ xb.dlservice.microsoft.com
 .5wxw.com
 .5x9d.com
 .5xcg.com
-.5xge.com
 .5xiang0.com
 .5xiaobo.com
 .5xini.com
@@ -7459,6 +7455,7 @@ xb.dlservice.microsoft.com
 .88haodian.com
 .88hom.com
 .88ht.com
+.88htu.com
 .88hu.com
 .88jianshen.com
 .88jq.net
@@ -9382,6 +9379,7 @@ xb.dlservice.microsoft.com
 .aiqiye.cc
 .aiqiyi.com
 .aiqiyivip.com
+.aiqu.com
 .aiqu.la
 .aiqucn.com
 .aiquya.com
@@ -9415,6 +9413,7 @@ xb.dlservice.microsoft.com
 .airtu.com
 .airwh.com
 .ais56.com
+.aisaohuo.com
 .aisaw.com
 .aisbeijing.com
 .aisearch.cc
@@ -11176,7 +11175,6 @@ xb.dlservice.microsoft.com
 .bahens.com
 .bai.com
 .bai68.com
-.baiaidu.com
 .baibaidu.com
 .baibailai.com
 .baibaoyun.com
@@ -11951,7 +11949,6 @@ xb.dlservice.microsoft.com
 .beekka.com
 .beelink.com
 .beemarket.tv
-.beeopyer.com
 .beep365.com
 .beeplay123.com
 .beervm.club
@@ -12716,6 +12713,7 @@ xb.dlservice.microsoft.com
 .bizconfstreaming.com
 .bizgame.com
 .bizhi360.com
+.bizhi88.com
 .bizhicool.com
 .bizhidaquan.com
 .bizhimi.com
@@ -16169,6 +16167,7 @@ xb.dlservice.microsoft.com
 .chinahyyj.com
 .chinai.shop
 .chinaidaa.org
+.chinaidcnet.net
 .chinaidns.com
 .chinaido.com
 .chinaielts.org
@@ -18560,6 +18559,7 @@ xb.dlservice.microsoft.com
 .cqhkcdns.com
 .cqhpoldi.com
 .cqhxgf.com
+.cqhxzb.com
 .cqhydraulic.com
 .cqiits.com
 .cqindex.com
@@ -20313,6 +20313,7 @@ xb.dlservice.microsoft.com
 .desktopcal.com
 .desktopqa.com
 .desktx.com
+.deskwc.com
 .despiertocfilms.com
 .destoon.com
 .detian-chem.com
@@ -20457,6 +20458,7 @@ xb.dlservice.microsoft.com
 .dgsme.org
 .dgt-factory.com
 .dgtle.com
+.dgtpcj.com
 .dgtuoyue.com
 .dgwap.com
 .dgwtrl.com
@@ -22870,6 +22872,7 @@ xb.dlservice.microsoft.com
 .efy-tech.com
 .efyt6.com
 .egaoxiu.com
+.egbgedu.com
 .egfcare.com
 .egg-born.org
 .egg.htcsense.com
@@ -24647,6 +24650,7 @@ xb.dlservice.microsoft.com
 .finereport.com
 .finereporthelp.com
 .finetopix.com
+.finetopix.net
 .fineui.com
 .fineway.com
 .finger66.com
@@ -28317,7 +28321,6 @@ xb.dlservice.microsoft.com
 .hanmeilin.com
 .hannor.com
 .hanpinyuan.com
-.hans-leesun.com
 .hanshijiaoye.com
 .hanshow.com
 .hanshuliang.com
@@ -31639,6 +31642,7 @@ xb.dlservice.microsoft.com
 .hzhx.com
 .hzins.com
 .hzins.net
+.hzirun.com
 .hzjingxian.com
 .hzjinsen.com
 .hzjizhun.com
@@ -40544,7 +40548,6 @@ xb.dlservice.microsoft.com
 .lubansoft.com
 .lubanu.com
 .lubanway.com
-.lubeabc.com
 .lubiao.com
 .lubotv.com
 .luchangwei.net
@@ -41094,6 +41097,7 @@ xb.dlservice.microsoft.com
 .macshuo.com
 .macsky.net
 .macsofter.com
+.macv.com
 .macw.com
 .macwk.com
 .macz.com
@@ -47321,7 +47325,6 @@ xb.dlservice.microsoft.com
 .prjdrj.com
 .prm.dji.com
 .pro6e.com
-.proassist-hsv.com
 .procar.cc
 .process-safety-lab.com
 .processon.com
@@ -61025,6 +61028,7 @@ xb.dlservice.microsoft.com
 .windows10zj.com
 .windows7adobe.com
 .windows7en.com
+.windows7home.com
 .windowszj.com
 .windowszj.net
 .windrunner.me
@@ -61118,6 +61122,7 @@ xb.dlservice.microsoft.com
 .wismom.com
 .wisrc.com
 .wistone.com
+.wiswonder.com
 .wit-parking.com
 .wit0.com
 .wit5.com
