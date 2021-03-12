@@ -6874,6 +6874,7 @@ zeenews-fonts.s3.amazonaws.com
 .dmhy.org
 .dmm-extension.com
 .dmm.com
+.dmmapis.com
 .dmmbus.com
 .dnaindia.com
 .dnainfo.com
