@@ -9963,7 +9963,6 @@ xb.dlservice.microsoft.com
 .andefz.com
 .andfx.net
 .andhj.com
-.andouw.com
 .andpay.me
 .andreader.com
 .android-doc.com
@@ -16616,7 +16615,6 @@ xb.dlservice.microsoft.com
 .chongdiantou.com
 .chongdongshequ.com
 .chonghi.com
-.chongjianghu.com
 .chongnuoji.com
 .chongqingdongjin.com
 .chongsoft.com
@@ -37322,6 +37320,7 @@ xb.dlservice.microsoft.com
 .kjcad.net
 .kjcdn.com
 .kjcgzh.com
+.kjchangdu.com
 .kjchina.com
 .kjcity.com
 .kjcxpp.com
@@ -50955,7 +50954,6 @@ xb.dlservice.microsoft.com
 .sdxietong.com
 .sdxitong.com
 .sdxjpc.com
-.sdxsdc.com
 .sdxvisa.com
 .sdxwy168.com
 .sdxyxhj.com
@@ -58031,7 +58029,6 @@ xb.dlservice.microsoft.com
 .umaman.com
 .umbpay.com
 .umcloud.com
-.umdshouman.com
 .umei.cc
 .umelady.com
 .umeng.co
