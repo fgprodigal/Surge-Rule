@@ -182,10 +182,12 @@ venmo.s3.amazonaws.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
 vod-abematv.akamaized.net
+vod-dash-uk-live.akamaized.net
 vod-dash-ww-live.akamaized.net
-vod-dash-ww-live.bbcfmt.s.llnwi.net
+vod-hls-uk-live.akamaized.net
+vod-sub-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
 vod-thumb-ww-live.akamaized.net
-vod-thumb-ww-live.bbcfmt.s.llnwi.net
 widgets.stripst.com
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
@@ -19470,6 +19472,8 @@ zeenews-fonts.s3.amazonaws.com
 .tickling-videos.com
 .tickmill.com
 .tictoc.video
+.tidal.com
+.tidalhifi.com
 .tidebit.com
 .tidelift.com
 .tidex.com
@@ -21528,6 +21532,7 @@ zeenews-fonts.s3.amazonaws.com
 .williamlong.jaiku.com
 .willw.net
 .wilmar
+.wimpmusic.com
 .win.hicam.net
 .win123.ml
 .win558.com
