@@ -15394,6 +15394,7 @@ zeenews-fonts.s3.amazonaws.com
 .npmjs.com
 .npmjs.org
 .npnt.me
+.npr.org
 .npsboost.com
 .nqma.net
 .nr
