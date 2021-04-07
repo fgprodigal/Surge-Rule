@@ -176,6 +176,7 @@ steamcommunity-a.akamaihd.net
 steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
+steamvideo-a.akamaihd.net
 tesla-cdn.thron.com
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
