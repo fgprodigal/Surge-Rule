@@ -652,7 +652,6 @@ xb.dlservice.microsoft.com
 .0438news.com
 .044045.com
 .04486.com
-.04518888.com
 .0452e.com
 .0453.com
 .0455zd.com
@@ -5533,6 +5532,7 @@ xb.dlservice.microsoft.com
 .557.net
 .5577.com
 .5588.tv
+.5599.com
 .55bbs.com
 .55cc.cc
 .55coin.com
@@ -6481,7 +6481,6 @@ xb.dlservice.microsoft.com
 .6tie.com
 .6v.com
 .6v68.com
-.6vdy.com
 .6vhao.tv
 .6vps.net
 .6wan.com
@@ -8921,6 +8920,7 @@ xb.dlservice.microsoft.com
 .agotools.com
 .agrantsem.com
 .agri35.com
+.agrittex.com
 .agriturismi-sicilia.com
 .agrochemshow.com
 .agrodt.com
@@ -9941,7 +9941,6 @@ xb.dlservice.microsoft.com
 .aniu.so
 .aniu.tv
 .anix.xyz
-.anji-auto.com
 .anji-ceva.com
 .anji-logistics.com
 .anji-tonghui.com
@@ -13909,6 +13908,7 @@ xb.dlservice.microsoft.com
 .caaladi.com
 .caanb.com
 .caaorg.com
+.caasbuy.com
 .caasse.com
 .caayee.com
 .cabbagebox.com
@@ -17214,6 +17214,7 @@ xb.dlservice.microsoft.com
 .cn360cn.com
 .cn365c.com
 .cn365d.com
+.cn365e.com
 .cn3k5.com
 .cn3v.net
 .cn3wm.com
@@ -17711,6 +17712,7 @@ xb.dlservice.microsoft.com
 .cnshipnet.com
 .cnshipping.com
 .cnsikao.com
+.cnsilkworm.com
 .cnsimin.com
 .cnskyit.com
 .cnsnpj.com
@@ -21877,7 +21879,6 @@ xb.dlservice.microsoft.com
 .dy-gold.com
 .dy.cm
 .dy008.com
-.dy131.com
 .dy1905.net
 .dy2018.com
 .dy2018.net
@@ -22178,7 +22179,6 @@ xb.dlservice.microsoft.com
 .easy-china.com
 .easy-linkholiday.com
 .easy-mock.com
-.easy136.com
 .easy2mine.com
 .easy2world.com
 .easy361.com
@@ -27961,7 +27961,6 @@ xb.dlservice.microsoft.com
 .haizhlink.com
 .haizhoumo.com
 .haizhuyx.com
-.haizihe.com
 .haizitong.com
 .hajjjc.com
 .haku77.com
@@ -34110,6 +34109,7 @@ xb.dlservice.microsoft.com
 .jhctbank.com
 .jhdqz.com
 .jhdxjk.com
+.jhessb.com
 .jhfl.com
 .jhforever.com
 .jhgtgb.com
@@ -34590,6 +34590,7 @@ xb.dlservice.microsoft.com
 .jinbitou.net
 .jinbuguo.com
 .jinchaodengji.com
+.jinchuan2014.com
 .jinchuang.org
 .jinchutou.com
 .jincin.com
@@ -35073,6 +35074,7 @@ xb.dlservice.microsoft.com
 .jjkucunxie.com
 .jjldbk.com
 .jjlsd.com
+.jjmatch.com
 .jjmh.com
 .jjmj.tv
 .jjmmw.com
@@ -39851,7 +39853,6 @@ xb.dlservice.microsoft.com
 .longigroup.com
 .longjcun.com
 .longjiazuo.com
-.longjushangcheng.com
 .longk.com
 .longlongweb.com
 .longmaosoft.com
@@ -43705,6 +43706,7 @@ xb.dlservice.microsoft.com
 .nbmao.com
 .nbmedicalsystem.com
 .nbow.net
+.nboxnas.com
 .nbpolytheatre.com
 .nbprido.com
 .nbsason.com
@@ -44813,6 +44815,7 @@ xb.dlservice.microsoft.com
 .ocone.loan
 .ocooca.com
 .ocpan.org
+.ocri-genomics.org
 .ocrmaker.com
 .ocsp.globalsign.com
 .ocsp2.globalsign.com
@@ -47173,7 +47176,6 @@ xb.dlservice.microsoft.com
 .pz7377.com
 .pz7533.com
 .pz779.com
-.pz81.com
 .pz88.com
 .pz997.com
 .pzds.com
@@ -49379,6 +49381,7 @@ xb.dlservice.microsoft.com
 .rich-healthcare.com
 .richba.com
 .richeninfo.com
+.riches.cloud
 .richiecn.com
 .richkays.com
 .richong.com
@@ -51263,6 +51266,7 @@ xb.dlservice.microsoft.com
 .shengqian51.com
 .shengqianlianmeng.net
 .shengqugames.com
+.shengsci.com
 .shengtaidianzi.com
 .shengtaireli.com
 .shengtian.com
@@ -53195,7 +53199,6 @@ xb.dlservice.microsoft.com
 .spacesystech.com
 .spacexlanding.com
 .sparenode.com
-.sparepart168.com
 .spark-app.store
 .spark4y.com
 .sparkandshine.net
@@ -64993,6 +64996,7 @@ xb.dlservice.microsoft.com
 .yeeyan.org
 .yeeyk.com
 .yeezhe.com
+.yef2.vip
 .yefu365.com
 .yegame.com
 .yegenyou.com
