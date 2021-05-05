@@ -201,7 +201,6 @@ zeenews-fonts.s3.amazonaws.com
 .0000gz.com
 .000aa.com
 .000webhost.com
-.00111989.com
 .001717.com
 .001lv.com
 .001qp.cc
@@ -585,7 +584,6 @@ zeenews-fonts.s3.amazonaws.com
 .195666222.com
 .195666777.com
 .195700.com
-.195777666.com
 .195888000.com
 .195999777.com
 .195aaa195.com
@@ -1177,6 +1175,7 @@ zeenews-fonts.s3.amazonaws.com
 .5isotoi5.org
 .5kli.r5.cr.rs
 .5lml.com
+.5lu8.com
 .5maodang.com
 .5uproxy.net
 .5vpn.net
@@ -1443,6 +1442,7 @@ zeenews-fonts.s3.amazonaws.com
 .828892.com
 .828968.com
 .829886.com
+.830.cc
 .832889.com
 .8334k.com
 .835ee.net
@@ -1647,7 +1647,6 @@ zeenews-fonts.s3.amazonaws.com
 .966cpa.com
 .96777.cc
 .9685.net
-.9691vip.com
 .96tang.site
 .96tang.xyz
 .97777vip.com
@@ -1940,6 +1939,7 @@ zeenews-fonts.s3.amazonaws.com
 .adad06.com
 .adad09.com
 .adam4adam.com
+.adanwebnet.site44.com
 .adaptive-instruction.weebly.com
 .adaptivecards.io
 .adbecrsl.com
@@ -2519,6 +2519,7 @@ zeenews-fonts.s3.amazonaws.com
 .and
 .andfaraway.net
 .andorralife-tw.weebly.com
+.andrewrophie.com
 .andrewshomelabs.com
 .android
 .android-apk.org
@@ -2582,6 +2583,7 @@ zeenews-fonts.s3.amazonaws.com
 .anthonycalzadilla.com
 .anti-coco.top
 .anti-gfw.com
+.anti.anti.cnn.googlepages.com
 .anti1984.com
 .anticcp.net
 .antichristendom.com
@@ -3115,6 +3117,7 @@ zeenews-fonts.s3.amazonaws.com
 .ausnznet.com
 .ausoft.net
 .auspost
+.austinforpresident.com
 .austinjardinera.com
 .australiachinarelations.org
 .australiaplus.com
@@ -4657,6 +4660,7 @@ zeenews-fonts.s3.amazonaws.com
 .bookmybridgestonetyre.com
 .bookonsky.net
 .booksamillion.com
+.booksamillioninc.com
 .bookstagram.com
 .booloo.com
 .booms.cc
@@ -5438,6 +5442,7 @@ zeenews-fonts.s3.amazonaws.com
 .ccna5.net
 .ccnsite.com
 .ccp-porn.8964.xyz
+.ccpapk.com
 .ccpsx.com
 .ccrt.cc
 .ccstatic.org
@@ -5547,6 +5552,7 @@ zeenews-fonts.s3.amazonaws.com
 .ch5.cc
 .ch9.ms
 .chaikair.cc
+.chain.net
 .championshipseriesleague.com
 .chan.sankakucomplex.com
 .chanel
@@ -5838,6 +5844,7 @@ zeenews-fonts.s3.amazonaws.com
 .cimb
 .cinchcast.com
 .cincodias.com
+.cineblog01.com
 .cinemax.com
 .cipfg.org
 .cipriani
@@ -6529,10 +6536,12 @@ zeenews-fonts.s3.amazonaws.com
 .d6565.com
 .d6767.com
 .d7666.com
+.d8118.com
 .d88.com
 .d9917.com
 .da-files.com
 .da-men.com
+.da212.com
 .da5202.com
 .dabr.me
 .dabr.mobi
@@ -6655,6 +6664,7 @@ zeenews-fonts.s3.amazonaws.com
 .dawhois.com
 .dawngate.com
 .dawngatechronicles.com
+.dayaarmongol.ning.com
 .daylife.com
 .dayofsilence.org
 .dayone.me
@@ -7109,6 +7119,7 @@ zeenews-fonts.s3.amazonaws.com
 .dnsalias.org
 .dnscom.work
 .dnscrypt.org
+.dnsdojo.com
 .dnsdojo.net
 .dnsdojo.org
 .dnses.alekberg.net
@@ -7809,6 +7820,7 @@ zeenews-fonts.s3.amazonaws.com
 .eiga.com
 .eighteen8bet.com
 .einfachporno.com
+.einnews.com
 .einstein.com
 .eireinikotaerukai.com
 .eiresol.com
@@ -8624,6 +8636,7 @@ zeenews-fonts.s3.amazonaws.com
 .fei919.com
 .feifeiss.com
 .feiibb.com
+.feikebt.com
 .feikebt.pw
 .feitian-california.org
 .feitianacademy.org
@@ -9194,6 +9207,7 @@ zeenews-fonts.s3.amazonaws.com
 .freeoz.org
 .freepanchenlama.org
 .freepornofreeporn.com
+.freeproxies.org
 .freeproxy.it
 .freeproxy.net
 .freeproxyserver.net
@@ -9362,6 +9376,7 @@ zeenews-fonts.s3.amazonaws.com
 .fullcoveronline.com
 .fullerconsideration.com
 .fullstory.com
+.fulltubemovies.com
 .fulue.com
 .fun024.com
 .fun1100.com
@@ -9563,7 +9578,6 @@ zeenews-fonts.s3.amazonaws.com
 .gateway.dev
 .gateway.jb88app.com
 .gateway.jbo25.com
-.gateway.ti9mfk.com
 .gather.com
 .gatherproxy.com
 .gav1n.com
@@ -9595,6 +9609,7 @@ zeenews-fonts.s3.amazonaws.com
 .gb508.com
 .gb528.com
 .gb618.com
+.gbe88.com
 .gbiz
 .gc919.com
 .gcgc3.cc
@@ -9722,6 +9737,7 @@ zeenews-fonts.s3.amazonaws.com
 .gettyimages.pt
 .getukvpn.com
 .getuploader.com
+.getwiki.org
 .getws1.com
 .getwsone.com
 .getyoutube.com
@@ -9795,6 +9811,7 @@ zeenews-fonts.s3.amazonaws.com
 .gigjam.com
 .gigscity.com
 .giize.com
+.gimpyd.com
 .ginx.com
 .gipscorp.com
 .giratina.com
@@ -10379,6 +10396,7 @@ zeenews-fonts.s3.amazonaws.com
 .hao.news
 .haoli747.com
 .haoli777.com
+.haoshichina.com
 .happy-porn.com
 .happy-vpn.com
 .happy131.com
@@ -10415,6 +10433,7 @@ zeenews-fonts.s3.amazonaws.com
 .hayvip.com
 .hb1113.com
 .hb287.com
+.hb3131.com
 .hbabit.com
 .hbfile.net
 .hbg.com
@@ -10703,6 +10722,7 @@ zeenews-fonts.s3.amazonaws.com
 .hk-pic.xyz
 .hk-pic1.xyz
 .hk-pic2.xyz
+.hk-pic3.xyz
 .hk-pic4.xyz
 .hk-pub.com
 .hk.32-b.it
@@ -11375,6 +11395,7 @@ zeenews-fonts.s3.amazonaws.com
 .ifsmarkets.com
 .iftt.com
 .ifttt.com
+.iftttt.com
 .ifxmarkets.com
 .ig.com
 .ig.me
@@ -11572,6 +11593,7 @@ zeenews-fonts.s3.amazonaws.com
 .inkchoice.com
 .inkstonenews.com
 .inkui.com
+.inlajav.com
 .inlethd.com
 .inmediahk.net
 .inmediahk.org
@@ -11729,7 +11751,6 @@ zeenews-fonts.s3.amazonaws.com
 .intersoft.be
 .intgram.com
 .inthenameofconfuciusmovie.com
-.intl.sakai.club
 .intouchweekly.com
 .intuit
 .intunewiki.com
@@ -11908,6 +11929,7 @@ zeenews-fonts.s3.amazonaws.com
 .isa-hockeynut.com
 .isaacmao.com
 .isaacscomputertips.com
+.isalnikov.com
 .isasecret.com
 .isca-speech.org
 .ischool.com
@@ -12243,6 +12265,7 @@ zeenews-fonts.s3.amazonaws.com
 .jiayoulu.com
 .jibemobile.com
 .jieshibaobao.com
+.jiezhi888.com
 .jigglegifs.com
 .jigong1024.com
 .jihadintel.meforum.org
@@ -12391,9 +12414,9 @@ zeenews-fonts.s3.amazonaws.com
 .jsdelivr.net
 .jsfiddle.net
 .jshint.com
-.jsok369.com
 .jstor.org
 .jtbc.joins.com
+.jtfx.mobi
 .jtizyl.net
 .jtvnw.net
 .ju11.net
@@ -12530,6 +12553,7 @@ zeenews-fonts.s3.amazonaws.com
 .kawase.com
 .kb.monitorware.com
 .kba-tx.org
+.kchr.org
 .kcoolonline.com
 .kd667.com
 .kddi
@@ -12675,6 +12699,7 @@ zeenews-fonts.s3.amazonaws.com
 .kodi.tv
 .kodi.wiki
 .kodingen.com
+.kodirectory.com
 .komatsu
 .kome.top
 .komica2.net
@@ -13346,6 +13371,7 @@ zeenews-fonts.s3.amazonaws.com
 .luckyissue.com
 .luckyyou.vip
 .luguan.com
+.luisaviaroma.com
 .lujunhong2or.com
 .luke54.com
 .luke54.net
@@ -13419,7 +13445,6 @@ zeenews-fonts.s3.amazonaws.com
 .m.cabet161.com
 .m.cabet588.com
 .m.cafafaca.com
-.m.comicat.org
 .m.cscp.me
 .m.dj0020.com
 .m.dk957.com
@@ -13649,6 +13674,7 @@ zeenews-fonts.s3.amazonaws.com
 .maotan888.com
 .mapbox.com
 .maplew.com
+.maps.google.com.com
 .marathonbet.com
 .maraxis.com
 .marc.info
@@ -14507,7 +14533,6 @@ zeenews-fonts.s3.amazonaws.com
 .mrcat123.com
 .mrcat166.com
 .mrcat168.com
-.mrcat3.com
 .mrcat666.com
 .mrcat68.com
 .mrcboy.com
@@ -14522,7 +14547,6 @@ zeenews-fonts.s3.amazonaws.com
 .mrt166.com
 .mrt188.com
 .mrtc28.com
-.mrtome.com
 .mrtweet.com
 .ms-studiosmedia.com
 .ms.kity.pw
@@ -14547,6 +14571,7 @@ zeenews-fonts.s3.amazonaws.com
 .msftauth.net
 .msftnet.org
 .msgamesresearch.com
+.msgforex.com
 .msguancha.com
 .msinnovationchallenge.com
 .msn.com
@@ -15310,7 +15335,6 @@ zeenews-fonts.s3.amazonaws.com
 .nikkei.com
 .nikon
 .nimrod.gq
-.nine07.icu
 .nine99.cc
 .nine99.live
 .nine99.me
@@ -16712,6 +16736,7 @@ zeenews-fonts.s3.amazonaws.com
 .porn-w.org
 .porn.com
 .porn2.com
+.porn2012.com
 .porn5.com
 .porn555.com
 .porn5f.live
@@ -16735,6 +16760,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornhost.com
 .pornhub.com
 .pornhub.it
+.pornhub.net
 .pornhub.org
 .pornhubcasino.com
 .pornhubdeutsch.net
@@ -16792,6 +16818,7 @@ zeenews-fonts.s3.amazonaws.com
 .postadult.com
 .postandcourier.com
 .postgresql.org
+.posthentai.com
 .postimg.org
 .postini.com
 .postlm.com
@@ -17816,6 +17843,7 @@ zeenews-fonts.s3.amazonaws.com
 .saintyculture.com
 .saiq.me
 .saishuu-hentai.net
+.sakai.club
 .sakura
 .sakura.sakuravpn.wang
 .sakuralive.com
@@ -17995,11 +18023,11 @@ zeenews-fonts.s3.amazonaws.com
 .sdk3.cf
 .se
 .se-duc-tive.com
-.se.5lu8.com
 .se669.com
 .seagroup.com
 .seamonkey-project.org
 .seaofsolitude.com
+.search-mp3.com
 .search.avira.com
 .search.com
 .search.f-secure.com
@@ -18529,6 +18557,7 @@ zeenews-fonts.s3.amazonaws.com
 .smartoneholdings.com
 .smartonerobotics.com
 .smartproxy.me
+.smartsimcha.com
 .smartydns.com
 .smchbooks.com
 .smh88800.com
@@ -19178,6 +19207,7 @@ zeenews-fonts.s3.amazonaws.com
 .sunwinism.joinbbs.net
 .suoluo.org
 .supchina.com
+.superbookcity.com
 .superbrownbear.com
 .superchina.xyz
 .superearsenjoy.com
@@ -20511,6 +20541,7 @@ zeenews-fonts.s3.amazonaws.com
 .u.f-q.me
 .u.georgianlimerick.com
 .u15.info
+.u2bet.net
 .u666999.com
 .u9un.com
 .ua
@@ -20529,6 +20560,7 @@ zeenews-fonts.s3.amazonaws.com
 .ubi.com
 .ubint.net
 .ubisoft.com
+.ubl.com
 .ublock.org
 .ubnt.com
 .ubnw.net
@@ -20611,6 +20643,7 @@ zeenews-fonts.s3.amazonaws.com
 .unblock.im
 .unblock.me
 .unblock123.com
+.unblockaccess.com
 .unblockall.com
 .unblockchina.org
 .unblockdmm.com
@@ -20675,6 +20708,7 @@ zeenews-fonts.s3.amazonaws.com
 .unstable.icu
 .unwall2012.com
 .uo.com
+.uocn.groupsite.com
 .uocn.org
 .uoherald.com
 .uol
@@ -20845,6 +20879,7 @@ zeenews-fonts.s3.amazonaws.com
 .v6933.com
 .v6ss.xyz
 .v8.dev
+.v8293.com
 .v8project.org
 .v9.com
 .v9366.com
@@ -21045,6 +21080,7 @@ zeenews-fonts.s3.amazonaws.com
 .vidmpreview.com
 .vido.ws
 .vidol.tv
+.vidreel.com
 .vidz.com
 .viedo.hkwesee.xyz
 .viemo.com
@@ -21300,6 +21336,7 @@ zeenews-fonts.s3.amazonaws.com
 .voathai.com
 .voatibetan.com
 .voatibetanenglish.com
+.voatibetanenglish.org
 .voatiengviet.com
 .voatour.com
 .voazimbabwe.com
@@ -21641,6 +21678,7 @@ zeenews-fonts.s3.amazonaws.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
+.watchbabeshows.com
 .watchdisneyfe.com
 .watchespn.com
 .watchinese.com
@@ -22075,6 +22113,7 @@ zeenews-fonts.s3.amazonaws.com
 .wns1919.com
 .wnu.com
 .wo00s0963.vooreeno.com
+.wodemo.com
 .woeser.com
 .woesermiddle-way.net
 .wofl.tv
@@ -22164,6 +22203,7 @@ zeenews-fonts.s3.amazonaws.com
 .wqyd.org
 .wral.com
 .wrchina.org
+.wrchristian.com
 .wreac.org
 .wrenchead.com
 .wretch.cc
@@ -22296,6 +22336,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.060xpj.com
 .www.06966d.com
 .www.06bbcc.com
+.www.06hggj.com
 .www.0775xpj.com
 .www.080909.com
 .www.082338.com
@@ -22785,6 +22826,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.anta888.com
 .www.antd.org
 .www.antiquesilverhouse.com
+.www.antiwall.com
 .www.antvpn.com
 .www.antvpn.net
 .www.aolnews.com
@@ -23003,6 +23045,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.brighteon.com
 .www.browsercam.com
 .www.brsbox.com
+.www.bryanboy.com
 .www.btaht.com
 .www.btbtt.co
 .www.btkitty.net
@@ -23357,6 +23400,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.ellisonballet.com
 .www.emiao768.com
 .www.emotiyou.com
+.www.emporis.com
 .www.endless-ss.com
 .www.englishbymichael.com
 .www.englishdaily626.com
@@ -23371,6 +23415,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.eskimotube.com
 .www.eslready.com
 .www.esperanto-gb.org
+.www.esukhia.org
 .www.ethfinex.com
 .www.eu99999.com
 .www.eurocis.com
@@ -23449,6 +23494,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.fn139.com
 .www.folicai.com
 .www.footjobtube4free.com
+.www.forestracker.net
 .www.forex4you.com
 .www.forextime.com
 .www.forextimechina.com
@@ -23457,6 +23503,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.fqvpn.net
 .www.fqzhan.com
 .www.frankandsuki.com
+.www.free-hardcore.com
 .www.free-strip-games.com
 .www.free1210.com
 .www.freeairproxy.com
@@ -23470,7 +23517,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.freeinchina.org
 .www.freelxb.com
 .www.freemalaysiatoday.com
-.www.freeproxies.org
 .www.freerussiasex.com
 .www.freesafeip.com
 .www.freetibet.com
@@ -23571,7 +23617,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.gay104.com
 .www.gayfuror.com
 .www.gaymaletube.com
-.www.gbe88.com
 .www.gboy1069.com
 .www.gc585888.com
 .www.gca-mining.com
@@ -23638,6 +23683,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.guandang.com
 .www.guardiannews.com
 .www.gugesou.com
+.www.gulige.com
 .www.gutwire.com
 .www.gv104.com
 .www.gvlibrary.com
@@ -23658,6 +23704,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.hardcorepunishments.com
 .www.hartfordtechnologies.com
 .www.harting.com
+.www.harvardlodge.org
 .www.harvestedalive.com
 .www.havkl0us.cf
 .www.hayatnuri.org
@@ -23707,6 +23754,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.hidemynet.com
 .www.hidevpn.com
 .www.highresolutiontechnologies.com
+.www.highspeedvpn.com
 .www.hinwen.com
 .www.hippodromeonline.com
 .www.hishadowsocks.com
@@ -23967,7 +24015,9 @@ zeenews-fonts.s3.amazonaws.com
 .www.jsh966.com
 .www.jsjt-global.com
 .www.jsok147.com
+.www.jsok369.com
 .www.jsok789.com
+.www.jsqgtx.net
 .www.jsss.site
 .www.jtassetcompensation.com
 .www.jtw007.com
@@ -24075,6 +24125,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.lf318.com
 .www.lgsinnovations.com
 .www.lh66g.com
+.www.lhasadaily.com
 .www.lhj006.com
 .www.lhj600.com
 .www.libcom.org
@@ -24117,6 +24168,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.loverslab.com
 .www.loveyunti.com
 .www.lpxtv.com
+.www.lsecapital.com
 .www.lsj1080.com
 .www.lt132.com
 .www.ltou88.net
@@ -24161,6 +24213,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.marketplace.org
 .www.markmail.org
 .www.mashpedia.com
+.www.maturetube.com
 .www.mbo666.com
 .www.mcgrawfunding.com
 .www.mecloud.fun
@@ -24316,6 +24369,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.nuoyavpn.com
 .www.nuvo.net
 .www.nwi.com
+.www.nyam1480.com
 .www.nyc520.com
 .www.nydus-vpn.com
 .www.nytims.com
@@ -24396,6 +24450,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.philenews.com
 .www.phillydailynews.com
 .www.philomedium.com
+.www.phoebe.cc
 .www.pi88.com
 .www.piaproxy.net
 .www.picaacg.com
@@ -24725,7 +24780,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.sun988.com
 .www.suncity.com
 .www.sundayroad.net
-.www.superbookcity.com
 .www.surveycake.com
 .www.surveyusa.com
 .www.svpn.tech
@@ -24760,13 +24814,13 @@ zeenews-fonts.s3.amazonaws.com
 .www.teazaar.com
 .www.tech83.com
 .www.techcoke.com
+.www.teenporntube.com
 .www.teensnow.com
 .www.teepr.com
 .www.tengbo3988.com
 .www.tengbo7.com
 .www.tengbo9.com
 .www.tengbo9881.com
-.www.terasurf.com
 .www.tesco.net
 .www.tex-corp.com
 .www.the-cloak.com
@@ -24869,6 +24923,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.traininn.com
 .www.transocks.com
 .www.trekkinn.com
+.www.tridef.com
 .www.trijayanews.com
 .www.tripodadvisors.com
 .www.trtchinese.com
@@ -24891,6 +24946,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.tubemales.com
 .www.tubeprox.com
 .www.tuo8.red
+.www.tupian12345.com
 .www.tusi8.com
 .www.tuwang.org
 .www.tv.com.pk
@@ -24928,6 +24984,7 @@ zeenews-fonts.s3.amazonaws.com
 .www.unblockvideos.com
 .www.uncledos.com
 .www.unification.org
+.www.unisef.org
 .www.upiasia.com
 .www.uq616.com
 .www.usasialaw.org
@@ -24973,7 +25030,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.voaradiogram.net
 .www.voaspecialenglish.com
 .www.voatibetan.org
-.www.voatibetanenglish.org
 .www.voiceplaces.com
 .www.voncop.top
 .www.vozchina.org
@@ -25401,6 +25457,7 @@ zeenews-fonts.s3.amazonaws.com
 .xc.domain888.pw
 .xcams.com
 .xcg123.com
+.xclicks.net
 .xclient.info
 .xcream.net
 .xcritic.com
@@ -25433,6 +25490,7 @@ zeenews-fonts.s3.amazonaws.com
 .xh7333.com
 .xh7999.com
 .xh7b.com
+.xh7c.com
 .xh7yy.com
 .xh812.com
 .xh8716.com
@@ -25643,6 +25701,7 @@ zeenews-fonts.s3.amazonaws.com
 .xposed.info
 .xpud.org
 .xqmobile.po888.net
+.xqmobile2.po888.net
 .xrayjoe.com
 .xrentdvd.com
 .xs.domain888.pw
