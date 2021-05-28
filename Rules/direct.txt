@@ -1079,7 +1079,6 @@ xb.dlservice.microsoft.com
 .10000tc.com
 .10000yao.com
 .10001wan.com
-.100024.xyz
 .10006.info
 .1000ci.net
 .1000eb.net
@@ -2248,7 +2247,6 @@ xb.dlservice.microsoft.com
 .18daxue.com
 .18dx.com
 .18guanjia.com
-.18heat.com
 .18kf.net
 .18ladys.com
 .18link.com
@@ -7566,7 +7564,6 @@ xb.dlservice.microsoft.com
 .91kami.com
 .91keman.com
 .91keto.com
-.91ks.cc
 .91kuzhan.com
 .91laihama.com
 .91ld.com
@@ -8159,7 +8156,6 @@ xb.dlservice.microsoft.com
 .99zzw.com
 .9ailai.com
 .9aimai.com
-.9aiot.com
 .9air.com
 .9aoduo.com
 .9aola.com
@@ -12980,7 +12976,6 @@ xb.dlservice.microsoft.com
 .bobidc.com
 .boblog.com
 .bobo.com
-.bobobd.com
 .bobopic.com
 .bobopos.com
 .bobosays.com
@@ -21714,7 +21709,6 @@ xb.dlservice.microsoft.com
 .dylc.com
 .dylxx.net
 .dyly.com
-.dymi.cc
 .dyonr.com
 .dypai.com
 .dyqc.com
@@ -26680,6 +26674,7 @@ xb.dlservice.microsoft.com
 .gsqx.com
 .gsrecv.com
 .gss-sh.org
+.gssdlv.com
 .gssdsj.com
 .gssfgk.com
 .gsstaf.com
@@ -30093,7 +30088,6 @@ xb.dlservice.microsoft.com
 .htsc.com
 .htsec.com
 .htsgh5.com
-.htsh.cc
 .htstzm.com
 .htt5.com
 .httingshu.com
@@ -38298,7 +38292,6 @@ xb.dlservice.microsoft.com
 .letmeneembibvnf.hk
 .letoom.com
 .letou8.com
-.letouqp.com
 .lets-study.com
 .letsebuy.com
 .letsfilm.org
@@ -42619,7 +42612,6 @@ xb.dlservice.microsoft.com
 .mtkan.net
 .mtkdy.com
 .mtketang.com
-.mtkg.cc
 .mtksj.com
 .mtktk.com
 .mtm.mo
@@ -49628,7 +49620,6 @@ xb.dlservice.microsoft.com
 .sanjiasoft.com
 .sanjieke.com
 .sanjinjiake.com
-.sanjueyaluosi.com
 .sanjun.com
 .sankaijian.com
 .sankgo.com
@@ -53085,7 +53076,6 @@ xb.dlservice.microsoft.com
 .storyboardworld.com
 .storyday.com
 .storyren.com
-.storysec.com
 .stourweb.com
 .stovol.club
 .stoyard.com
@@ -61952,6 +61942,7 @@ xb.dlservice.microsoft.com
 .xiaohongchun.com
 .xiaohongdian.wang
 .xiaohongshu.com
+.xiaohongshulvyou.com
 .xiaohuabaichu.com
 .xiaohuabuluo.com
 .xiaohuai.com
@@ -63463,7 +63454,6 @@ xb.dlservice.microsoft.com
 .xueche8.com
 .xuechebu.com
 .xuechela.com
-.xuechenlei.com
 .xueda.com
 .xuedi.com
 .xuedong97.com
@@ -66935,7 +66925,6 @@ xb.dlservice.microsoft.com
 .yzs.com
 .yzspdq.com
 .yzsqxx.com
-.yzssc.net
 .yzt-tools.com
 .yztcdn.com
 .yztown.club
@@ -66970,7 +66959,6 @@ xb.dlservice.microsoft.com
 .z7ys.com
 .z8g.ltd
 .z8q.cc
-.za-ad.cc
 .zablog.me
 .zac1993.com
 .zackku.com
