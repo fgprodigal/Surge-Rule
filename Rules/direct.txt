@@ -163,6 +163,7 @@ itunes-apple.com.akadns.net
 itunes.apple.com
 itunesconnect.apple.com
 js-cdn.music.apple.com
+kc.kexinshe.com
 km.support.apple.com
 maps.apple.com
 menu-static.gog-statics.com
@@ -1077,6 +1078,7 @@ xb.dlservice.microsoft.com
 .10000tc.com
 .10000yao.com
 .10001wan.com
+.1000360.com
 .10006.info
 .1000ci.net
 .1000eb.net
@@ -3546,7 +3548,6 @@ xb.dlservice.microsoft.com
 .363322014.com
 .363u.com
 .364000.com
-.365112233.com
 .365128.com
 .36543.com
 .365500.com
@@ -16792,6 +16793,7 @@ xb.dlservice.microsoft.com
 .click-v.com
 .click369.com
 .clickclaro.xyz
+.clicksdiy.com
 .clicksun.net
 .clickwifi.net
 .client51.com
@@ -17593,6 +17595,7 @@ xb.dlservice.microsoft.com
 .cnwa.com
 .cnwage.com
 .cnwaking.com
+.cnwangjie.com
 .cnwaternews.com
 .cnwb.net
 .cnwdjj.com
@@ -19298,6 +19301,7 @@ xb.dlservice.microsoft.com
 .dangcdn.com
 .dangdang.com
 .danghongyun.com
+.danghuan.com
 .dangjian.com
 .dangjianwang.com
 .dangpu.com
@@ -19659,7 +19663,6 @@ xb.dlservice.microsoft.com
 .dd4.com
 .dd6300.fun
 .dd66778899.com
-.dd7q.com
 .dd8828.com
 .ddbig.com
 .ddbiquge.cc
@@ -22286,7 +22289,6 @@ xb.dlservice.microsoft.com
 .eduwest.com
 .eduwg.com
 .eduwo.com
-.eduwsw.com
 .eduwx.com
 .eduxiao.com
 .eduyf.com
@@ -25711,7 +25713,6 @@ xb.dlservice.microsoft.com
 .gequ77.com
 .gequdaquan.net
 .geren-jianli.com
-.geren.site
 .gerenjianli.com
 .gerhard-china.com
 .germany-leica.net
@@ -29423,6 +29424,7 @@ xb.dlservice.microsoft.com
 .hnh.cc
 .hnhaitian.com
 .hnhaofang.com
+.hnhllv.net
 .hnhnled.com
 .hnhw.org
 .hnhxxk.com
@@ -29449,6 +29451,7 @@ xb.dlservice.microsoft.com
 .hnleisu.com
 .hnliangku.com
 .hnlungtongzs.com
+.hnlzhd.com
 .hnlzw.net
 .hnmdtv.com
 .hnmgjr.com
@@ -33174,7 +33177,6 @@ xb.dlservice.microsoft.com
 .ivycoffee.com
 .ivydad.com
 .ivydom.com
-.ivynuts.com
 .ivypub.org
 .ivyschools.com
 .ivysoon.com
@@ -43620,6 +43622,7 @@ xb.dlservice.microsoft.com
 .nfzhouyi.com
 .nfzmbrand.com
 .ng-alain.com
+.nga.wiki
 .ngabbs.com
 .ngacn.cc
 .ngacn.com
@@ -47535,6 +47538,7 @@ xb.dlservice.microsoft.com
 .qiuyuewenxue.com
 .qiuyumi.com
 .qiuzhang.com
+.qiuzhijiangtang.com
 .qiuziti.com
 .qiuziyuan.net
 .qivsod.com
@@ -49690,6 +49694,7 @@ xb.dlservice.microsoft.com
 .sbh15.com
 .sbiquge.com
 .sbk-h5.com
+.sbkh5.com
 .sbkk8.com
 .sbkk88.com
 .sblunwen.com
@@ -52245,6 +52250,7 @@ xb.dlservice.microsoft.com
 .snjrsks.com
 .snnd.co
 .snobten.com
+.snodehome.com
 .snooda.com
 .snor-china.com
 .snowballsecurities.com
@@ -54407,6 +54413,7 @@ xb.dlservice.microsoft.com
 .tapdata.net
 .tapdb.com
 .tapdb.net
+.tapechat.net
 .tapenjoy.com
 .tapimg.com
 .tapotiexie.com
@@ -55728,7 +55735,6 @@ xb.dlservice.microsoft.com
 .topthink.com
 .topthink.net
 .toptourservice.com
-.topu.com
 .topuc.com
 .topwalk.com
 .topwanwan.com
@@ -57920,6 +57926,7 @@ xb.dlservice.microsoft.com
 .vlightv.com
 .vlinkage.com
 .vlinke.com
+.vlion.mobi
 .vlong.tv
 .vlongbiz.com
 .vlwoo.com
@@ -59608,7 +59615,6 @@ xb.dlservice.microsoft.com
 .whjclgs.com
 .whjcly.com
 .whjdhy.com
-.whjfyz.com
 .whjhcz.com
 .whjiaoy.com
 .whjjhbj.com
@@ -60937,7 +60943,6 @@ xb.dlservice.microsoft.com
 .www.htcsense.com
 .www.htcvive.com
 .www.ibm.com
-.www.kaspersky.com
 .www.microsoft.com
 .www.nike.com
 .www.pandora.net
@@ -64117,6 +64122,8 @@ xb.dlservice.microsoft.com
 .yaohuiji.com
 .yaohuo.me
 .yaojiao.tv
+.yaojibuyu.com
+.yaojidsfee.com
 .yaojiedianzi.com
 .yaojingtang.com
 .yaokaihui.com
@@ -68525,7 +68532,6 @@ xb.dlservice.microsoft.com
 .zi.com
 .ziben365.com
 .ziboshishen.com
-.zibosky.com
 .zicaitou.com
 .zichabaogao.com
 .zichanzhihuan.com
