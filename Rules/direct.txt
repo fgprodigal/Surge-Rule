@@ -640,7 +640,6 @@ xb.dlservice.microsoft.com
 .04168.com
 .0416u.com
 .0417gou.com
-.0418fc.com
 .0421wcbzk.com
 .0427.com
 .0430.com
@@ -9759,6 +9758,7 @@ xb.dlservice.microsoft.com
 .anglo-chinese.com
 .angroups.com
 .angruo.com
+.angrymiao.com
 .anguanjia.com
 .angui.org
 .angwei.net
@@ -52363,7 +52363,6 @@ xb.dlservice.microsoft.com
 .sohocute.com
 .sohonow.com
 .sohotask.com
-.sohovark.com
 .sohu
 .sohu-inc.com
 .sohu.com
