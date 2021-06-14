@@ -7527,7 +7527,6 @@ xb.dlservice.microsoft.com
 .91kami.com
 .91keman.com
 .91keto.com
-.91kuzhan.com
 .91laihama.com
 .91ld.com
 .91lda.com
@@ -8463,7 +8462,6 @@ xb.dlservice.microsoft.com
 .acgist.com
 .acgjie.com
 .acglf.com
-.acglingsheng8.com
 .acgmall.com
 .acgn.pw
 .acgnt.com
@@ -13932,7 +13930,6 @@ xb.dlservice.microsoft.com
 .canhot.net
 .caniculab.com
 .canidc.com
-.canimktg.com
 .canjiren.net
 .cankao100.com
 .cankaoxiaoxi.com
@@ -15585,7 +15582,6 @@ xb.dlservice.microsoft.com
 .chinabyhx.com
 .chinabym.com
 .chinabyte.com
-.chinabyte.net
 .chinabzp.com
 .chinac.com
 .chinac3.com
@@ -18113,7 +18109,6 @@ xb.dlservice.microsoft.com
 .cqgc.com
 .cqgmfw.com
 .cqgz.com
-.cqgzfw.com
 .cqh2o.com
 .cqhansa.com
 .cqhcbk.com
@@ -20322,7 +20317,6 @@ xb.dlservice.microsoft.com
 .dingniugu.com
 .dingqidong.com
 .dingsheng.com
-.dingshengjishu.com
 .dingshifa.com
 .dingshijixie.com
 .dingso.com
@@ -27060,7 +27054,6 @@ xb.dlservice.microsoft.com
 .gxicpa.com
 .gxidc.com
 .gxind.com
-.gxit.online
 .gxjgdj.com
 .gxjtaq.com
 .gxjubao.org
@@ -28604,6 +28597,7 @@ xb.dlservice.microsoft.com
 .heliweb.net
 .helixcommunity.org
 .hello-code.com
+.hello-inc.com
 .hello-mom.com
 .hello1010.com
 .hellobanma.com
@@ -32067,6 +32061,7 @@ xb.dlservice.microsoft.com
 .imageaccelerate.com
 .imageedu.com
 .imagefz.com
+.imagehub.cc
 .imagelol.com
 .imagepy.org
 .images-cache.com
@@ -33962,7 +33957,6 @@ xb.dlservice.microsoft.com
 .jiaoyimao.com
 .jiaoyin.com
 .jiaoyitu.com
-.jiaoyiwu.cc
 .jiaoyixia.com
 .jiaoyizhu.com
 .jiaoyudao.com
@@ -34747,7 +34741,6 @@ xb.dlservice.microsoft.com
 .jllihua.com
 .jlmhw.com
 .jlonline.com
-.jlopen.com
 .jlpay.com
 .jlpzj.net
 .jlq.com
@@ -35004,7 +34997,6 @@ xb.dlservice.microsoft.com
 .joyzlan.com
 .jp.com
 .jp14.com
-.jpaifusen.com
 .jpanj.com
 .jpbeta.net
 .jpeen.com
@@ -37804,7 +37796,6 @@ xb.dlservice.microsoft.com
 .lazada.vn
 .lazybios.com
 .lazylorna.com
-.lb-floor.com
 .lbagan.com
 .lbal168.com
 .lbbniu.com
@@ -45016,7 +45007,6 @@ xb.dlservice.microsoft.com
 .p99998888.com
 .pa18.com
 .pa1pa.com
-.pa80.com
 .paascloud.net
 .paat.com
 .pacdn.com
@@ -45891,7 +45881,6 @@ xb.dlservice.microsoft.com
 .pj00001.com
 .pj155.com
 .pj52.net
-.pj886888.com
 .pjbest.com
 .pjf.name
 .pjforging.com
@@ -47704,6 +47693,7 @@ xb.dlservice.microsoft.com
 .qqkw.net
 .qqleju.com
 .qqlin.net
+.qqlyjt.com
 .qqm98.com
 .qqma.com
 .qqmail.com
@@ -48608,7 +48598,6 @@ xb.dlservice.microsoft.com
 .renderincloud.com
 .rendiyu.com
 .rendna.com
-.renfas.com
 .renhence.com
 .renhengshiye.com
 .renji.com
@@ -48969,7 +48958,6 @@ xb.dlservice.microsoft.com
 .rosaryshelties.com
 .rosecmsc.com
 .rosedata.com
-.roseduan.com
 .rosefinchfund.com
 .roshanca.com
 .rosinson.com
@@ -52762,7 +52750,6 @@ xb.dlservice.microsoft.com
 .sszj.net
 .sszjnc.com
 .sszzz.com
-.st0008.com
 .st001.com
 .st123.com
 .st180.com
@@ -54945,7 +54932,6 @@ xb.dlservice.microsoft.com
 .tiantian.com
 .tiantian688.com
 .tiantian8.com
-.tiantianbianma.com
 .tiantianfm.com
 .tiantiangold.com
 .tiantianhr.com
@@ -60371,6 +60357,7 @@ xb.dlservice.microsoft.com
 .wpengapp.com
 .wpgdadatong.com
 .wpgdadawant.com
+.wphonelife.com
 .wphun.com
 .wpimg-wallstcn.com
 .wping.org
@@ -62118,6 +62105,7 @@ xb.dlservice.microsoft.com
 .xiezewen.com
 .xiezhenxian.net
 .xiezhenye.com
+.xieziqiu.net
 .xiezixiansheng.com
 .xiezuocat.com
 .xifan.org
@@ -63179,7 +63167,6 @@ xb.dlservice.microsoft.com
 .xtea.org
 .xtedu.com
 .xteko.com
-.xtfcjt.com
 .xtfml.com
 .xtgreat.com
 .xthc999.com
@@ -66487,7 +66474,6 @@ xb.dlservice.microsoft.com
 .ywnds.com
 .ywnz.com
 .ywopt.com
-.ywpfjm.com
 .ywsawei.com
 .ywshouyou.com
 .ywsoftware.com
@@ -68240,6 +68226,7 @@ xb.dlservice.microsoft.com
 .zhujiceping.com
 .zhujiwiki.com
 .zhujiwu.com
+.zhujiyou.com
 .zhuke.com
 .zhulang.com
 .zhulanli.com
