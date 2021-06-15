@@ -21454,6 +21454,7 @@ zeenews-fonts.s3.amazonaws.com
 .torproject.org
 .torrentav.net
 .torrenteditor.com
+.torrentkitty.tv
 .torrentkittycn.com
 .torrentprivacy.com
 .torrenty.org
@@ -26647,7 +26648,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.torrentkitty.com
 .www.torrentkitty.net
 .www.torrentkitty.org
-.www.torrentkitty.tv
 .www.torrentsland.com
 .www.totalav.com
 .www.totallynsfw.com
