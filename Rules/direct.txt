@@ -2806,7 +2806,6 @@ xb.dlservice.microsoft.com
 .24jz.com
 .24k99.com
 .24ker.com
-.24korange.com
 .24kplus.com
 .24kwx.com
 .24maker.com
@@ -6193,7 +6192,6 @@ xb.dlservice.microsoft.com
 .67lm.com
 .67mb.com
 .67mo.com
-.67tuan.com
 .67wanwan.com
 .67yes.com
 .68.com
@@ -7296,7 +7294,6 @@ xb.dlservice.microsoft.com
 .8pu.com
 .8qwe5.com
 .8qwx.com
-.8ruiyou.com
 .8s123.com
 .8s8s.com
 .8s8s.net
@@ -8650,7 +8647,6 @@ xb.dlservice.microsoft.com
 .aecichina.com
 .aeenets.com
 .aegcar.com
-.aegins-dns.net
 .aegins.net
 .aehyok.com
 .aemedia.org
@@ -11774,6 +11770,7 @@ xb.dlservice.microsoft.com
 .bestdo.com
 .bestdvd.com.tw
 .bestebookdownload.com
+.bestedm.net
 .bestedm.org
 .bestexpresser.com
 .bestfangchan.com
@@ -14681,6 +14678,7 @@ xb.dlservice.microsoft.com
 .ceshi112.com
 .ceshigo.com
 .ceshigu.com
+.ceshiren.com
 .cespc.com
 .cesses.org
 .cet-46.com
@@ -22470,7 +22468,6 @@ xb.dlservice.microsoft.com
 .emarbox.com
 .emas-poc.com
 .emaup.com
-.emb168.com
 .embbnux.com
 .embcom.net
 .embed.cc
@@ -24323,7 +24320,6 @@ xb.dlservice.microsoft.com
 .fohee.net
 .fokan88.com
 .folieyun.com
-.folkw.com
 .foloda.com
 .folou.com
 .fomen123.com
@@ -27351,6 +27347,7 @@ xb.dlservice.microsoft.com
 .hadns.net
 .hadobi.com
 .hadsky.com
+.hadyang.com
 .haers.com
 .haguan.com
 .haguotu.com
@@ -29803,7 +29800,6 @@ xb.dlservice.microsoft.com
 .hsmrt.com
 .hsoow.com
 .hspress.net
-.hsqds.com
 .hsr2013.com
 .hssdg.com
 .hssdtest.com
@@ -31453,7 +31449,6 @@ xb.dlservice.microsoft.com
 .idler-et.com
 .idm.cc
 .idmchina.net
-.idmdm.com
 .idn100.com
 .idname.com
 .idnscloud.com
@@ -31549,7 +31544,6 @@ xb.dlservice.microsoft.com
 .iemblog.com
 .ienjoys.com
 .ienjoys.mobi
-.ieplconn.com
 .ierhou.com
 .iermu.com
 .iershoushu.com
@@ -34581,7 +34575,6 @@ xb.dlservice.microsoft.com
 .jjwxc.org
 .jjx88.net
 .jjxj.org
-.jjxsw.la
 .jjxwzk.org
 .jjxyls.com
 .jjy118.com
@@ -37630,7 +37623,6 @@ xb.dlservice.microsoft.com
 .laruence.com
 .laryoo.com
 .lascn.net
-.laser-cnc.com
 .laser568.com
 .laserfair.com
 .lashou.com
@@ -38197,6 +38189,7 @@ xb.dlservice.microsoft.com
 .lhtjyy.com
 .lhwill.com
 .lhwytj.com
+.lhy1.xyz
 .lhzq.com
 .li-ca.com
 .li-ning.com
@@ -39021,6 +39014,7 @@ xb.dlservice.microsoft.com
 .llku.com
 .llllsj.com
 .llqzg.net
+.lls.moe
 .llsapp.com
 .llscdn.com
 .llsops.com
@@ -39924,7 +39918,6 @@ xb.dlservice.microsoft.com
 .lydfyjhotel.com
 .lydhb888.com
 .lydsy.com
-.lydzpb.com
 .lyecs.com
 .lyfczxw.com
 .lyfff.com
@@ -42105,6 +42098,7 @@ xb.dlservice.microsoft.com
 .morevfx.com
 .morewis.com
 .morewiscloud.com
+.morfast.net
 .morganstanleyhuaxin.com
 .morigames.com
 .moring.pw
@@ -47148,7 +47142,6 @@ xb.dlservice.microsoft.com
 .qingzhouaote.com
 .qingzhouip.com
 .qingzhu.co
-.qingzhuyi.com
 .qiniao.com
 .qiniu.com
 .qiniu.in
@@ -53017,7 +53010,6 @@ xb.dlservice.microsoft.com
 .sunyet.com
 .sunyingchao.com
 .sunyongfeng.com
-.sunyor.net
 .sunzhengyi.net
 .sunzhongwei.com
 .suo.im
@@ -59056,7 +59048,6 @@ xb.dlservice.microsoft.com
 .wetv.vip
 .wetvinfo.com
 .wewean.com
-.wewen.io
 .wex5.com
 .wexin.com
 .wey.com
@@ -59309,7 +59300,6 @@ xb.dlservice.microsoft.com
 .whmcwd.com
 .whmcxh.org
 .whmeigao.com
-.whmeiyugao.com
 .whmetroad.com
 .whmicrocredit.com
 .whmid.net
@@ -62302,6 +62292,7 @@ xb.dlservice.microsoft.com
 .xiqimi.com
 .xiqingji.com
 .xiqinrc.com
+.xiqqq.com
 .xirang.com
 .xirenxuan.com
 .xishanju.com
@@ -63979,6 +63970,7 @@ xb.dlservice.microsoft.com
 .yeeyk.com
 .yeezhe.com
 .yef2.vip
+.yefeiyexs.com
 .yefu365.com
 .yegame.com
 .yegenyou.com
@@ -69060,6 +69052,7 @@ xb.dlservice.microsoft.com
 .zuoyexingchen.com
 .zupig.com
 .zupuk.com
+.zupulu.com
 .zutianke.com
 .zutiyu.com
 .zuulee.com
