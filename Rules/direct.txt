@@ -2327,7 +2327,6 @@ xb.dlservice.microsoft.com
 .1drj.com
 .1drv.ws
 .1dufish.com
-.1duhy.com
 .1dume.com
 .1dusou.com
 .1dutm.com
@@ -9469,7 +9468,6 @@ xb.dlservice.microsoft.com
 .aliyunwaf5.com
 .aliyunyh.com
 .aliyunyhw.com
-.aliyunyunvip46.com
 .alizhaopin.com
 .alizila.com
 .aljj.com
@@ -10538,6 +10536,7 @@ xb.dlservice.microsoft.com
 .autofull.net
 .autogslb.com
 .autoharbin.org
+.autoho.com
 .autohome.com
 .autohr.org
 .autoitx.com
@@ -15536,6 +15535,7 @@ xb.dlservice.microsoft.com
 .chinacft.org
 .chinacg.org
 .chinachemnet.com
+.chinachilun.org
 .chinachugui.com
 .chinacics.org
 .chinacir.com
@@ -22996,6 +22996,7 @@ xb.dlservice.microsoft.com
 .exhera.com
 .exiaoba.com
 .exinee.com
+.exing113.com
 .exiqu.com
 .exmailqq.com
 .exmrw.com
@@ -23639,7 +23640,6 @@ xb.dlservice.microsoft.com
 .feeyo.com
 .feeyun.com
 .fegine.com
-.fegirl.com
 .feheadline.com
 .fei123.com
 .fei580.com
@@ -24321,6 +24321,7 @@ xb.dlservice.microsoft.com
 .foodjx.com
 .foodmate.net
 .foods1.com
+.foodsc.net
 .foodspace.net
 .foodszs.com
 .foodu14.com
@@ -26488,7 +26489,6 @@ xb.dlservice.microsoft.com
 .gslxrc.com
 .gsmpers.com
 .gsmyi.com
-.gsnyjszg.com
 .gspcc.com
 .gsqx.com
 .gsrecv.com
@@ -27091,7 +27091,6 @@ xb.dlservice.microsoft.com
 .gzfxkwl.com
 .gzgc120.com
 .gzgdwl.com
-.gzgjx99.com
 .gzguard12th.com
 .gzgxkj.com
 .gzhakj.com
@@ -28134,7 +28133,6 @@ xb.dlservice.microsoft.com
 .hbqtgg.com
 .hbqyj.org
 .hbqyxy.com
-.hbrb.net
 .hbrbmedia.com
 .hbrc.com
 .hbrcgd.com
@@ -28883,6 +28881,7 @@ xb.dlservice.microsoft.com
 .highgg.com
 .highgo.com
 .highlm.com
+.highsharp.com
 .hightopo.com
 .highwayguitar.com
 .higon.com
@@ -34802,6 +34801,7 @@ xb.dlservice.microsoft.com
 .joojzz.com
 .joomob.com
 .joooz.com
+.joouoo.com
 .joowhee.com
 .joox.com
 .jooyoo.net
@@ -35721,6 +35721,7 @@ xb.dlservice.microsoft.com
 .k3887.com
 .k4nz.com
 .k518.com
+.k5d.net
 .k6271.com
 .k666.com
 .k6uk.com
@@ -37490,7 +37491,6 @@ xb.dlservice.microsoft.com
 .lanyg.com
 .lanyingwang.com
 .lanyuanxiaoyao.com
-.lanyuevilla.com
 .lanyunbrand.com
 .lanyus.com
 .lanyusf.com
@@ -49174,6 +49174,7 @@ xb.dlservice.microsoft.com
 .saifou.com
 .saifutong.com
 .saigao.fun
+.saihu888.com
 .saihuahong.com
 .saihuitong.com
 .saike.com
@@ -53681,6 +53682,7 @@ xb.dlservice.microsoft.com
 .t1.ink
 .t10.com
 .t105.com
+.t11.store
 .t12.com
 .t123yh.xyz
 .t1networks.com
@@ -56508,7 +56510,6 @@ xb.dlservice.microsoft.com
 .ufidawhy.com
 .ufileos.com
 .ufirefly.com
-.ufish.io
 .ufizl.com
 .uflowx.com
 .ufo.club
@@ -57313,7 +57314,6 @@ xb.dlservice.microsoft.com
 .vgabc.com
 .vgfav.com
 .vgjump.com
-.vglady.com
 .vglook.com
 .vgoapp.com
 .vgooo.com
@@ -62237,7 +62237,6 @@ xb.dlservice.microsoft.com
 .xinzheng.cc
 .xinzhenkj.com
 .xinzhongnews.com
-.xiong.ac
 .xionganzhuce.com
 .xiongdayq.com
 .xiongdong.com
@@ -64386,7 +64385,6 @@ xb.dlservice.microsoft.com
 .yinduzx.com
 .yineitong.com
 .yinfeiy.com
-.yinfos.com
 .ying-ji.com
 .yingbishufa.com
 .yingcankeji.com
@@ -65638,6 +65636,7 @@ xb.dlservice.microsoft.com
 .yuanjie.org
 .yuanjisong.com
 .yuanjoy.com
+.yuanjubieshu.com
 .yuanlai.com
 .yuanlian365.com
 .yuanliao.info
