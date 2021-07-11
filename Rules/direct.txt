@@ -433,7 +433,6 @@ xb.dlservice.microsoft.com
 .0214vip.com
 .02156506666.net
 .02163.com
-.0218bt.com
 .021bike.net
 .021bolang.com
 .021clean.com
@@ -626,7 +625,6 @@ xb.dlservice.microsoft.com
 .0376news.com
 .0377cw.com
 .0378zz.com
-.0379city.com
 .0379home.com
 .0379pfw.com
 .03964.com
@@ -948,7 +946,6 @@ xb.dlservice.microsoft.com
 .0838.com
 .0838che.com
 .0852diaoyu.com
-.0852e.com
 .0852job.com
 .0853rc.com
 .0854job.com
@@ -1298,7 +1295,6 @@ xb.dlservice.microsoft.com
 .1113.cc
 .11160066.com
 .1116yl.com
-.11185buy.com
 .111cn.net
 .111com.net
 .111g.com
@@ -1522,7 +1518,6 @@ xb.dlservice.microsoft.com
 .123juzi.com
 .123juzi.net
 .123ku.com
-.123leyuan.com
 .123lihun.com
 .123lvxing.com
 .123meiyan.com
@@ -1594,6 +1589,7 @@ xb.dlservice.microsoft.com
 .12pk.com
 .12sporting.com
 .12tiku.com
+.12tv.net
 .12yao.com
 .12ym.com
 .12ystar.com
@@ -1833,7 +1829,6 @@ xb.dlservice.microsoft.com
 .16768.com
 .16789.net
 .16816.com
-.16831522.com
 .16838.com
 .168393.com
 .1684.cc
@@ -2450,6 +2445,7 @@ xb.dlservice.microsoft.com
 .1wii.com
 .1x3x.com
 .1xiezuo.com
+.1xz.com
 .1y.com
 .1y0g.com
 .1y2y.com
@@ -2559,7 +2555,6 @@ xb.dlservice.microsoft.com
 .2133.com
 .2144.com
 .2144gy.com
-.2146677.com
 .214yx.com
 .2155.com
 .217.net
@@ -2985,7 +2980,6 @@ xb.dlservice.microsoft.com
 .2d3d5d.net
 .2dan.cc
 .2danji.com
-.2days.org
 .2df.me
 .2dfire.com
 .2di.cc
@@ -3035,7 +3029,6 @@ xb.dlservice.microsoft.com
 .2shihui.net
 .2shoujie.com
 .2shu8.cc
-.2shubao.com
 .2sitebbs.com
 .2smtc.com
 .2sx.net
@@ -3112,7 +3105,6 @@ xb.dlservice.microsoft.com
 .313515.com
 .3136525.com
 .31365y.com
-.313ab.com
 .3145.com
 .314pay.com
 .315003.com
@@ -3206,7 +3198,6 @@ xb.dlservice.microsoft.com
 .3234.com
 .323507.com
 .324.com
-.325286.com
 .32668g.com
 .32800.com
 .328f.com
@@ -3274,7 +3265,6 @@ xb.dlservice.microsoft.com
 .3361.com
 .3366.com
 .3366.net
-.3366099.org
 .336655.com
 .336688.net
 .3366dns.com
@@ -3786,6 +3776,7 @@ xb.dlservice.microsoft.com
 .3bwx.com
 .3c2p.com
 .3c3ww.com
+.3chongmen.com
 .3cjob.com
 .3conline.com
 .3cpp.org
@@ -4320,10 +4311,10 @@ xb.dlservice.microsoft.com
 .5100.net
 .51008.com
 .510560.com
-.51099.com
 .510ka.com
 .510you.com
 .511.la
+.511023.com
 .51110.com
 .51119.com
 .51168.tv
@@ -4658,6 +4649,7 @@ xb.dlservice.microsoft.com
 .51kids.com
 .51kik.com
 .51kt.com
+.51ktbyte.com
 .51kupai.com
 .51kupin.com
 .51kywang.com
@@ -5169,7 +5161,6 @@ xb.dlservice.microsoft.com
 .52linux.tech
 .52lion.com
 .52lishi.com
-.52luckystar.com
 .52lvyou.com
 .52mac.com
 .52maicong.com
@@ -5693,6 +5684,7 @@ xb.dlservice.microsoft.com
 .59wj.com
 .59yx.com
 .5a49.com
+.5a8.org
 .5aaa.com
 .5acbd.com
 .5adanhao.com
@@ -5809,7 +5801,6 @@ xb.dlservice.microsoft.com
 .5ixuexiwang.com
 .5iyq.com
 .5iyxw.net
-.5izt.net
 .5j.com
 .5j5k.com
 .5jin.org
@@ -6319,7 +6310,6 @@ xb.dlservice.microsoft.com
 .6vhao.tv
 .6vps.net
 .6wan.com
-.6wang.cc
 .6wtx.com
 .6xd.com
 .6xigema.com
@@ -7114,7 +7104,6 @@ xb.dlservice.microsoft.com
 .880sy.com
 .880you.com
 .88106.com
-.88175.com
 .8825.com
 .8827777.com
 .8828dl.com
@@ -7725,6 +7714,7 @@ xb.dlservice.microsoft.com
 .94oz.com
 .94php.com
 .94pm.com
+.94q.com
 .94qy.com
 .94rp.com
 .94te.com
@@ -9006,6 +8996,7 @@ xb.dlservice.microsoft.com
 .aimodou.net
 .aimoge.com
 .aimsen.com
+.ainfiniteactivity.com
 .ainiapp.com
 .ainirobot.com
 .ainiseo.com
@@ -9420,6 +9411,7 @@ xb.dlservice.microsoft.com
 .aliyunceng.com
 .aliyuncs.com
 .aliyundaiwei.com
+.aliyunddos0006.com
 .aliyunddos0010.com
 .aliyunddos0018.com
 .aliyunddos0020.com
@@ -9574,7 +9566,6 @@ xb.dlservice.microsoft.com
 .ambow.com
 .amchamchina.org
 .amdotibet.com
-.amdt.net
 .amec-inc.com
 .amemv.com
 .americanobgyn.com
@@ -9722,6 +9713,7 @@ xb.dlservice.microsoft.com
 .anjian.com
 .anjianghu.net
 .anjimicro.com
+.anjismart.com
 .anjuke.com
 .anjukestatic.com
 .ankang06.org
@@ -9932,7 +9924,6 @@ xb.dlservice.microsoft.com
 .aoliday.com
 .aolylcd.com
 .aomeng.net
-.aomenyule.net
 .aomoxo.com
 .aomygod.com
 .aomygodstatic.com
@@ -10308,7 +10299,6 @@ xb.dlservice.microsoft.com
 .as2sc.com
 .as3f.com
 .as5.com
-.asaimi.com
 .asaki.me
 .asao.com
 .asbeijing.com
@@ -10597,7 +10587,6 @@ xb.dlservice.microsoft.com
 .avtt830.com
 .aw.cc
 .aw99.com
-.awa919.com
 .awaimai.com
 .awaker.net
 .awaysoft.com
@@ -10886,6 +10875,7 @@ xb.dlservice.microsoft.com
 .baigeseo.com
 .baigm.com
 .baigo.net
+.baigongbao.com
 .baihe.com
 .baiheee.com
 .baihei.net
@@ -11204,7 +11194,6 @@ xb.dlservice.microsoft.com
 .baogaoting.com
 .baoguangsi.org
 .baohebao.com
-.baohejr.com
 .baohuagroup.com
 .baoimg.net
 .baojia.com
@@ -11412,7 +11401,6 @@ xb.dlservice.microsoft.com
 .bbzhi.com
 .bc12345678.com
 .bc6888.com
-.bc797.com
 .bcactc.com
 .bcadx.com
 .bcb5.com
@@ -11604,6 +11592,7 @@ xb.dlservice.microsoft.com
 .beifabook.com
 .beifang.net
 .beifangfoshifen.com
+.beifangyanxue.net
 .beifeng.com
 .beifengwang.com
 .beifuni.com
@@ -11784,7 +11773,6 @@ xb.dlservice.microsoft.com
 .bestwa.com
 .bestwehotel.com
 .bestweshop.com
-.bestwing.me
 .bet007.com
 .bet63k.com
 .bet810.vip
@@ -12219,7 +12207,6 @@ xb.dlservice.microsoft.com
 .bishe1234.com
 .bishen.ink
 .bishengoffice.com
-.bishequ.com
 .bisheziliao.com
 .bishijie.com
 .bishoujo.moe
@@ -12269,7 +12256,6 @@ xb.dlservice.microsoft.com
 .bitshuo.com
 .bitsqa.com
 .bitu360.com
-.bitvip.com
 .biuapp.im
 .biubiu.tv
 .biubiu001.com
@@ -13295,6 +13281,7 @@ xb.dlservice.microsoft.com
 .bugtags.com
 .buguangdeng.com
 .bugucn.com
+.bugukj.com
 .bugumanhua.com
 .bugutime.com
 .bugwz.com
@@ -13667,6 +13654,7 @@ xb.dlservice.microsoft.com
 .cacs100.com
 .cactifans.com
 .cactifans.org
+.cactmc.com
 .cad1688.com
 .cad8.net
 .cada.cc
@@ -13756,6 +13744,7 @@ xb.dlservice.microsoft.com
 .cailutong.com
 .cailuw.com
 .caimai.cc
+.caimaovip.com
 .caimei365.com
 .caimigs.com
 .caimogu.net
@@ -14070,6 +14059,7 @@ xb.dlservice.microsoft.com
 .ccapedu.com
 .ccartd.com
 .ccarting.com
+.ccasy.com
 .ccb.com
 .ccbfund.com
 .ccbfutures.com
@@ -14088,6 +14078,7 @@ xb.dlservice.microsoft.com
 .cccity.cc
 .ccciw.com
 .cccnec.com
+.cccollector.com
 .cccpan.com
 .ccctspm.org
 .cccwww.com
@@ -14646,6 +14637,7 @@ xb.dlservice.microsoft.com
 .cer.net
 .cerambath.org
 .ceramicschina.com
+.cere.cc
 .cernet.com
 .cernet.net
 .cernet2.net
@@ -15281,7 +15273,6 @@ xb.dlservice.microsoft.com
 .chgcis.com
 .chgcw.com
 .chgjedu.com
-.chgjjzx.com
 .chhblog.com
 .chhua.com
 .chhzm.com
@@ -15923,6 +15914,7 @@ xb.dlservice.microsoft.com
 .chinatimes.cc
 .chinatiner.com
 .chinatiredealer.com
+.chinatmic.com
 .chinatopbrands.net
 .chinatour-net.com
 .chinatourguide.com
@@ -16512,7 +16504,6 @@ xb.dlservice.microsoft.com
 .cittc.net
 .citure.net
 .citvc.com
-.citw2008.com
 .city8.com
 .city84.com
 .citydh.com
@@ -16545,7 +16536,6 @@ xb.dlservice.microsoft.com
 .cizip.com
 .cj-elec.com
 .cjavapy.com
-.cjbigdata.com
 .cjcjw.com
 .cjcp.org
 .cjdby.net
@@ -18157,6 +18147,7 @@ xb.dlservice.microsoft.com
 .crazyenglish.org
 .crazyflasher.com
 .crazyphper.com
+.crazypm.com
 .crbeverage.com
 .crc.com.hk
 .crc81.com
@@ -18496,7 +18487,6 @@ xb.dlservice.microsoft.com
 .ctsbw.com
 .ctsec.com
 .ctsho.com
-.ctsoo.com
 .ctsscs.com
 .ctssr.com
 .ctsto.com
@@ -18663,6 +18653,7 @@ xb.dlservice.microsoft.com
 .cxy7.com
 .cxybl.com
 .cxyd.net
+.cxyfjy.com
 .cxyl.org
 .cxylfc.com
 .cxymsg.com
@@ -18752,6 +18743,7 @@ xb.dlservice.microsoft.com
 .cytcard.com
 .cytcm.com
 .cyts.com
+.cytsgroup.com
 .cytsls.com
 .cytstibet.com
 .cyttc.org
@@ -19030,6 +19022,7 @@ xb.dlservice.microsoft.com
 .dailianzj.com
 .dailiba.com
 .dailijizhang.cc
+.dailimao.net
 .dailnkm.com
 .dailuopan.com
 .dailyeconomic.com
@@ -19397,6 +19390,7 @@ xb.dlservice.microsoft.com
 .dayinjiqudong.com
 .dayinpai.com
 .dayinpiano.com
+.dayinqudong.com
 .dayitong.net
 .dayong.name
 .dayoo.com
@@ -19723,6 +19717,7 @@ xb.dlservice.microsoft.com
 .dengtadaka.com
 .dengxiaolong.com
 .dengxiaopingnet.com
+.dengyong.cc
 .denic.de
 .denic.net
 .denocn.org
@@ -19751,6 +19746,7 @@ xb.dlservice.microsoft.com
 .deskcar.com
 .deskcity.com
 .deskcity.org
+.deskguanjia.com
 .deskier.com
 .desktopcal.com
 .desktopqa.com
@@ -20043,6 +20039,7 @@ xb.dlservice.microsoft.com
 .diantoushi.com
 .diantui.net
 .dianview.com
+.dianwanhezi.com
 .dianwannan.com
 .dianwoba.com
 .dianwoda.com
@@ -20246,7 +20243,6 @@ xb.dlservice.microsoft.com
 .dingxuewen.com
 .dingyantec.com
 .dingyueads.com
-.dingyunad.com
 .dingzepeizi.com
 .dingzhijl.com
 .diningcity.asia
@@ -20289,6 +20285,7 @@ xb.dlservice.microsoft.com
 .ditan369.com
 .dithub.com
 .ditian-tech.com
+.ditietu.com
 .ditiewang.net
 .ditiezu.net
 .ditu.live.com
@@ -20347,6 +20344,7 @@ xb.dlservice.microsoft.com
 .diyyh.com
 .diyzhuye.com
 .dizhi.xin
+.dizzylab.net
 .dj.net
 .dj10.com
 .dj134.com
@@ -20795,8 +20793,10 @@ xb.dlservice.microsoft.com
 .dongjun.cc
 .dongke.org
 .dongkelun.com
+.dongkouren.com
 .donglingying.cc
 .donglishuzhai.net
+.dongliw.com
 .donglizhixin.com
 .dongman.fm
 .dongmansoft.com
@@ -21161,6 +21161,7 @@ xb.dlservice.microsoft.com
 .dsonekey.com
 .dsook.com
 .dsp.com
+.dspeek.com
 .dspwhy.com
 .dsq.com
 .dsqin.com
@@ -21216,6 +21217,7 @@ xb.dlservice.microsoft.com
 .duai.com
 .dualaid.com
 .duanjn.com
+.duanjuzi.com
 .duanlonggang.com
 .duanmale.com
 .duanmeiwen.com
@@ -21290,6 +21292,7 @@ xb.dlservice.microsoft.com
 .duobeiyun.com
 .duobeiyun.net
 .duoben.net
+.duobiji.com
 .duocaitou.com
 .duochang.cc
 .duodaa.com
@@ -21529,12 +21532,12 @@ xb.dlservice.microsoft.com
 .dygang.net
 .dygangs.com
 .dygod.com
-.dygod.net
 .dygod.org
 .dygodj8.com
 .dyhhy.cc
 .dyhjw.com
 .dyhr88.com
+.dyhxgame.com
 .dyhzj.com
 .dyj.cc
 .dyjqd.com
@@ -21549,7 +21552,6 @@ xb.dlservice.microsoft.com
 .dyrjjt.com
 .dyrt168.com
 .dysxxw.com
-.dyteam.com
 .dytechnolog.com
 .dytol.com
 .dytt.net
@@ -21840,7 +21842,6 @@ xb.dlservice.microsoft.com
 .easyrecovery.net
 .easyrecoverychina.com
 .easyrecoverycn.com
-.easysoc.org
 .easysofthome.com
 .easyswoole.com
 .easytalkee.com
@@ -22044,7 +22045,6 @@ xb.dlservice.microsoft.com
 .eddycjy.com
 .ede35.com
 .edenab.com
-.edenw.com
 .edgeiptv.com
 .edgesrv.com
 .edgezzz.com
@@ -22864,7 +22864,6 @@ xb.dlservice.microsoft.com
 .euibe.com
 .eulike.com
 .eulixos.com
-.euratwin.com
 .eureka.name
 .eurochinesedaily.com
 .eusercenter.com
@@ -22981,6 +22980,7 @@ xb.dlservice.microsoft.com
 .exchangecn.com
 .exchen.net
 .exdoll.com
+.exemm.com
 .exezhanqun.com
 .exfree.com
 .exhera.com
@@ -23141,7 +23141,6 @@ xb.dlservice.microsoft.com
 .f5432.com
 .f54321.com
 .f5gh.com
-.f5hf.com
 .f5sd.com
 .f5yx.com
 .f773.com
@@ -23810,7 +23809,6 @@ xb.dlservice.microsoft.com
 .fengtalk.com
 .fengting.io
 .fengtouwang.com
-.fengup.com
 .fengwanyx.com
 .fengwenyi.com
 .fengwo.com
@@ -23961,6 +23959,7 @@ xb.dlservice.microsoft.com
 .fim34s.com
 .fimmu.com
 .fimvisual.com
+.fin-shine.com
 .finacerun.com
 .finalshares.com
 .finaltheory.me
@@ -24647,7 +24646,6 @@ xb.dlservice.microsoft.com
 .fujunjie.com
 .fuka.cc
 .fukebi.com
-.fukun.org
 .fulantv.com
 .fulevmy.com
 .fuli.la
@@ -24946,7 +24944,6 @@ xb.dlservice.microsoft.com
 .g3d.org
 .g3img.com
 .g3user.com
-.g5f4.com
 .g5h4.com
 .g72.com
 .g7430.com
@@ -25315,6 +25312,7 @@ xb.dlservice.microsoft.com
 .gddarf.com
 .gddata.net
 .gddg.cc
+.gddhn.com
 .gdebidding.com
 .gdefair.com
 .gdems.com
@@ -25552,7 +25550,6 @@ xb.dlservice.microsoft.com
 .geren-jianli.com
 .gerenjianli.com
 .gerhard-china.com
-.germany-leica.net
 .geroinv.com
 .geruihuate.com
 .gesanghua.org
@@ -25688,7 +25685,6 @@ xb.dlservice.microsoft.com
 .gh.com
 .gh5e.vip
 .gh6.org
-.gh6j.com
 .gh8s.com
 .ghatg.com
 .ghboke.com
@@ -25720,6 +25716,7 @@ xb.dlservice.microsoft.com
 .ghsmpwalmart.com
 .ght.me
 .ghui.me
+.ghxi.com
 .ghzhushou.com
 .ghzs.com
 .ghzs666.com
@@ -26215,7 +26212,6 @@ xb.dlservice.microsoft.com
 .googpc.com
 .goojer.com
 .goolink.org
-.goolpter.com
 .gooo8.com
 .gooogua.com
 .gooooal.com
@@ -26984,6 +26980,7 @@ xb.dlservice.microsoft.com
 .gxxmyjs.com
 .gxycwy.com
 .gxylxtc.com
+.gxyxlx.com
 .gxzjy.com
 .gxzmrl.com
 .gxzpw.org
@@ -27302,6 +27299,7 @@ xb.dlservice.microsoft.com
 .hackerlink.io
 .hackernc.com
 .hackernews.cc
+.hackertalk.net
 .hackhome.com
 .hackhp.com
 .hackhw.com
@@ -27388,6 +27386,7 @@ xb.dlservice.microsoft.com
 .haijincang.com
 .haijingfang.cc
 .haiketrip.com
+.hailiangedu.com
 .hailiangip.com
 .haililiang.com
 .hailinzeng.com
@@ -27712,6 +27711,7 @@ xb.dlservice.microsoft.com
 .haodingdan.com
 .haodiy.net
 .haodns123.cc
+.haodongdong.com
 .haodou.com
 .haoduofangs.com
 .haoduorou.net
@@ -28320,6 +28320,7 @@ xb.dlservice.microsoft.com
 .hdsdyyy.com
 .hdslb.com
 .hdslb.net
+.hdtgtm.com
 .hdthjy.com
 .hdtmedia.com
 .hduofen.com
@@ -28563,6 +28564,7 @@ xb.dlservice.microsoft.com
 .hengcaotang.com
 .hengchang6.com
 .hengdayun.com
+.hengdianfilm.com
 .hengdianworld.com
 .hengdongli.com
 .hengdu.cc
@@ -29024,6 +29026,7 @@ xb.dlservice.microsoft.com
 .hjjg.com
 .hjjs.org
 .hjkhjkl.com
+.hjmdjd.com
 .hjplw.com
 .hjpp.net
 .hjr-exchange.com
@@ -29033,6 +29036,7 @@ xb.dlservice.microsoft.com
 .hjwxcps.com
 .hjxsjx.com
 .hjy1314.com
+.hjyanxue.com
 .hjygame.com
 .hjyl.org
 .hjz518.com
@@ -29391,7 +29395,6 @@ xb.dlservice.microsoft.com
 .hommk.com
 .homolo.com
 .homolo.net
-.homolo.org
 .homomo.net
 .homylogistics.com
 .honda-sundiro.com
@@ -29404,6 +29407,7 @@ xb.dlservice.microsoft.com
 .hongbeibang.com
 .hongbizi.org
 .hongbocheng.com
+.hongbowang.net
 .hongchalin.com
 .hongchaping.com
 .hongdaym.com
@@ -29560,6 +29564,7 @@ xb.dlservice.microsoft.com
 .hotpub.com
 .hotread.com
 .hotsales.net
+.hotssp.com
 .hotstoday.com
 .hottechsemi.com
 .hottui.com
@@ -29601,14 +29606,12 @@ xb.dlservice.microsoft.com
 .howardwchen.com
 .howbuy.com
 .howelllighting.com
-.howjingcai.com
 .howjoin.com
 .howsci.com
 .howsoftworks.net
 .howtoing.com
 .howzhi.com
 .hoxing.com
-.hoxled.com
 .hoxue.com
 .hoyoh.com
 .hozin.com
@@ -29723,7 +29726,6 @@ xb.dlservice.microsoft.com
 .hrunion.org
 .hrxiongan.com
 .hrzy.cc
-.hs-ceo.com
 .hs-fe.com
 .hs-outlets.com
 .hs.net
@@ -29874,6 +29876,7 @@ xb.dlservice.microsoft.com
 .hturl.cc
 .htuwenming.com
 .htv009.com
+.htvaas.com
 .htwed.com
 .htx.cc
 .htxxpx.com
@@ -29902,7 +29905,6 @@ xb.dlservice.microsoft.com
 .huacaoshumu.net
 .huacemedia.com
 .huacenter.com
-.huachengzq.com
 .huachenit.com
 .huachenyuanyang.com
 .huaci.cc
@@ -30507,6 +30509,7 @@ xb.dlservice.microsoft.com
 .huomao.com
 .huomao.tv
 .huomaotv.com
+.huomaow.com
 .huomaqun.com
 .huoming.com
 .huopinjie.com
@@ -31741,7 +31744,6 @@ xb.dlservice.microsoft.com
 .iibq.com
 .iicp.net
 .iidns.com
-.iidvd.com
 .iiedns.xyz
 .iiexe.com
 .iifab.com
@@ -31873,7 +31875,6 @@ xb.dlservice.microsoft.com
 .ileehoo.com
 .ilego.club
 .ilewan.com
-.ilewen.com
 .iliangcang.com
 .ilibrand.com
 .ilidubj.net
@@ -31989,7 +31990,6 @@ xb.dlservice.microsoft.com
 .imeme.tv
 .imesong.com
 .imever.me
-.imexue.com
 .imfirewall.com
 .img-space.com
 .img-sys.com
@@ -33225,7 +33225,6 @@ xb.dlservice.microsoft.com
 .javaeye.com
 .javafxchina.net
 .javanav.com
-.javaresearch.org
 .javascriptcn.com
 .javashuo.com
 .javatang.com
@@ -33264,7 +33263,6 @@ xb.dlservice.microsoft.com
 .jbqipa.com
 .jbryun.com
 .jbtai.com
-.jbwtz.com
 .jbxy.com
 .jbzj.com
 .jbzwread.com
@@ -33339,7 +33337,6 @@ xb.dlservice.microsoft.com
 .jcyx2019.com
 .jczhijia.com
 .jczhiyao.com
-.jczqw.com
 .jd-88.com
 .jd-app.com
 .jd-bbs.com
@@ -33503,7 +33500,6 @@ xb.dlservice.microsoft.com
 .jf258.com
 .jf2688.com
 .jf88811.com
-.jf95.com
 .jf9p.com
 .jfbcb.com
 .jfbuilding.com
@@ -33545,6 +33541,7 @@ xb.dlservice.microsoft.com
 .jgg09.com
 .jggame.net
 .jggjj.com
+.jgscct.com
 .jgsdaily.com
 .jgshwx.com
 .jguo.com
@@ -33911,7 +33908,6 @@ xb.dlservice.microsoft.com
 .jiediankeji.com
 .jiedianqian.com
 .jiefadg.com
-.jiefangcheng.net
 .jiefuku.com
 .jiegames.com
 .jiegeng.com
@@ -34388,6 +34384,7 @@ xb.dlservice.microsoft.com
 .jiupin8.com
 .jiuq.com
 .jiurong.com
+.jiushiadx.com
 .jiushikou.com
 .jiushixing.com
 .jiushu.net
@@ -34679,6 +34676,7 @@ xb.dlservice.microsoft.com
 .jndwyy.com
 .jnesc.com
 .jnhouse.com
+.jnhyxddm.com
 .jnj-group.com
 .jnjj.com
 .jnjylh.com
@@ -35293,6 +35291,7 @@ xb.dlservice.microsoft.com
 .juming.com
 .jumore.com
 .jumorenews.com
+.jump2006.com
 .jumpjumpcat.com
 .jumple.com
 .jumppo.com
@@ -35534,6 +35533,7 @@ xb.dlservice.microsoft.com
 .jxrsrc.com
 .jxrtv.com
 .jxscct.com
+.jxsd-sz.com
 .jxsgfzx.com
 .jxsllw.com
 .jxslsyy.com
@@ -35548,7 +35548,6 @@ xb.dlservice.microsoft.com
 .jxtzw.com
 .jxunicom.com
 .jxwangwen.com
-.jxweizhi.com
 .jxwmanage.com
 .jxwz.net
 .jxxdf.com
@@ -36205,6 +36204,7 @@ xb.dlservice.microsoft.com
 .kepingtong.com
 .kepuchina.org
 .kepusky.com
+.kepuyanxue.com
 .ker58.com
 .kerlala.com
 .kermitym.com
@@ -36272,6 +36272,7 @@ xb.dlservice.microsoft.com
 .kf4137.com
 .kf5.com
 .kf911.com
+.kfadx.tech
 .kfang.xin
 .kfbiji.com
 .kfcdn.com
@@ -37711,7 +37712,6 @@ xb.dlservice.microsoft.com
 .ld0766.com
 .ld12366.com
 .ld246.com
-.lday.me
 .ldcache.net
 .ldcang.com
 .ldd.me
@@ -38487,6 +38487,7 @@ xb.dlservice.microsoft.com
 .linghit.com
 .lingji666.com
 .lingjiaocheng.com
+.lingjing.com
 .lingjoin.com
 .lingkaba.com
 .lingki.net
@@ -38610,6 +38611,7 @@ xb.dlservice.microsoft.com
 .linruanwangluo.com
 .linshang.com
 .linsn.com
+.linstitute.net
 .lintey.com
 .lintongrc.com
 .linuo-paradigma.com
@@ -39458,6 +39460,7 @@ xb.dlservice.microsoft.com
 .lsgzn.com
 .lshou.com
 .lshv8.com
+.lsij3km.com
 .lsj.ac
 .lsjacg.com
 .lsjczj.com
@@ -39694,6 +39697,7 @@ xb.dlservice.microsoft.com
 .luweitech.com
 .luwenxinqing.com
 .lux88.com
+.luxe.co
 .luxee.com
 .luxemon.com
 .luxianpo.com
@@ -39778,6 +39782,7 @@ xb.dlservice.microsoft.com
 .lvyou114.com
 .lvyou521.com
 .lvyoubaotech.com
+.lvyoubei.com
 .lvyougl.com
 .lvyouw.net
 .lvyuanpam.com
@@ -39878,7 +39883,6 @@ xb.dlservice.microsoft.com
 .lycndq.com
 .lyd6688.com
 .lydezx.net
-.lydfyjhotel.com
 .lydhb888.com
 .lydsy.com
 .lyecs.com
@@ -39931,6 +39935,7 @@ xb.dlservice.microsoft.com
 .lyun.me
 .lyunweb.com
 .lyvnee.com
+.lywenlv.com
 .lywf.me
 .lywww.com
 .lywxww.com
@@ -39971,7 +39976,6 @@ xb.dlservice.microsoft.com
 .lzsmedia.com
 .lzsq.net
 .lztai.com
-.lztnd.com
 .lztv.tv
 .lztvnet.com
 .lztx123.com
@@ -40379,7 +40383,6 @@ xb.dlservice.microsoft.com
 .manyanu.com
 .manyjs.com
 .manylaw.com
-.manymoonsculture.org
 .manyoo.net
 .manyou.com
 .manyoujing.net
@@ -41010,6 +41013,7 @@ xb.dlservice.microsoft.com
 .mengniang.tv
 .mengniu99.com
 .mengqiuju.com
+.mengsang.com
 .mengshihm.com
 .mengso.com
 .mengtian.com
@@ -41080,7 +41084,6 @@ xb.dlservice.microsoft.com
 .mezw.com
 .mezzp.com
 .mf-y.com
-.mf100.org
 .mf8.biz
 .mf927.com
 .mf999.com
@@ -41152,7 +41155,6 @@ xb.dlservice.microsoft.com
 .mhhospital.com
 .mhi-ac.com
 .mhimg.com
-.mhl.xyz
 .mhpdf.com
 .mhsf.com
 .mht.la
@@ -41353,7 +41355,6 @@ xb.dlservice.microsoft.com
 .mika123.com
 .mika18.com
 .mikannovel.com
-.mikebao.cc
 .mikechen.cc
 .mikecrm.com
 .mikemiao111.com
@@ -41551,6 +41552,7 @@ xb.dlservice.microsoft.com
 .mirari.cc
 .mirgaga.net
 .mirxat.com
+.misaka.center
 .misall.com
 .miscd.com
 .misclogic.com
@@ -41732,7 +41734,6 @@ xb.dlservice.microsoft.com
 .mmicloud.com
 .mmim8.com
 .mmimm.com
-.mmkkgg.com
 .mmkkiivv.com
 .mmloo.com
 .mmm.io
@@ -42156,7 +42157,6 @@ xb.dlservice.microsoft.com
 .mozigu.net
 .mozillaonline.com
 .mozillazg.com
-.mp4ba.cc
 .mp4ba.com
 .mp4ba.la
 .mp4cn.com
@@ -42410,6 +42410,7 @@ xb.dlservice.microsoft.com
 .muzili.xyz
 .muzisoft.com
 .mvben.com
+.mvc188.com
 .mvgod.com
 .mvhere.com
 .mvmpg.com
@@ -42766,6 +42767,7 @@ xb.dlservice.microsoft.com
 .mz5k.vip
 .mz6.net
 .mzbei.com
+.mzboss.com
 .mzeat.com
 .mzeyes.com
 .mzfile.com
@@ -43017,6 +43019,7 @@ xb.dlservice.microsoft.com
 .nbudp.com
 .nbunicom.com
 .nbwb.net
+.nbwbw.com
 .nbweekly.com
 .nbyang.com
 .nbyeda.com
@@ -43056,7 +43059,6 @@ xb.dlservice.microsoft.com
 .nd090.com
 .nd15.com
 .nd56.com
-.nd5f.com
 .nd68.com
 .nddaily.com
 .nddnrm.com
@@ -43090,7 +43092,6 @@ xb.dlservice.microsoft.com
 .negroupedu.org
 .neigou.com
 .neihan8.com
-.neihan8s.com
 .neihanshequ.com
 .neikuw.com
 .neimengguyongli.com
@@ -43316,7 +43317,6 @@ xb.dlservice.microsoft.com
 .nfcmag.com
 .nffair.com
 .nffund.com
-.nffuzhu.com
 .nfhcys.com
 .nfjt.net
 .nflchina.com
@@ -43454,7 +43454,6 @@ xb.dlservice.microsoft.com
 .ningidc.com
 .ningkangyuan.com
 .ningkekeji.com
-.ningli.win
 .ningmengdou.com
 .ningmengyun.com
 .ningmoe.com
@@ -43921,6 +43920,7 @@ xb.dlservice.microsoft.com
 .nuodasoft.com
 .nuodefund.com
 .nuoder.com
+.nuoha.vip
 .nuoji.com
 .nuojiugo.com
 .nuokui.com
@@ -44017,7 +44017,6 @@ xb.dlservice.microsoft.com
 .nyato.com
 .nybai.com
 .nybaidu.net
-.nychinaren.com
 .nyckidsclub.com
 .nync.com
 .nypd520.com
@@ -44087,6 +44086,7 @@ xb.dlservice.microsoft.com
 .obyee.com
 .ocar.tv
 .ocd120.com
+.oceanbot-steam.com
 .oceancnc.com
 .oceanengine.com
 .oceanlau.com
@@ -44382,6 +44382,7 @@ xb.dlservice.microsoft.com
 .onev.cat
 .onevcat.com
 .oneway.mobi
+.onewedesign.com
 .onewrt.com
 .onewsimg.com
 .onewsvod.com
@@ -44726,6 +44727,7 @@ xb.dlservice.microsoft.com
 .ourseo.net
 .oursketch.com
 .oursmc.com
+.ourtour.com
 .ourtxt.net
 .ourwebat.com
 .ourwebcdn.com
@@ -44928,7 +44930,6 @@ xb.dlservice.microsoft.com
 .panduoduo.net
 .panduoduo.online
 .panfn.com
-.pang0lin.com
 .pangbu.com
 .pangcheng.com
 .pangci.cc
@@ -45297,6 +45298,7 @@ xb.dlservice.microsoft.com
 .peoplerail.com
 .peopleyuqing.com
 .pepcn.com
+.pepprpvc.vip
 .pepresource.com
 .perfect-input.com
 .perfect-is-shit.com
@@ -46108,10 +46110,10 @@ xb.dlservice.microsoft.com
 .ppzuche.com
 .ppzuowen.com
 .pqdtcn.com
-.pqgld.com
 .pqpo.me
 .pqt-bearing.com
 .pqyhigh.com
+.pqylow.com
 .pqymiddle.com
 .pqzhichan.com
 .prcedu.com
@@ -46129,6 +46131,7 @@ xb.dlservice.microsoft.com
 .prestolite-bj.com
 .prfc-cn.com
 .prfog.com
+.prfuxl.xyz
 .pricl.com
 .primegoalgroup.com
 .primerachina.com
@@ -46155,7 +46158,6 @@ xb.dlservice.microsoft.com
 .productivity.wiki
 .proginn.com
 .programfan.com
-.programlife.net
 .programmer.group
 .programmer.help
 .programschool.com
@@ -46184,7 +46186,6 @@ xb.dlservice.microsoft.com
 .ps123.net
 .ps265.com
 .ps314.com
-.psahz.com
 .psbc.com
 .psc4d.com
 .psd8.com
@@ -47008,7 +47009,6 @@ xb.dlservice.microsoft.com
 .qinco.net
 .qineasy.com
 .qinfukai.com
-.qing-hei.com
 .qing-shan.com
 .qing.su
 .qing5.com
@@ -47357,6 +47357,7 @@ xb.dlservice.microsoft.com
 .qls.fun
 .qlteacher.com
 .qluu.com
+.qlxiaozhan.com
 .qlxol.com
 .qm000.com
 .qm120.com
@@ -48041,7 +48042,6 @@ xb.dlservice.microsoft.com
 .qyzjc.com
 .qz100.com
 .qz123.com
-.qz2588.com
 .qz828.com
 .qz930.com
 .qz96811.com
@@ -48537,6 +48537,7 @@ xb.dlservice.microsoft.com
 .rgznworld.com
 .rh98.com
 .rhce.cc
+.rhg-ex-b.com
 .rhhz.net
 .rhjyw.com
 .rhkj.com
@@ -48640,6 +48641,7 @@ xb.dlservice.microsoft.com
 .rkgaming.com
 .rksec.com
 .rkvir.com
+.rl-consult.com
 .rlair.net
 .rlbl888.com
 .rlkj.com
@@ -49041,6 +49043,7 @@ xb.dlservice.microsoft.com
 .ruyu.com
 .ruyuexs.com
 .ruzw.com
+.rv2go.com
 .rvfdp.com
 .rvmcu.com
 .rwtext.com
@@ -49088,6 +49091,7 @@ xb.dlservice.microsoft.com
 .rzx.me
 .rzxdjy.com
 .rzyjyl.com
+.s-02.com
 .s-dom.net
 .s-mob.com
 .s-ns.com
@@ -49920,6 +49924,7 @@ xb.dlservice.microsoft.com
 .seoshenzhen.com
 .seosn.com
 .seosrx.net
+.seosteven.com
 .seotcs.com
 .seoui.com
 .seowdw.com
@@ -50042,7 +50047,6 @@ xb.dlservice.microsoft.com
 .sh-aurora.net
 .sh-baolai.com
 .sh-cyclerace.org
-.sh-decai.com
 .sh-deem.com
 .sh-dent.com
 .sh-dls.com
@@ -50507,6 +50511,7 @@ xb.dlservice.microsoft.com
 .sheup.net
 .shevdc.org
 .shexiannet.com
+.shexun.net
 .sheyi8.com
 .sheying001.net
 .sheyingtg.com
@@ -50559,6 +50564,7 @@ xb.dlservice.microsoft.com
 .shici.store
 .shicimingju.com
 .shicishe.com
+.shiciting.com
 .shiciyun.com
 .shida66.com
 .shidaedu.vip
@@ -50670,7 +50676,6 @@ xb.dlservice.microsoft.com
 .shishike.com
 .shisongya.com
 .shisuint.org
-.shit.name
 .shitac.com
 .shitianxia.vip
 .shitibaodian.com
@@ -50721,7 +50726,6 @@ xb.dlservice.microsoft.com
 .shizila.com
 .shjdc.com
 .shjdceo.com
-.shjgdcl.com
 .shjgu.com
 .shjgxy.net
 .shjh120.com
@@ -51109,6 +51113,7 @@ xb.dlservice.microsoft.com
 .shundecity.com
 .shunderen.com
 .shunfalighting.com
+.shunguang.com
 .shunmi.com
 .shunong.com
 .shunshikj.com
@@ -51137,6 +51142,7 @@ xb.dlservice.microsoft.com
 .shuowan.cc
 .shuowan.com
 .shuowan.net
+.shuoxu.com
 .shuqi.com
 .shuqiapi.com
 .shuqiread.com
@@ -51560,6 +51566,7 @@ xb.dlservice.microsoft.com
 .sjdzp.com
 .sjdzp.net
 .sjetdz.com
+.sjfcdn.com
 .sjfkai.com
 .sjfpro.com
 .sjfx.com
@@ -51869,6 +51876,7 @@ xb.dlservice.microsoft.com
 .smtvip.com
 .smucdn.com
 .smudc.com
+.smwd.tech
 .smwenxue.com
 .smxdiy.com
 .smxgjj.com
@@ -52241,6 +52249,7 @@ xb.dlservice.microsoft.com
 .soujianghu.com
 .soukecheng.net
 .soukf.com
+.soukuyou.com
 .soulady.net
 .soulapp.me
 .souldee.com
@@ -52542,6 +52551,7 @@ xb.dlservice.microsoft.com
 .ssyar.com
 .ssyer.com
 .ssyule.com
+.ssyxlx.com
 .ssyzx.net
 .sszj.net
 .sszjnc.com
@@ -52719,6 +52729,7 @@ xb.dlservice.microsoft.com
 .studyfr.net
 .studyget.com
 .studygolang.com
+.studyingtours.com
 .studyintour.com
 .studyiris.com
 .studyjamscn.com
@@ -53163,10 +53174,12 @@ xb.dlservice.microsoft.com
 .swwy.com
 .sx189.com
 .sx267.com
+.sx3d.net
 .sxafz.com
 .sxbang.net
 .sxbawy.com
 .sxccb.com
+.sxcits.com
 .sxcm.net
 .sxcntv.com
 .sxcqzyc.com
@@ -53220,7 +53233,6 @@ xb.dlservice.microsoft.com
 .sxrb.com
 .sxrbw.com
 .sxrczx.com
-.sxrong.com
 .sxrsj.net
 .sxrtv.com
 .sxsapi.com
@@ -53311,6 +53323,7 @@ xb.dlservice.microsoft.com
 .synjones.com
 .synjones.net
 .synochip.com
+.syntao.com
 .synyan.net
 .syoits.com
 .syoker.com
@@ -53353,6 +53366,7 @@ xb.dlservice.microsoft.com
 .sywgy.com
 .syxcn.com
 .syxj.net
+.syxwnet.com
 .syyim.com
 .syys8.com
 .syyx.com
@@ -53935,6 +53949,7 @@ xb.dlservice.microsoft.com
 .taobao.org
 .taobao.tw
 .taobao.wang
+.taobao1111.com
 .taobao92.com
 .taobaocdn.com
 .taobaocdn.net
@@ -54794,6 +54809,7 @@ xb.dlservice.microsoft.com
 .tictalk.vip
 .ticwear.com
 .tida120.com
+.tidb.io
 .tidi.mobi
 .tiduyun.com
 .tieba.com
@@ -55324,7 +55340,6 @@ xb.dlservice.microsoft.com
 .topdiaoyu.com
 .topdodo.com
 .tope365.com
-.topecsc.com
 .topeditsci.com
 .topeet.com
 .topeetboard.com
@@ -55722,7 +55737,6 @@ xb.dlservice.microsoft.com
 .tt711.com
 .tt86.com
 .tt96596.com
-.ttadm.com
 .ttaidu.com
 .ttbba.com
 .ttbbss.com
@@ -56190,6 +56204,7 @@ xb.dlservice.microsoft.com
 .txitech.com
 .txjszz.com
 .txlt.com
+.txlunwenw.com
 .txmeiju.com
 .txon.net
 .txooo.com
@@ -57396,6 +57411,7 @@ xb.dlservice.microsoft.com
 .vinllen.com
 .vinnywang.com
 .vinoyang.com
+.vintagebroadcasts.com
 .vinuxhome.com
 .violetgo.com
 .violinerhu.com
@@ -57495,7 +57511,6 @@ xb.dlservice.microsoft.com
 .viskem.com
 .vispp.net
 .vista123.com
-.vistai.net
 .vistakatipunan.com
 .vistastory.com
 .visualchina.com
@@ -58555,7 +58570,6 @@ xb.dlservice.microsoft.com
 .weibopay.com
 .weibopie.com
 .weiboreach.com
-.weibovideo.com
 .weiboyi.com
 .weibusi.net
 .weica.net
@@ -58911,6 +58925,7 @@ xb.dlservice.microsoft.com
 .wenkuxiazai.net
 .wenlc.com
 .wenliku.com
+.wenlvnews.com
 .wenmeng.com
 .wenneart.com
 .wenpie.com
@@ -58924,10 +58939,10 @@ xb.dlservice.microsoft.com
 .wenshenbj.com
 .wenshendaka.com
 .wenshenku.com
-.wenshenlianmeng.club
 .wensheno.com
 .wenshenxiu.com
 .wenshibaowenbei.com
+.wenshijiawei.com
 .wenshitiandi.com
 .wenshuba.com
 .wenten.net
@@ -59221,7 +59236,6 @@ xb.dlservice.microsoft.com
 .whjhcz.com
 .whjiaoy.com
 .whjjhbj.com
-.whjjyyjsb.com
 .whjm.com
 .whjmyc.com
 .whjpwz.com
@@ -59287,7 +59301,6 @@ xb.dlservice.microsoft.com
 .whptc.org
 .whpx.net
 .whqcbj.com
-.whqcsi.com
 .whqhyg.com
 .whqiansou027.com
 .whqtdjy.com
@@ -59458,6 +59471,7 @@ xb.dlservice.microsoft.com
 .wikore.net
 .wikore.org
 .wilddog.com
+.wilddream.net
 .wildgun.net
 .will6.com
 .willcdn.com
@@ -59823,7 +59837,6 @@ xb.dlservice.microsoft.com
 .wnplayer.net
 .wnrb.net
 .wns1191.com
-.wnsjj.com
 .wnsqzonebk.com
 .wnssedu.com
 .wntool.com
@@ -59971,7 +59984,6 @@ xb.dlservice.microsoft.com
 .wooee.net
 .wooffice.net
 .woola.net
-.woolteam.com
 .wooolab.com
 .wooqx.com
 .woordee.com
@@ -60391,6 +60403,7 @@ xb.dlservice.microsoft.com
 .wukongtv.com
 .wukongwenda.com
 .wukuiwang.com
+.wukur.com
 .wukypay.com
 .wul.ai
 .wulannews.com
@@ -60797,6 +60810,7 @@ xb.dlservice.microsoft.com
 .xa-online.com
 .xa.com
 .xa189.net
+.xa30zx.com
 .xa9t.com
 .xabbp.com
 .xabbs.com
@@ -60821,7 +60835,6 @@ xb.dlservice.microsoft.com
 .xaigame.com
 .xainjo.com
 .xaixs.org
-.xajhgg.com
 .xajjk.com
 .xajjwy.com
 .xajob.com
@@ -61559,6 +61572,7 @@ xb.dlservice.microsoft.com
 .xiaomei.cc
 .xiaomeiti.com
 .xiaomeme.com
+.xiaomeng1235.com
 .xiaomi.com
 .xiaomi.hk
 .xiaomi.net
@@ -61735,6 +61749,7 @@ xb.dlservice.microsoft.com
 .xiaozhibaoxian.com
 .xiaozhibo.com
 .xiaozhichuangke.com
+.xiaozhishi.net
 .xiaozhiyun.com
 .xiaozhu.com
 .xiaozhu2.com
@@ -62366,7 +62381,6 @@ xb.dlservice.microsoft.com
 .xiyouchat.com
 .xiyouence.com
 .xiyouji.com
-.xiyouo.com
 .xiyouquan.com
 .xiyousdk.com
 .xiyouwebgame.com
@@ -62588,6 +62602,7 @@ xb.dlservice.microsoft.com
 .xmlvbarcode.com
 .xmmade.com
 .xmmama.com
+.xmmodo.com
 .xmmtoys.com
 .xmnjdwx.com
 .xmnovel.com
@@ -63044,7 +63059,6 @@ xb.dlservice.microsoft.com
 .xuewangzhan.net
 .xuewei.net
 .xueweijiema.com
-.xuewennet.com
 .xuexb.com
 .xuexi.la
 .xuexi365.com
@@ -63065,6 +63079,7 @@ xb.dlservice.microsoft.com
 .xueyanshe.com
 .xueyiyun.com
 .xueyou.org
+.xueyouyoo.com
 .xueyuanjun.com
 .xuezhouyi.com
 .xuezishi.net
@@ -63091,7 +63106,6 @@ xb.dlservice.microsoft.com
 .xunbaozhifu.com
 .xunbibao.com
 .xunbin.com
-.xunbo.cc
 .xunbuy.com
 .xuncaoji.net
 .xunchabing.com
@@ -63107,6 +63121,7 @@ xb.dlservice.microsoft.com
 .xunhuoyi.com
 .xunhupay.com
 .xunihao.net
+.xunii.com
 .xunjiecad.com
 .xunjiepdf.com
 .xunjieshipin.com
@@ -63420,6 +63435,7 @@ xb.dlservice.microsoft.com
 .xzddx.com
 .xzfclub.com
 .xzfile.com
+.xzggjyzpw.com
 .xzgjj.com
 .xzhichang.com
 .xzhizao.com
@@ -63658,6 +63674,7 @@ xb.dlservice.microsoft.com
 .yanxuezhang.net
 .yanyapeng.com
 .yanyib2b.com
+.yanyijiameng.com
 .yanyijingling.com
 .yanyiquan.com
 .yanyiwu.com
@@ -63967,7 +63984,6 @@ xb.dlservice.microsoft.com
 .yeseread.com
 .yeshen.com
 .yeshengarts.com
-.yeshigeek.com
 .yeshj.com
 .yeshu.com
 .yesidos.com
@@ -64034,7 +64050,6 @@ xb.dlservice.microsoft.com
 .yfhxtech.com
 .yfiot.com
 .yfjiakao.com
-.yfjx.cc
 .yfklxz.com
 .yfmhw.com
 .yfp2p.net
@@ -64447,7 +64462,6 @@ xb.dlservice.microsoft.com
 .yingyurumen.com
 .yingyushijie.com
 .yingyuweb.com
-.yingyuyingwen.com
 .yingyuzhushou.com
 .yingzaocms.com
 .yingzheng.com
@@ -64838,6 +64852,7 @@ xb.dlservice.microsoft.com
 .ylzms.com
 .ym-trans.com
 .ym1998.com
+.ym23.com
 .ym68.cc
 .ym75168.com
 .ymailcampaign.com
@@ -64854,7 +64869,6 @@ xb.dlservice.microsoft.com
 .ymd88.com
 .ymeme.com
 .ymexf.com
-.ymfe.org
 .ymfhbcj.net
 .ymfile.com
 .ymfile01.com
@@ -64862,6 +64876,7 @@ xb.dlservice.microsoft.com
 .ymhudong.com
 .ymiot.net
 .ymjm.net
+.ymkj99.com
 .ymlfxp.com
 .ymlinks.com
 .ymlykj.com
@@ -65260,6 +65275,7 @@ xb.dlservice.microsoft.com
 .youtu.com
 .youtuzi.com
 .youtx.com
+.youwawa.com
 .youwei.com
 .youwinedu.com
 .youwo.com
@@ -65694,6 +65710,7 @@ xb.dlservice.microsoft.com
 .yucl.com
 .yucongding.com
 .yucoolgame.com
+.yucui.org
 .yudaocha.com
 .yudi.com
 .yudianda.com
@@ -66073,6 +66090,7 @@ xb.dlservice.microsoft.com
 .yunyingzhinan.com
 .yunyitiancheng.com
 .yunyiwangluo.com
+.yunyoufeitian.com
 .yunyouni.com
 .yunyu123.com
 .yunyue.cc
@@ -66513,6 +66531,7 @@ xb.dlservice.microsoft.com
 .zaixiankan.net
 .zaixs.com
 .zaixuchang.com
+.zaiyulin.com
 .zaiyunli.com
 .zaizai8.com
 .zallcn.com
@@ -66891,7 +66910,6 @@ xb.dlservice.microsoft.com
 .zgjjzyjy.org
 .zgjm.net
 .zgjm.org
-.zgjntq.com
 .zgjsks.com
 .zgjtb.com
 .zgjxcad.com
@@ -67471,7 +67489,6 @@ xb.dlservice.microsoft.com
 .zhikao100.com
 .zhikaotong.net
 .zhikea.com
-.zhikeonline.com
 .zhikubao.net
 .zhilandaren.com
 .zhilehuo.com
@@ -68019,6 +68036,7 @@ xb.dlservice.microsoft.com
 .zhuxianfei.com
 .zhuxiaobang.com
 .zhuxuejy.com
+.zhuxuncn.com
 .zhuye.kim
 .zhuyee.com
 .zhuyeshouhushen.com
@@ -68340,7 +68358,6 @@ xb.dlservice.microsoft.com
 .zjlottery.com
 .zjlvjie.com
 .zjlxtx.com
-.zjmandi.com
 .zjmax.com
 .zjmi-mall.com
 .zjmobile.com
@@ -68451,6 +68468,7 @@ xb.dlservice.microsoft.com
 .zkyxls.com
 .zkzhkj.com
 .zkzj.org
+.zl532.com
 .zl99.org
 .zlbaba.com
 .zlca.org
@@ -69223,6 +69241,7 @@ xb.dlservice.microsoft.com
 .zyzj360.com
 .zyzjmz.org
 .zyzkb.net
+.zyzw.com
 .zyzxgy.com
 .zyzxs.com
 .zz-news.com
