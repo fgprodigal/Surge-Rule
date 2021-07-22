@@ -4973,7 +4973,6 @@ xb.dlservice.microsoft.com
 .520lily.com
 .520link.com
 .520love520.com
-.520ly8.com
 .520meirenyu.com
 .520meirong.com
 .520mingmei.com
@@ -9437,6 +9436,7 @@ xb.dlservice.microsoft.com
 .aliyunj.com
 .aliyunlive.com
 .aliyunqifu.com
+.aliyuntest0161.xin
 .aliyunwaf.com
 .aliyunwaf1.com
 .aliyunwaf2.com
@@ -18528,7 +18528,6 @@ xb.dlservice.microsoft.com
 .cupfox.com
 .cupinn.com
 .cuplayer.com
-.cupoden.com
 .cureedit.com
 .curlc.com
 .curryhuang.com
@@ -22939,6 +22938,7 @@ xb.dlservice.microsoft.com
 .exinee.com
 .exing103.com
 .exing113.com
+.exing125.com
 .exiqu.com
 .exmailqq.com
 .exmrw.com
@@ -23414,7 +23414,6 @@ xb.dlservice.microsoft.com
 .fashuounion.com
 .fasionchan.com
 .fast.im
-.fast8.com
 .fastadmin.net
 .fastadx.com
 .fastapi.net
@@ -23426,6 +23425,7 @@ xb.dlservice.microsoft.com
 .fastidea.cc
 .fastidea.me
 .fastio.tech
+.fastliii.com
 .fastmirror.org
 .fastmis.com
 .fastmock.site
@@ -24175,7 +24175,6 @@ xb.dlservice.microsoft.com
 .flyertrip.com
 .flyfish8.com
 .flyfishx.com
-.flyfood.name
 .flyfunny.com
 .flygon.net
 .flyguest.com
@@ -24361,7 +24360,6 @@ xb.dlservice.microsoft.com
 .founei.com
 .founpad.com
 .fountask.com
-.four00.com
 .fovmy.com
 .fox-studio.net
 .fox008.com
@@ -25210,6 +25208,7 @@ xb.dlservice.microsoft.com
 .gccdn.net
 .gcchina.com
 .gccmgw.com
+.gcdcrs.com
 .gcgd.net
 .gch5game.com
 .gchao.com
@@ -27432,7 +27431,6 @@ xb.dlservice.microsoft.com
 .haixunw.com
 .haiyi701.com
 .haiying168.com
-.haiyingku.com
 .haiyue.info
 .haiyuhe.com
 .haiyun.me
@@ -27541,6 +27539,7 @@ xb.dlservice.microsoft.com
 .hanmi520.com
 .hannor.com
 .hanpinyuan.com
+.hanqiweb.co
 .hanqiweb.com
 .hanqiweb.net
 .hanqiweb.red
@@ -29060,7 +29059,6 @@ xb.dlservice.microsoft.com
 .hljyestar.com
 .hljyqnj.com
 .hljzhenpin.com
-.hljzqg.com
 .hlkncse.com
 .hlmseo.com
 .hlnmg.com
@@ -31440,6 +31438,7 @@ xb.dlservice.microsoft.com
 .iefang.com
 .iefans.net
 .ieforex.com
+.iegcom.com
 .iegee.net
 .iegourl.com
 .iejiu.com
@@ -34865,7 +34864,6 @@ xb.dlservice.microsoft.com
 .jrjhg.com
 .jrjingshan.com
 .jrjr.com
-.jrkan.cc
 .jrlady.com
 .jrmf360.com
 .jrpxw.com
@@ -35321,7 +35319,6 @@ xb.dlservice.microsoft.com
 .justalkcloud.com
 .justbilt.com
 .justbon.com
-.justcartoon.com
 .justdo.tv
 .justdojava.com
 .justep.com
@@ -45698,6 +45695,7 @@ xb.dlservice.microsoft.com
 .planetmeican.com
 .planoi.com
 .plantextra.com
+.plantname.xyz
 .plantower.com
 .plas2006.com
 .plasmatium.xyz
@@ -45814,6 +45812,7 @@ xb.dlservice.microsoft.com
 .pojaa.com
 .pojie520.com
 .pokemmc.com
+.pokemon-unitepgame.com
 .pokemon.name
 .pokermate.net
 .poketec.com
@@ -46662,7 +46661,6 @@ xb.dlservice.microsoft.com
 .qianbao.com
 .qianbao666.com
 .qianbaocard.com
-.qianbaocard.org
 .qianbaohr.com
 .qiancaosp1.xyz
 .qiancheng.me
@@ -51144,6 +51142,7 @@ xb.dlservice.microsoft.com
 .shyxfdc.com
 .shyxwz.com
 .shyy6688.com
+.shyyp.net
 .shyywz.com
 .shyzsd.com
 .shzbc.com
@@ -52675,7 +52674,6 @@ xb.dlservice.microsoft.com
 .stylecdn.com
 .stylemode.com
 .styles-sys.com
-.stylewoman.net
 .styongtu.com
 .stzw.com
 .su-long.com
@@ -54374,6 +54372,7 @@ xb.dlservice.microsoft.com
 .tezhengma.com
 .tezhongzhuangbei.com
 .tezign.com
+.tf.wiki
 .tf86.com
 .tfang.net
 .tfax.com
@@ -54536,7 +54535,6 @@ xb.dlservice.microsoft.com
 .thyclub.com
 .thyoo.com
 .thyou.com
-.thyrsi.com
 .thz56.com
 .thzab.com
 .thzcb.com
@@ -62166,6 +62164,7 @@ xb.dlservice.microsoft.com
 .xiqqq.com
 .xirang.com
 .xirenxuan.com
+.xirikm.net
 .xishanju.com
 .xishaoye.com
 .xishiqu.com
@@ -63918,7 +63917,6 @@ xb.dlservice.microsoft.com
 .yeyaji9.com
 .yeyday.com
 .yeyemm.xyz
-.yeyetech.net
 .yeyezw.com
 .yeyimg.com
 .yeyo.cc
@@ -66676,7 +66674,6 @@ xb.dlservice.microsoft.com
 .zelinonline.com
 .zemismart.com
 .zemuo.com
-.zendstudio.net
 .zengdefei.com
 .zengjunpeng.com
 .zengrong.net
@@ -68722,6 +68719,7 @@ xb.dlservice.microsoft.com
 .zswebao.xyz
 .zsxq.com
 .zsxq100.com
+.zsyjgmr.com
 .zsythink.net
 .zszq.com
 .zt-express.com
@@ -68844,6 +68842,7 @@ xb.dlservice.microsoft.com
 .zuitu.com
 .zuiwan.net
 .zuixiaoyao.com
+.zuixingzuo.net
 .zuixinwx.com
 .zuixu.com
 .zuixue.com
