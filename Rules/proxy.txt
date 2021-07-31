@@ -10121,6 +10121,7 @@ zeenews-fonts.s3.amazonaws.com
 .ff766.net
 .ffacebook.com
 .fff36.net
+.fffdm.com
 .fflick.com
 .fflnk.net
 .ffmpeg.org
@@ -10961,6 +10962,7 @@ zeenews-fonts.s3.amazonaws.com
 .fyt96.com
 .fyxm.net
 .fyy3368.com
+.fzdm.com
 .fzh999.com
 .fzh999.net
 .fzlm.com
@@ -24624,6 +24626,7 @@ zeenews-fonts.s3.amazonaws.com
 .wf
 .wf.smathis.com
 .wfc01.com
+.wfm.com
 .wforum.com
 .wfrick.net
 .wfwp.org
@@ -24671,6 +24674,7 @@ zeenews-fonts.s3.amazonaws.com
 .whoer.net
 .whogovernstw.org
 .wholecitiesfoundation.org
+.wholefoods.com
 .wholefoodsmarket.com
 .wholekidsfoundation.org
 .wholeplanetfoundation.org
