@@ -27,6 +27,7 @@
 .google-analytics.com
 .googleadservices.com
 .googleanalytics.com
+.googleoptimize.com
 .googlesyndication.com
 .googletagmanager.com
 .googletagservices.com
