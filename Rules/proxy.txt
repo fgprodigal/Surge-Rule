@@ -7896,6 +7896,7 @@ zeenews-fonts.s3.amazonaws.com
 .dancemeets.com
 .dancingbear.com
 .dandalinvoa.com
+.dandanzan.cc
 .danemarket.com
 .danielgranda.com
 .daniellaw.me
@@ -16782,6 +16783,7 @@ zeenews-fonts.s3.amazonaws.com
 .mucinex.tv
 .mucinexprofessional.com
 .mudfish.net
+.mudvod.tv
 .muftah.org
 .muji.com
 .muji.net
@@ -17767,6 +17769,7 @@ zeenews-fonts.s3.amazonaws.com
 .nugettest.org
 .nukistream.com
 .numbr.com
+.nunuyy.cc
 .nuovelle.ee
 .nuovomegavideo.com
 .nurgo-software.com
@@ -24072,6 +24075,7 @@ zeenews-fonts.s3.amazonaws.com
 .vocn.tv
 .vocus.cc
 .vod.com
+.vod360.net
 .voicettank.org
 .voipfone.net
 .vokevr.com
