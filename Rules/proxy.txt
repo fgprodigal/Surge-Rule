@@ -12264,6 +12264,7 @@ zeenews-fonts.s3.amazonaws.com
 .heyav.tv
 .heydoga.com
 .heymiles.com
+.heyuedi.com
 .heywire.com
 .heyzo.com
 .hf-iphone.com
@@ -22145,6 +22146,7 @@ zeenews-fonts.s3.amazonaws.com
 .tenor.com
 .tensorflow.org
 .tenzinpalmo.com
+.terabox.com
 .terapeack.com
 .terapeak.com
 .terapeak.info
