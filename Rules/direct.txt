@@ -5552,7 +5552,6 @@ xb.dlservice.microsoft.com
 .58xs.la
 .58xs.tw
 .58xueche.com
-.58xuechewang.com
 .58xuexi.com
 .58yiji.com
 .58yuefu.com
@@ -20088,6 +20087,7 @@ xb.dlservice.microsoft.com
 .diyifangdai.com
 .diyifanwen.com
 .diyifanwen.net
+.diyigaokao.com
 .diyihuifu.com
 .diyijuzi.com
 .diyinews.com
@@ -44609,6 +44609,7 @@ xb.dlservice.microsoft.com
 .patchallin.com
 .patchew.org
 .patent-cn.com
+.patent9.com
 .patexplorer.com
 .patindex.com
 .patmm.com
@@ -49459,6 +49460,7 @@ xb.dlservice.microsoft.com
 .sevencdn.com
 .sevenseas-china.com
 .sewise.com
+.sexytea2013.com
 .sf-airlines.com
 .sf-bearing.com
 .sf-card.com
@@ -56126,6 +56128,7 @@ xb.dlservice.microsoft.com
 .unclicks.com
 .undefined.ltd
 .underfill.cc
+.uneed.com
 .unfish.net
 .ungifts.com
 .uni-perfect.com
@@ -60664,6 +60667,7 @@ xb.dlservice.microsoft.com
 .xiald.com
 .xialingying.cc
 .xialv.com
+.xiamai.net
 .xiamenair.com
 .xiamentianqi114.com
 .xiami.com
@@ -60877,7 +60881,6 @@ xb.dlservice.microsoft.com
 .xiaohe97.com
 .xiaohei.com
 .xiaoheima.com
-.xiaohongblog.com
 .xiaohongchun.com
 .xiaohongdian.wang
 .xiaohongshu.com
@@ -60972,6 +60975,7 @@ xb.dlservice.microsoft.com
 .xiaoming.me
 .xiaomingming.org
 .xiaomingtaiji.com
+.xiaomiqiu.com
 .xiaomiquan.com
 .xiaomishu.com
 .xiaomiwujiecao.com
@@ -61376,6 +61380,7 @@ xb.dlservice.microsoft.com
 .xingfagroup.com
 .xingfudu.com
 .xingfufangdai.com
+.xingfulizhaofang.com
 .xingfunancun.com
 .xingfuu.com
 .xinggan.com
@@ -62645,6 +62650,7 @@ xb.dlservice.microsoft.com
 .xxlinux.com
 .xxliudsp.com
 .xxlwin.com
+.xxm.plus
 .xxmac.com
 .xxmanhua.info
 .xxmh117.com
@@ -64495,6 +64501,7 @@ xb.dlservice.microsoft.com
 .youdiancms.com
 .youdnser.com
 .youdu.im
+.youdwh.com
 .youease.net
 .youedata.com
 .youeryun.com
@@ -66754,6 +66761,7 @@ xb.dlservice.microsoft.com
 .zhh.me
 .zhhainiao.com
 .zhhs-china.com
+.zhhtxt.com
 .zhhuahui.com
 .zhhy-oa.com
 .zhi-bo.net
