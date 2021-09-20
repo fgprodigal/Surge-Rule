@@ -14413,7 +14413,6 @@ xb.dlservice.microsoft.com
 .ceoeo.com
 .ceoim.com
 .ceomoo.com
-.ceons4.com
 .ceook.com
 .ceoplaza.com
 .ceotx.com
@@ -23551,7 +23550,6 @@ xb.dlservice.microsoft.com
 .fenxi.org
 .fenxiangdashi.com
 .fenxianglife.com
-.fenxiaoba.net
 .fenxiyi.com
 .fenxuekeji.com
 .fenying.net
@@ -24463,7 +24461,6 @@ xb.dlservice.microsoft.com
 .fw-biotech.com
 .fw4.co
 .fw4.me
-.fwcdn.com
 .fwdq.com
 .fwdq.net
 .fwdqw.com
@@ -26949,7 +26946,6 @@ xb.dlservice.microsoft.com
 .habadog.com
 .habbygames.com
 .hac-ker.net
-.hacdn.net
 .hack0nair.me
 .hack50.com
 .hack520.com
@@ -26975,7 +26971,6 @@ xb.dlservice.microsoft.com
 .hacpai.com
 .haczjob.com
 .hadax.com
-.hadns.net
 .hadobi.com
 .hadsky.com
 .hadyang.com
@@ -40414,7 +40409,6 @@ xb.dlservice.microsoft.com
 .meirishentie.com
 .meiritv.net
 .meiriyiwen.com
-.meiriyouxue.com
 .meirong.net
 .meirongshanghai.com
 .meisaitu.com
@@ -60008,6 +60002,7 @@ xb.dlservice.microsoft.com
 .wykefu.com
 .wykw.com
 .wykz.com
+.wylws.com
 .wymp4.net
 .wymp46.com
 .wyn88.com
@@ -64448,10 +64443,8 @@ xb.dlservice.microsoft.com
 .youjiaus.net
 .youjiaxiao.com
 .youjiuhealth.com
-.youjk.com
 .youjoy.tv
 .youjuke.com
-.youka.la
 .youkake.com
 .youke.co
 .youke.com
@@ -68069,6 +68062,7 @@ xb.dlservice.microsoft.com
 .zsf.cool
 .zsfstudio.xyz
 .zsfund.com
+.zsfy.org
 .zsgd.com
 .zsglrj.com
 .zsgoodlighting.com
