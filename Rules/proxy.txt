@@ -1,5 +1,6 @@
 abematv.akamaized.net
 amp.akamaized.net
+api-p.videomarket.jp
 api.viu.now.com
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
@@ -4514,6 +4515,7 @@ zeenews-fonts.s3.amazonaws.com
 .bbcchinese.com
 .bbchat.tv
 .bbcmundo.com
+.bbcpersian.com
 .bbcradioint.com
 .bbcurdu.com
 .bbcverticals.com
@@ -8878,6 +8880,7 @@ zeenews-fonts.s3.amazonaws.com
 .dynamics.com
 .dynathome.net
 .dynawebinc.com
+.dyncdn.me
 .dyndns-free.com
 .dyndns-home.com
 .dyndns-ip.com
@@ -19731,12 +19734,17 @@ zeenews-fonts.s3.amazonaws.com
 .rarbg.is
 .rarbg.me
 .rarbgaccess.org
+.rarbgaccessed.org
+.rarbgget.org
 .rarbggo.org
 .rarbgmirror.com
 .rarbgmirror.org
 .rarbgproxy.org
 .rarbgprx.org
+.rarbgto.org
 .rarbgunblock.com
+.rarbgunblock.org
+.rarbgway.org
 .raremovie.cc
 .raremovie.net
 .raspberrypi.org
@@ -25843,7 +25851,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.bb757.net
 .www.bbb111.com
 .www.bbcnews.com
-.www.bbcpersian.com
 .www.bbcukchina.com
 .www.bbgdirect.com
 .www.bbh.com
