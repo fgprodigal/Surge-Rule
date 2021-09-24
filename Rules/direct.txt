@@ -7830,7 +7830,6 @@ xb.dlservice.microsoft.com
 .9928.tv
 .992892.com
 .9939.com
-.993dy.com
 .993h.com
 .994wan.com
 .9951766.com
@@ -8070,7 +8069,6 @@ xb.dlservice.microsoft.com
 .9xu.com
 .9xwang.com
 .9xyg.com
-.9xz.net
 .9yao.com
 .9yaocn.com
 .9yc.com
@@ -9003,7 +9001,6 @@ xb.dlservice.microsoft.com
 .aiyadu.com
 .aiyangedu.com
 .aiyanqing.com
-.aiyaohai.com
 .aiyaopai.com
 .aiyichuan.com
 .aiyidu.com
@@ -10435,6 +10432,7 @@ xb.dlservice.microsoft.com
 .awcn.cc
 .aweb.cc
 .awehunt.com
+.awemeughun.com
 .awesome-bruce.me
 .awinic.com
 .awjiaju.com
@@ -16398,7 +16396,6 @@ xb.dlservice.microsoft.com
 .clear888.com
 .clearaki.com
 .clearcrane.com
-.cleey.com
 .clewm.net
 .clewx.com
 .clf.red
@@ -17354,7 +17351,6 @@ xb.dlservice.microsoft.com
 .codesec.net
 .codesky.me
 .codesky.net
-.codesocang.com
 .codesoft.hk
 .codesoftchina.com
 .codesoso.com
@@ -17585,6 +17581,7 @@ xb.dlservice.microsoft.com
 .coolxap.com
 .coolyun.com
 .coolzou.com
+.coomix.net
 .cooo.us
 .coooz.com
 .coop100.com
@@ -18277,7 +18274,6 @@ xb.dlservice.microsoft.com
 .cuketest.com
 .cul-studies.com
 .culaiwan.com
-.cultofslavery.com
 .cumtenn.com
 .cumulon.com
 .cun58.com
@@ -18711,7 +18707,6 @@ xb.dlservice.microsoft.com
 .dahua8.com
 .dahuaab.com
 .dahuangmei.com
-.dahuatech.cc
 .dahuatech.com
 .dahuawang.com
 .dahuifuwu.com
@@ -19977,6 +19972,7 @@ xb.dlservice.microsoft.com
 .diqi.net
 .diqi.sh
 .diqibu.com
+.diqishu.com
 .diqiujiayuan.com
 .diqiuw.com
 .diqu114.com
@@ -20185,6 +20181,7 @@ xb.dlservice.microsoft.com
 .dlyilian.com
 .dlzb.com
 .dlztb.com
+.dlzww.com
 .dlzyc.com
 .dlzycf.com
 .dm004.net
@@ -22212,7 +22209,6 @@ xb.dlservice.microsoft.com
 .eng888.com
 .engeniustec.com
 .engliship4u.com
-.englishpad.com
 .englishtide.com
 .englishtownpromotion.com
 .engloncar.com
@@ -22332,7 +22328,6 @@ xb.dlservice.microsoft.com
 .epzcw.com
 .eq-hl.com
 .eqbyc.com
-.eqceshi.com
 .eqding.com
 .eqh5.com
 .eqidi.com
@@ -24510,6 +24505,7 @@ xb.dlservice.microsoft.com
 .fy027.com
 .fy169.net
 .fy558.com
+.fy65.com
 .fy98.com
 .fybiji.com
 .fybooks.com
@@ -26475,6 +26471,7 @@ xb.dlservice.microsoft.com
 .guoxuwang.com
 .guoyang.cc
 .guoyb.com
+.guoyi360.com
 .guoyice.com
 .guoyitangtt.com
 .guoyu.com
@@ -28928,7 +28925,6 @@ xb.dlservice.microsoft.com
 .hnxfpfb.com
 .hnxgzg.com
 .hnxmxit.com
-.hnxueqian.com
 .hnxuntang.com
 .hnxyjt.com
 .hnycsk.com
@@ -45664,7 +45660,6 @@ xb.dlservice.microsoft.com
 .pthc8.com
 .pthxuexi.com
 .ptimg.org
-.ptisys.com
 .ptkill.com
 .ptleju.com
 .ptmind.com
@@ -48567,6 +48562,7 @@ xb.dlservice.microsoft.com
 .saicgroup.com
 .saicjg.com
 .saicmaxus.com
+.saicmobility.com
 .saicmotor.com
 .saicyun.com
 .saidawang.com
@@ -53949,7 +53945,6 @@ xb.dlservice.microsoft.com
 .thseoer.com
 .thstars.com
 .thstp.com
-.thtf.cc
 .thtfpc.com
 .thtxzyz.com
 .thumedialab.com
@@ -58283,6 +58278,7 @@ xb.dlservice.microsoft.com
 .wenzhengwenhua.com
 .wenzhousx.com
 .wenzidi.com
+.wenzon.com
 .wepiao.com
 .wepie.com
 .weplaybubble.com
@@ -58439,7 +58435,6 @@ xb.dlservice.microsoft.com
 .whcfs.org
 .whcgtx.com
 .whchihuo.com
-.whchumei.com
 .whckxx.com
 .whcotton.com
 .whcrewin.com
@@ -61121,7 +61116,6 @@ xb.dlservice.microsoft.com
 .xiexingcun.com
 .xiexingme.com
 .xieyangzhe.com
-.xieyc.com
 .xieyinwang.com
 .xiezefan.me
 .xiezewen.com
@@ -61670,7 +61664,6 @@ xb.dlservice.microsoft.com
 .xj120.com
 .xj123.info
 .xj169.com
-.xj474hos.com
 .xj7road.com
 .xj96596.com
 .xjabc.net
@@ -67370,7 +67363,6 @@ xb.dlservice.microsoft.com
 .zijiecdn.net
 .zijieimg.com
 .zijinfx.com
-.zijing.org
 .zijinji.com
 .zijinsuo.com
 .zijiren.net
