@@ -2639,6 +2639,7 @@ xb.dlservice.microsoft.com
 .22dm.com
 .22doc.com
 .22edu.com
+.22eez.com
 .22evil.com
 .22ff.com
 .22hd.com
@@ -4911,7 +4912,6 @@ xb.dlservice.microsoft.com
 .520cai.net
 .520cc.com
 .520cfc.com
-.520code.cc
 .520discount.com
 .520fx.com
 .520hhht.com
@@ -5713,7 +5713,6 @@ xb.dlservice.microsoft.com
 .5iqiqu.com
 .5isanguo.com
 .5its.com
-.5itx.com
 .5iucn.com
 .5ixs.net
 .5ixuexiwang.com
@@ -11215,6 +11214,7 @@ xb.dlservice.microsoft.com
 .bbxinwen.com
 .bbzhh.com
 .bbzhi.com
+.bbzplhy.com
 .bc12345678.com
 .bcactc.com
 .bcadx.com
@@ -22980,7 +22980,6 @@ xb.dlservice.microsoft.com
 .fangkeduo.net
 .fangketong.net
 .fangkewang.com
-.fangkuaitang.com
 .fangkuaiwang.com
 .fangkuaiyi.com
 .fangle.com
@@ -27978,6 +27977,7 @@ xb.dlservice.microsoft.com
 .healthr.com
 .healthych.com
 .healthyun.com
+.hearstchina.com
 .heart-game.com
 .heartide.com
 .heartinsti.com
@@ -28274,7 +28274,6 @@ xb.dlservice.microsoft.com
 .hexinli.org
 .hexmeet.com
 .hexun.com
-.hey-ganzhou.com
 .heyang.cc
 .heyang365.com
 .heycan.com
@@ -29155,7 +29154,6 @@ xb.dlservice.microsoft.com
 .hostker.com
 .hostkvm.com
 .hostmsu.ru
-.hostspaces.net
 .hostxen.com
 .hostyun.com
 .hotalk.com
@@ -34463,7 +34461,6 @@ xb.dlservice.microsoft.com
 .jq-school.com
 .jq22.com
 .jq960.com
-.jqaaa.com
 .jqbyby.com
 .jqcool.net
 .jqdzw.com
@@ -40232,6 +40229,7 @@ xb.dlservice.microsoft.com
 .medme.net
 .medmeeting.org
 .medsci-tech.com
+.medtion.com
 .meechao.com
 .meefon.com
 .meegoe.com
@@ -49398,7 +49396,6 @@ xb.dlservice.microsoft.com
 .sfzj123.com
 .sg-micro.com
 .sg.work
-.sg0760.com
 .sg120.com
 .sg169.com
 .sg560.com
@@ -50037,7 +50034,6 @@ xb.dlservice.microsoft.com
 .shinianonline.com
 .shiningmidas.com
 .shinsoukun.com
-.shinybbs.com
 .shinybbs.info
 .shinycg.com
 .shinyway.org
@@ -52263,6 +52259,7 @@ xb.dlservice.microsoft.com
 .sunbloger.com
 .sunbo.com
 .sunbo367.com
+.sunborngame.com
 .sunboxsoft.com
 .sunboyu.com
 .suncafe.cc
@@ -54126,7 +54123,6 @@ xb.dlservice.microsoft.com
 .tianzikj.com
 .tianzongyouxi.com
 .tiaodao.com
-.tiaodou.tv
 .tiaoguangbolimo.com
 .tiaohao.com
 .tiaoliao.biz
@@ -54453,7 +54449,6 @@ xb.dlservice.microsoft.com
 .tmcore.com
 .tmd.cc
 .tmdm.com
-.tmechina.org
 .tmeiju.com
 .tmetb.com
 .tmhong.com
@@ -54590,7 +54585,6 @@ xb.dlservice.microsoft.com
 .tonghao.ltd
 .tonghs.com
 .tonghua-holiday.com
-.tonghua5.com
 .tonghuiqiye.com
 .tongji.com
 .tongji.net
@@ -56070,7 +56064,6 @@ xb.dlservice.microsoft.com
 .unitymanual.com
 .uniview.com
 .uniworldart.com
-.unix5.com
 .unixfbi.com
 .unixhot.com
 .unixidc.com
@@ -56079,7 +56072,6 @@ xb.dlservice.microsoft.com
 .unjmz.com
 .unjs.com
 .unlimax.com
-.unmsg.com
 .unnnnn.com
 .unnue.com
 .unohacha.com
@@ -57271,7 +57263,6 @@ xb.dlservice.microsoft.com
 .wan95.com
 .wanbang365.com
 .wanbaoju.com
-.wanbizu.com
 .wancai.com
 .wancaibb.com
 .wancaiinfo.com
@@ -58294,7 +58285,6 @@ xb.dlservice.microsoft.com
 .weshaketv.com
 .weshequ.com
 .weshineapp.com
-.weshop.com
 .wesiedu.com
 .west.xyz
 .west263.com
@@ -59182,7 +59172,6 @@ xb.dlservice.microsoft.com
 .wodingche.com
 .wodjob.com
 .wodocx.com
-.woduguo.com
 .wofang.com
 .wofang.net
 .wofangwang.com
@@ -61269,7 +61258,6 @@ xb.dlservice.microsoft.com
 .xinghuoxiaoshuo.com
 .xingjiesj.com
 .xingjuhe.com
-.xingkbjm.com
 .xingkeduo.com
 .xingkong.com
 .xingkongmt.com
@@ -61642,7 +61630,6 @@ xb.dlservice.microsoft.com
 .xiyouwebgame.com
 .xiyow.com
 .xiyuan.tv
-.xiyuchou.com
 .xiyuege.com
 .xiyun.net
 .xiyurumen.com
@@ -62226,6 +62213,7 @@ xb.dlservice.microsoft.com
 .xuanxuangame.com
 .xuanxuantemai.com
 .xuanxue.com
+.xuanxueyuan.com
 .xuanyangxl.com
 .xuanyouwang.com
 .xuanyusong.com
