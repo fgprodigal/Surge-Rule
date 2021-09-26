@@ -65,6 +65,7 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 heads4-ak-spotify-com.akamaized.net
 homebrew.bintray.com
 hpstore.corpmerchandise.com
+i.jeded.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 imperial.insendi.com
@@ -15090,6 +15091,11 @@ zeenews-fonts.s3.amazonaws.com
 .liaowangxizang.net
 .liberapay.com
 .liberapay.org
+.libgen.fun
+.libgen.is
+.libgen.life
+.libgen.me
+.libgen.rs
 .libo15.com
 .library.pressdisplay.com
 .librarylovefest.com
@@ -20455,6 +20461,9 @@ zeenews-fonts.s3.amazonaws.com
 .schooltunnel.net
 .schwarz
 .schwarzgroup
+.sci-hub.ee
+.sci-hub.mksa.top
+.sci.hubg.org
 .sciencedaily.com
 .sciencedirect.com
 .sciencedirectassets.com
@@ -21697,6 +21706,7 @@ zeenews-fonts.s3.amazonaws.com
 .submit.jotformz.com
 .submityourflicks.com
 .submityourtapes.com
+.subscene.com
 .successfn.com
 .successwithteams.com
 .suche.gmx.net
@@ -22619,6 +22629,7 @@ zeenews-fonts.s3.amazonaws.com
 .tm-ma.client.renweb.com
 .tmagazine.com
 .tmblr.co
+.tmdb.org
 .tmdfish.com
 .tmgm.com
 .tmhk.org
@@ -24013,6 +24024,7 @@ zeenews-fonts.s3.amazonaws.com
 .vmw.com
 .vmware-cloudmanagement.com
 .vmware-techcenter.com
+.vmware.com
 .vmware20mosaic.com
 .vmwareausnews.com
 .vmwarecertificationvideos.com
