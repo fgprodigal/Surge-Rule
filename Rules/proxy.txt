@@ -88,6 +88,7 @@ origin-a.akamaihd.net
 p-events-delivery.akamaized.net
 p16-tiktokcdn-com.akamaized.net
 paper-attachments.s3.amazonaws.com
+pchomeonline.com.tw
 poshtestgallery.cloudapp.net
 prd-priconne-redive.akamaized.net
 psg-int-centralus.cloudapp.net
@@ -3463,6 +3464,7 @@ zeenews-fonts.s3.amazonaws.com
 .amznl.com
 .an
 .an.1x.net
+.anaconda.cloud
 .anaconda.com
 .anaconda.org
 .anakinweb.com
@@ -11557,7 +11559,9 @@ zeenews-fonts.s3.amazonaws.com
 .gog.com
 .goge.ml
 .gogle.com
+.gogo-load.com
 .gogo2sex.com
+.gogocdn.net
 .gogole.com
 .gogotunnel.com
 .goihoa.com
@@ -17022,6 +17026,7 @@ zeenews-fonts.s3.amazonaws.com
 .mypearsonenglish.ch
 .mypets.ws
 .mypicture.info
+.mypikpak.com
 .myplan.powayusd.com
 .mypop3.net
 .mypop3.org
