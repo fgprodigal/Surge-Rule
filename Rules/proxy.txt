@@ -9225,6 +9225,7 @@ zeenews-fonts.s3.amazonaws.com
 .egghead.io
 .egotastic.com
 .egrnaa.lotcai.com
+.egta.com
 .eh
 .ehentai.org
 .ehgt.org
@@ -15361,6 +15362,7 @@ zeenews-fonts.s3.amazonaws.com
 .lovemyanime.net
 .loveofkuanyin.com
 .loveparents.org
+.loverslab.com
 .lovesexdurex.com
 .lovethiscity.com
 .lovetibet.ti-da.net
@@ -27329,7 +27331,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.loophotelawards.com
 .www.losescotesdealicia.com
 .www.lottobao.com
-.www.loverslab.com
 .www.ls556.com
 .www.ls663.com
 .www.ls8828.com
