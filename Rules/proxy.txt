@@ -9529,6 +9529,7 @@ zeenews-fonts.s3.amazonaws.com
 .eurorgb.com
 .eurovision
 .events4fun.net
+.eventsinfocus.org
 .everbank
 .everipedia.org
 .evernote.com
@@ -22251,6 +22252,7 @@ zeenews-fonts.s3.amazonaws.com
 .thd
 .the-m-festival.com
 .the-monster-beats.com
+.theaffairs.com
 .theagelessbodysystemreview.com
 .theaggie.org
 .theatlantic.com
@@ -22650,6 +22652,7 @@ zeenews-fonts.s3.amazonaws.com
 .tnaflix.com
 .tngrnow.com
 .tngrnow.net
+.tnntoday.com
 .tnp.org
 .tnr.com
 .tnt-ea.com
@@ -23114,6 +23117,7 @@ zeenews-fonts.s3.amazonaws.com
 .twerkingbutt.com
 .twftp.org
 .twgreatdaily.com
+.twgreatnews.com
 .twibase.com
 .twibbon.com
 .twibes.com
