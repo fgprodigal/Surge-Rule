@@ -5752,7 +5752,6 @@ zeenews-fonts.s3.amazonaws.com
 .booksamillion.com
 .booksamillioninc.com
 .bookstagram.com
-.bookstore.emome.net
 .booloo.com
 .booms.cc
 .boomss.cc
@@ -9308,6 +9307,7 @@ zeenews-fonts.s3.amazonaws.com
 .emofid.com
 .emojipedia.org
 .emol.com
+.emome.net
 .emoneyspace.com
 .emotionjam.com
 .empfil.com
