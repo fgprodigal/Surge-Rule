@@ -7344,6 +7344,7 @@ zeenews-fonts.s3.amazonaws.com
 .coinegg.com
 .coinex.com
 .coingi.com
+.coinmarketcap.com
 .coinonecore.com
 .coinonecorp.com
 .coinsbank.com
@@ -10832,6 +10833,7 @@ zeenews-fonts.s3.amazonaws.com
 .fteproxy.org
 .ftopx.com
 .ftp.cc
+.ftp.com
 .ftp1.biz
 .ftpaccess.cc
 .ftpserver.biz
