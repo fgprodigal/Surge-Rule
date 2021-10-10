@@ -9592,6 +9592,7 @@ zeenews-fonts.s3.amazonaws.com
 .ezcat.xyz
 .ezpeer.com
 .ezua.com
+.f-droid.org
 .f.wheredreams.com
 .f1155.com
 .f1286.com
