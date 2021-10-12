@@ -21115,6 +21115,7 @@ zeenews-fonts.s3.amazonaws.com
 .slickvpn.com
 .slideshare.com
 .slideshare.net
+.slidesharecdn.com
 .slimspots.com
 .sling
 .sling.com
