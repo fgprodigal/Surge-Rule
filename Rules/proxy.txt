@@ -861,6 +861,7 @@ zeenews-fonts.s3.amazonaws.com
 .20206003.com
 .20206006.com
 .2020loseweight.lun-cheng.com
+.2021hkcharter.com
 .203186077128.static.ctinets.com
 .2047.name
 .2049bbs.xyz
@@ -5754,6 +5755,7 @@ zeenews-fonts.s3.amazonaws.com
 .bookbao8.com
 .bookclubcorner.com
 .bookclubgirl.com
+.bookdepository.com
 .bookepub.com
 .booking.com
 .bookmybridgestonetyre.com
@@ -11633,6 +11635,7 @@ zeenews-fonts.s3.amazonaws.com
 .gooddns.info
 .gooddns.xyz
 .goodhands
+.goodhope.school
 .goodnews.good-tutor.net
 .goodreaders.com
 .goodreads.com
