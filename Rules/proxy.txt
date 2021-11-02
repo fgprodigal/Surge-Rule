@@ -7171,6 +7171,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudfire.com
 .cloudflare-dns.com
 .cloudflare-ipfs.com
+.cloudflare-quic.com
 .cloudflare.com
 .cloudflare.net
 .cloudflareapps.com
