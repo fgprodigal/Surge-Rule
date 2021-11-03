@@ -53,6 +53,7 @@ elib.maruzen.co.jp
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 fandom.zendesk.com
+faronics.kayako.com
 fbcdn-a.akamaihd.net
 fontshop-prod-responsive-images.s3.amazonaws.com
 foxnewsplayer-a.akamaihd.net
@@ -6751,6 +6752,7 @@ zeenews-fonts.s3.amazonaws.com
 .chartis
 .chase
 .chase.com
+.chatango.com
 .chaterbate.com
 .chatnook.com
 .chatr
@@ -8112,6 +8114,9 @@ zeenews-fonts.s3.amazonaws.com
 .dedelu.com
 .deepcoin.vip
 .deeper.com
+.deepfreeze.com
+.deepfreeze.net
+.deepfreeze.tech
 .deepl.com
 .deepmind.com
 .deepthroatfrenzy.com
@@ -10005,6 +10010,10 @@ zeenews-fonts.s3.amazonaws.com
 .farfetch.com
 .farfetch.net
 .farmers
+.faronics.com
+.faronics.tech
+.faronicslabs.com
+.faronicswise.com
 .farsipod101.com
 .fartit.com
 .farumradio.com
@@ -13602,6 +13611,7 @@ zeenews-fonts.s3.amazonaws.com
 .internet.org
 .internetarchive.org
 .internetdefenseleague.org
+.internetdownloadmanager.com
 .internetexplorer.co
 .internetexplorer.com
 .internetfreedom.org
@@ -20037,6 +20047,7 @@ zeenews-fonts.s3.amazonaws.com
 .regionalwifi.net
 .regiongold.com
 .registerhulu.com
+.registeridm.com
 .rehabforum.org
 .reimu.net
 .reindeervpn.com
@@ -22793,6 +22804,7 @@ zeenews-fonts.s3.amazonaws.com
 .tomp2p.net
 .tomshardware.com
 .tonalla.com
+.tonec.com
 .tonyhuangphotography.com
 .tonyskansascity.com
 .tonyyan.net
