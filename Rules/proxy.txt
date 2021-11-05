@@ -9612,6 +9612,7 @@ zeenews-fonts.s3.amazonaws.com
 .expxtv.com
 .exrates.me
 .ext-twitch.tv
+.extensionworkshop.com
 .extmatrix.com
 .extra.voyantic.com
 .extranet-logon-apac.sanofi.com
@@ -14152,6 +14153,7 @@ zeenews-fonts.s3.amazonaws.com
 .jesus-army.com
 .jetbrains.com
 .jetbrains.net
+.jetbrains.team
 .jetfuelapp.com
 .jetfuelapps.com
 .jetgames.cf
