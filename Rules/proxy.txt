@@ -11613,6 +11613,7 @@ zeenews-fonts.s3.amazonaws.com
 .gogle.com
 .gogo-load.com
 .gogo2sex.com
+.gogoanime.wiki
 .gogocdn.net
 .gogole.com
 .gogotunnel.com
