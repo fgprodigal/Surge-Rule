@@ -4126,6 +4126,7 @@ zeenews-fonts.s3.amazonaws.com
 .authorizeddns.net
 .authorizeddns.org
 .authorxml.com
+.authy.com
 .auto.freev2.top
 .auto0391.com
 .autodesk.com
