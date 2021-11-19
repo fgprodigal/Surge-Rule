@@ -3898,6 +3898,7 @@ zeenews-fonts.s3.amazonaws.com
 .appule.com
 .appye.com
 .apress.com
+.aps.org
 .apsense.com
 .aptoide.com
 .apture.com
