@@ -2616,6 +2616,8 @@ zeenews-fonts.s3.amazonaws.com
 .9afd1.com
 .9agz1.com
 .9aje1.com
+.9anime.id
+.9anime.ws
 .9bac1.com
 .9bam1.com
 .9bas1.com
@@ -3515,6 +3517,7 @@ zeenews-fonts.s3.amazonaws.com
 .anidom.com
 .anime-sharing.com
 .animecrazy.net
+.animedao-tv.com
 .animedreaming.tv
 .animezilla.com
 .aniscartujo.com
@@ -5779,6 +5782,7 @@ zeenews-fonts.s3.amazonaws.com
 .boomssr.com
 .boomtrain.com
 .boostmobile.com
+.booth.pm
 .boots
 .bootstrapcdn.com
 .borderexperience.weebly.com
@@ -8380,6 +8384,7 @@ zeenews-fonts.s3.amazonaws.com
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
+.disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
 .disney.asia
@@ -8389,6 +8394,7 @@ zeenews-fonts.s3.amazonaws.com
 .disney.id
 .disney.io
 .disney.it
+.disney.my.sentry.io
 .disney.pt
 .disneyadsales.com
 .disneyarena.com
@@ -8415,6 +8421,7 @@ zeenews-fonts.s3.amazonaws.com
 .disneynewseries.com
 .disneynow.com
 .disneypeoplesurveys.com
+.disneyplus.bn5x.net
 .disneyplus.com
 .disneyredirects.com
 .disneysrivieraresort.com
@@ -9976,6 +9983,7 @@ zeenews-fonts.s3.amazonaws.com
 .fan-qiang.com
 .fanarchive.campfirenow.com
 .fanatical.com
+.fanbox.cc
 .fancy7.com
 .fandango.com
 .fandom.com
@@ -10974,6 +10982,7 @@ zeenews-fonts.s3.amazonaws.com
 .fundfire.com
 .fundpaypal.com
 .fundraisingwithfacebook.com
+.funimation.com
 .funkyimg.com
 .funny-games.biz
 .funnyfacebook.org
@@ -12396,6 +12405,7 @@ zeenews-fonts.s3.amazonaws.com
 .hidess.com
 .hidester.com
 .hidethisip.net
+.hidive.com
 .hifacebook.info
 .higfw.com
 .higginbotham.name
@@ -14156,6 +14166,7 @@ zeenews-fonts.s3.amazonaws.com
 .jesus-army.com
 .jetbrains.com
 .jetbrains.net
+.jetbrains.space
 .jetbrains.team
 .jetfuelapp.com
 .jetfuelapps.com
@@ -24412,6 +24423,7 @@ zeenews-fonts.s3.amazonaws.com
 .vrmtr.com
 .vrsmash.com
 .vrt.be
+.vrv.co
 .vs8866.com
 .vs8989.com
 .vs9933.com
