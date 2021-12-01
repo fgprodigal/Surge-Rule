@@ -6510,6 +6510,7 @@ zeenews-fonts.s3.amazonaws.com
 .cashpassportglobe.com
 .cashwork.kangdi-pay.com
 .casi998.com
+.casimages.com
 .casino.kto.asia
 .casinobellini.com
 .casinoking.com
@@ -7200,6 +7201,8 @@ zeenews-fonts.s3.amazonaws.com
 .cloudhealthtech.com
 .cloudimage.io
 .cloudimg.io
+.cloudinary.com
+.cloudinary.net
 .cloudinsights.com
 .cloudlive.com
 .cloudlock.com
@@ -16265,6 +16268,7 @@ zeenews-fonts.s3.amazonaws.com
 .microsoft.is
 .microsoft.it
 .microsoft.lv
+.microsoft.net
 .microsoft.pt
 .microsoft.red
 .microsoft.rs
@@ -19275,6 +19279,8 @@ zeenews-fonts.s3.amazonaws.com
 .postandcourier.com
 .postgresql.org
 .posthentai.com
+.postimages.org
+.postimg.cc
 .postimg.org
 .postini.com
 .potato.im
