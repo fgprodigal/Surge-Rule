@@ -13596,6 +13596,9 @@ zeenews-fonts.s3.amazonaws.com
 .inteliotmarketplace.com
 .intell.com
 .intellearningseries.com
+.intellij.com
+.intellij.net
+.intellij.org
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .intellinuxwireless.net
@@ -19396,6 +19399,7 @@ zeenews-fonts.s3.amazonaws.com
 .privatoria.net
 .privein.com
 .privnote.com
+.privoxy.org
 .prntube.com
 .pro.eimi.vip
 .pro.tribeofnoise.com
@@ -27876,7 +27880,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.pptxtv.site
 .www.pressrepublican.com
 .www.privatecams.com
-.www.privoxy.org
 .www.prochan.com
 .www.programthinkmirror.xyz
 .www.projectfreetv.ch
