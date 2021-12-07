@@ -2170,7 +2170,6 @@ xb.dlservice.microsoft.com
 .189read.com
 .189read.net
 .189sec.com
-.189share.com
 .189smarthome.com
 .189store.com
 .189works.com
@@ -6042,7 +6041,6 @@ xb.dlservice.microsoft.com
 .666629b.com
 .6666519.net
 .666666.so
-.666898d.com
 .6669667.com
 .666baicai.com
 .666gps.com
@@ -9322,6 +9320,7 @@ xb.dlservice.microsoft.com
 .aliwx.net
 .alixiaomi.com
 .alixiaozhan.com
+.alixiaozhan.net
 .alixinwen.com
 .alixixi.com
 .alixox.com
@@ -14235,7 +14234,6 @@ xb.dlservice.microsoft.com
 .cditv.tv
 .cdjingfeng.com
 .cdjingying.com
-.cdjinpeng.com
 .cdjnrc.com
 .cdjsjx.com
 .cdjxjy.com
@@ -14566,6 +14564,7 @@ xb.dlservice.microsoft.com
 .cfhpc.org
 .cfido.com
 .cfiec.net
+.cfiecdns.net
 .cfimg.com
 .cfkq.net
 .cflm.com
@@ -19804,7 +19803,6 @@ xb.dlservice.microsoft.com
 .dhrcbank.com
 .dhrest.com
 .dht5867.com
-.dhtb.com
 .dhwooden.com
 .dhy559999.com
 .dhy85888.com
@@ -19814,7 +19812,6 @@ xb.dlservice.microsoft.com
 .dhyjaqa.com
 .dhyz.net
 .dhzw.cc
-.di.com
 .di3fang.com
 .di3fang.vip
 .diablohu.com
@@ -23762,7 +23759,6 @@ xb.dlservice.microsoft.com
 .fhd001.com
 .fhdjh.com
 .fhdq.net
-.fhdr.com
 .fhg90.com
 .fhhgj.com
 .fhkioskmodules.com
@@ -25543,7 +25539,6 @@ xb.dlservice.microsoft.com
 .ghboke.com
 .ghgy.com
 .ghgy.net
-.ghkm.com
 .ghlearning.com
 .ghmba.com
 .ghmcchina.com
@@ -26669,6 +26664,7 @@ xb.dlservice.microsoft.com
 .guotv.com
 .guowaidiaocha.com
 .guowaitianqi.com
+.guowenku.com
 .guoxingjun.com
 .guoxinmac.com
 .guoxinqh.com
@@ -30609,7 +30605,6 @@ xb.dlservice.microsoft.com
 .hxt-semitech.com
 .hxthjy.com
 .hxtk.com
-.hxttcp.com
 .hxwglm.com
 .hxxdsb.com
 .hxxkw.org
@@ -32198,6 +32193,7 @@ xb.dlservice.microsoft.com
 .intelvisioncn.com
 .inter12.org
 .inter1908.net
+.interactivebrokers.hk
 .interbator.com
 .internationalbrand.net
 .internbird.com
@@ -32258,7 +32254,6 @@ xb.dlservice.microsoft.com
 .ioneball.com
 .ionewu.com
 .ionic.wang
-.ionic8.com
 .ionichina.com
 .ionicliquid.org
 .iooeoo.com
@@ -37656,7 +37651,6 @@ xb.dlservice.microsoft.com
 .leagsoft.com
 .leangoo.com
 .leankun.com
-.leanlan.com
 .leanote.com
 .leanote.org
 .leansoftx.com
@@ -51804,6 +51798,7 @@ xb.dlservice.microsoft.com
 .sobeycache.com
 .sobeycloud.com
 .sobot.com
+.soboten.com
 .sobug.com
 .sobuhu.com
 .socang.com
@@ -53092,7 +53087,6 @@ xb.dlservice.microsoft.com
 .sxwpyx.com
 .sxwrsa.org
 .sxww.com
-.sxxcrl.com
 .sxxdll.com
 .sxxiaomeng.com
 .sxxl.com
@@ -53928,7 +53922,6 @@ xb.dlservice.microsoft.com
 .taurus66.com
 .tavsiktlig.com
 .tax-edu.net
-.tax12366.org
 .taxjiangkewang.com
 .taxnote.org
 .taxspirit.com
@@ -56646,6 +56639,7 @@ xb.dlservice.microsoft.com
 .uplookedu.com
 .uplooking.com
 .upnb.com
+.upowerchain.com
 .uppsd.com
 .upqzfile.com
 .upqzfilebk.com
@@ -58728,6 +58722,7 @@ xb.dlservice.microsoft.com
 .wenneart.com
 .wenpie.com
 .wenrouge.com
+.wenruya.com
 .wenryxu.com
 .wensang.com
 .wenshao-art.com
@@ -59571,7 +59566,6 @@ xb.dlservice.microsoft.com
 .wmcn.com
 .wmedias.com
 .wmgjd.com
-.wmgm.org
 .wmiao.com
 .wmiyx.com
 .wmjk.net
@@ -60920,6 +60914,7 @@ xb.dlservice.microsoft.com
 .xfsub.com
 .xft123.com
 .xftclub.com
+.xfun233.com
 .xfwi.com
 .xfxb.net
 .xfyousheng.com
@@ -62431,7 +62426,6 @@ xb.dlservice.microsoft.com
 .xn--wlqw5ebvdhpi5hepihs3c.com
 .xn--xhq521b
 .xn--xhq9mt12cf5v.ink
-.xn--xhq9mt12cf5v.site
 .xn--ygtp21bwyedsq.com
 .xn--zfr164b
 .xn--zq2aw6m.xyz
@@ -68453,7 +68447,6 @@ xb.dlservice.microsoft.com
 .zorrowh.com
 .zou.la
 .zou114.com
-.zou114.net
 .zoubiao.com
 .zoucheng.cc
 .zoucz.com
