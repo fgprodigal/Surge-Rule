@@ -18081,6 +18081,7 @@ zeenews-fonts.s3.amazonaws.com
 .ojbkss.win
 .ok158158.com
 .ok367.com
+.okaapps.com
 .okay.cf
 .okayfreedom.com
 .okcili.com

@@ -11,6 +11,7 @@ adservice.google.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 aod.itunes.apple.com
+api-cn.apple-mapkit.com
 api-edge.apps.apple.com
 app-measurement.com
 appldnld.apple.com
@@ -27125,6 +27126,7 @@ xb.dlservice.microsoft.com
 .hackhw.com
 .hacking-linux.com
 .hacking8.com
+.hackinn.com
 .hackline.net
 .hacknical.com
 .hackp.com
