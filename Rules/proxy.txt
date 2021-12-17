@@ -23396,6 +23396,7 @@ zeenews-fonts.s3.amazonaws.com
 .typepad.com
 .typesquare.com
 .typography.com
+.typora.io
 .tz
 .u.f-q.me
 .u.georgianlimerick.com
