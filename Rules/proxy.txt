@@ -12177,6 +12177,7 @@ zeenews-fonts.s3.amazonaws.com
 .haskell.org
 .haskellstack.org
 .haswel.com
+.hath.network
 .hatsiklopedia.org
 .hautelook.com
 .hautelookcdn.com
@@ -12307,6 +12308,7 @@ zeenews-fonts.s3.amazonaws.com
 .hentai.as
 .hentai.xxx
 .hentai4manga.com
+.hentaiathome.net
 .hentaicloud.com
 .hentaifox.com
 .hentaigasm.com
