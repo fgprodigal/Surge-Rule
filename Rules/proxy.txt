@@ -10002,6 +10002,7 @@ zeenews-fonts.s3.amazonaws.com
 .fanguangxin.com
 .fanhaodang.com
 .fanhaodian.com
+.fanhaolou.com
 .fanipa.com
 .fanqiang.network
 .fanqiangcn.net
@@ -11557,6 +11558,7 @@ zeenews-fonts.s3.amazonaws.com
 .gmail.roche.com
 .gmc
 .gmer.net
+.gmgard.com
 .gmhz.org
 .gmial.com
 .gmidkz5tgm.com
@@ -13884,6 +13886,7 @@ zeenews-fonts.s3.amazonaws.com
 .istockphoto.com
 .isunaffairs.com
 .isuntv.com
+.isupportuyghurs.org
 .it-como-hobby.com
 .it.bnaz.org
 .it.weekendmaxmara.com
@@ -21320,6 +21323,7 @@ zeenews-fonts.s3.amazonaws.com
 .solidaritywithtibet.org
 .solidfiles.com
 .solostudioksale.com
+.solv.finance
 .solveforx.com
 .soma.im
 .somcloud.com
@@ -23742,6 +23746,7 @@ zeenews-fonts.s3.amazonaws.com
 .uy500.com
 .uybbb.com
 .uyghur-j.org
+.uyghuraa.org
 .uyghuramerican.org
 .uyghuraustralia.proboards.com
 .uyghurbiz.org
