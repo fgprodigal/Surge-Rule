@@ -3482,6 +3482,7 @@ xb.dlservice.microsoft.com
 .363u.com
 .364000.com
 .365128.com
+.365135.com
 .36543.com
 .365500.com
 .365708.com
@@ -5864,7 +5865,6 @@ xb.dlservice.microsoft.com
 .6122.net
 .612345.com
 .612459.com
-.6132071.com
 .6132823.com
 .6132979.com
 .6137.net
@@ -8743,7 +8743,6 @@ xb.dlservice.microsoft.com
 .aidrive.com
 .aiduoka.com
 .aiduwenxue.com
-.aidzs.com
 .aiec-alliance.com
 .aiegle.com
 .aiemy.com
@@ -13598,6 +13597,7 @@ xb.dlservice.microsoft.com
 .callda.com
 .callmewhy.com
 .caloinfo.com
+.calorietech.com
 .calt.com
 .calvinneo.com
 .cambm.com
@@ -14106,6 +14106,7 @@ xb.dlservice.microsoft.com
 .cd-vv.com
 .cd-zc.com
 .cd120.com
+.cd23f.com
 .cd37wan.com
 .cdabon.com
 .cdadata.com
@@ -19385,6 +19386,7 @@ xb.dlservice.microsoft.com
 .dedezhuji.com
 .deehai.com
 .deemob.com
+.deemos.com
 .deepai.com
 .deepano.com
 .deepaso.com
@@ -33584,6 +33586,7 @@ xb.dlservice.microsoft.com
 .jiatingdog.com
 .jiatui.com
 .jiatx.com
+.jiawentrans.com
 .jiawin.com
 .jiaxiaozhijia.com
 .jiaxichina.net
@@ -40724,6 +40727,7 @@ xb.dlservice.microsoft.com
 .menle.com
 .menpiao.com
 .menqiu.com
+.menubarx.app
 .menwee.com
 .menww.com
 .menwww.com
@@ -41178,6 +41182,7 @@ xb.dlservice.microsoft.com
 .minhangshi.com
 .minhow.com
 .mini-audio.com
+.mini-program.net
 .mini5cn-1.opera-mini.net
 .mini5cn.opera-mini.net
 .miniadx.com
@@ -44827,6 +44832,7 @@ xb.dlservice.microsoft.com
 .pdfdo.com
 .pdfdowell.com
 .pdfexpert.cc
+.pdffsy.com
 .pdffx.com
 .pdfjia.com
 .pdflibr.com
@@ -47374,6 +47380,7 @@ xb.dlservice.microsoft.com
 .queenfather.com
 .quegame.com
 .quegoo.com
+.queji.tw
 .queqiaoba.com
 .querylist.cc
 .queshao.com
@@ -48607,7 +48614,6 @@ xb.dlservice.microsoft.com
 .ruvar.com
 .ruvisas.com
 .ruwen5.com
-.ruxianke.com
 .ruyahui.com
 .ruyig.com
 .ruyile.com
@@ -53399,6 +53405,7 @@ xb.dlservice.microsoft.com
 .talkwithtrend.com
 .talkyun.com
 .taluo.com
+.talyscm.com
 .talzjsj.com
 .tamaegis.com
 .tamc8.com
@@ -54962,6 +54969,7 @@ xb.dlservice.microsoft.com
 .touchxd.com
 .touclick.com
 .touduyu.com
+.toufu321.com
 .toughcoder.net
 .tougub.com
 .touhou.cd
@@ -60686,6 +60694,7 @@ xb.dlservice.microsoft.com
 .xhj.com
 .xhjingling.com
 .xhkt.tv
+.xhlaowu.com
 .xhlgfsc.com
 .xhlyjlb.com
 .xhma.com
@@ -63935,7 +63944,6 @@ xb.dlservice.microsoft.com
 .yinjiaji.com
 .yinjietd.com
 .yinka.co
-.yinke.com
 .yinker.com
 .yinlei.net
 .yinliuba.com
@@ -66465,6 +66473,7 @@ xb.dlservice.microsoft.com
 .zgtuku.com
 .zgtxw.com
 .zgtygg.com
+.zgtzhb.com
 .zgui.com
 .zguonew.com
 .zgw.com
@@ -66642,7 +66651,6 @@ xb.dlservice.microsoft.com
 .zhaoapple.com
 .zhaobeidaxiao.com
 .zhaobeijing.com
-.zhaobiao.info
 .zhaobuxiu.com
 .zhaocaibb.com
 .zhaocaihr.com
