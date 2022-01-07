@@ -282,6 +282,7 @@ www.microsoft.com
 www.recaptcha.net
 www4-static.gog-statics.com
 xb.dlservice.microsoft.com
+xz.pphimalayanrt.com
 .0-100.com
 .0-6.com
 .00.net
@@ -11394,6 +11395,7 @@ xb.dlservice.microsoft.com
 .beevideo.tv
 .beeweart.com
 .begcl.com
+.begindcc.com
 .bego.cc
 .begoto.com
 .begowin.com
@@ -12997,7 +12999,7 @@ xb.dlservice.microsoft.com
 .btdad.live
 .btdog.com
 .btege.com
-.btfan.com
+.btgame.com
 .btgame01.com
 .btgang.com
 .btglotto.com
@@ -25429,6 +25431,7 @@ xb.dlservice.microsoft.com
 .ghsmpwalmart.com
 .ght.me
 .ghui.me
+.ghwgame.com
 .ghxi.com
 .ghyg.com
 .ghzhushou.com
@@ -25661,6 +25664,7 @@ xb.dlservice.microsoft.com
 .gmiot.net
 .gmjk.com
 .gmm01.com
+.gmmch5.com
 .gmmicro.com
 .gmmsj.com
 .gmonline-all.com
@@ -26926,6 +26930,7 @@ xb.dlservice.microsoft.com
 .gzzhitu.com
 .gzzkzsw.com
 .gzzlfw.com
+.gzzlgame.com
 .gzzoc.com
 .gzzongsi.com
 .gzzoo.com
@@ -34128,6 +34133,7 @@ xb.dlservice.microsoft.com
 .jiujiuyingshi.com
 .jiujiuyunhui.com
 .jiuku.com
+.jiulesy.com
 .jiulingwan.com
 .jiulishi.com
 .jiumaojiu.com
@@ -36957,6 +36963,7 @@ xb.dlservice.microsoft.com
 .kyyj.net
 .kyzf.net
 .kyzyj.com
+.kz8yx.com
 .kza.cc
 .kzj365.com
 .kzlgd.com
@@ -37830,7 +37837,6 @@ xb.dlservice.microsoft.com
 .lfidc.net
 .lfkjgh.com
 .lfksqzj.com
-.lfl.gg
 .lflucky.com
 .lfork.com
 .lfppt.com
@@ -38448,6 +38454,7 @@ xb.dlservice.microsoft.com
 .little-sun.com
 .littleboy.net
 .littleee.com
+.littlehero.xyz
 .littlekid.online
 .littleroost.net
 .littlesheep.com
@@ -41290,6 +41297,7 @@ xb.dlservice.microsoft.com
 .mj85.com
 .mjasoft.com
 .mjceo.com
+.mjh5.com
 .mjia.cc
 .mjjcn.com
 .mjjq.com
@@ -49200,6 +49208,7 @@ xb.dlservice.microsoft.com
 .sdkclick.com
 .sdkclickurl.com
 .sdklh.com
+.sdknext.com
 .sdksrv.com
 .sdlangkun.com
 .sdlgzy.com
@@ -51407,6 +51416,7 @@ xb.dlservice.microsoft.com
 .smgstar.com
 .smhdoto.com
 .smhom1.com
+.smhyplay.com
 .smianet.com
 .smic-sh.com
 .smics.com
@@ -57476,6 +57486,7 @@ xb.dlservice.microsoft.com
 .wan5d.com
 .wan68.com
 .wan7.xin
+.wan73.com
 .wan76.com
 .wan77.com
 .wan8.com
@@ -60103,6 +60114,7 @@ xb.dlservice.microsoft.com
 .wxmama.com
 .wxmcgz.com
 .wxmetro.net
+.wxmolegames.com
 .wxmovie.com
 .wxnacy.com
 .wxngh.com
@@ -64211,6 +64223,7 @@ xb.dlservice.microsoft.com
 .yjs111.com
 .yjscloud.com
 .yjsjl.org
+.yjwlo.com
 .yjwujian.com
 .yjxsoft.com
 .yjyghb.com
