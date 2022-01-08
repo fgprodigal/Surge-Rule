@@ -5789,6 +5789,7 @@ zeenews-fonts.s3.amazonaws.com
 .borderlandindustry.ml
 .borderlands-books.com
 .borderlessprepaid.com
+.borgenmagazine.com
 .boringcompany.com
 .bosch
 .boslife.biz
@@ -15290,6 +15291,7 @@ zeenews-fonts.s3.amazonaws.com
 .lipsy
 .lipuman.com
 .liquid.com
+.liquiditytp.com
 .liquidvpn.com
 .liquipedia.org
 .lis888.com
@@ -17830,7 +17832,9 @@ zeenews-fonts.s3.amazonaws.com
 .notepad-plus-plus.org
 .notheroes.com
 .notion-static.com
+.notion.com
 .notion.new
+.notion.site
 .notion.so
 .noto.web.id
 .notproductive.com
@@ -18118,6 +18122,7 @@ zeenews-fonts.s3.amazonaws.com
 .oldnavy
 .oldpiratebay.org
 .ole777.com
+.olevod.com
 .olicobrokers.com
 .ollo
 .olumpo.com
@@ -19186,6 +19191,7 @@ zeenews-fonts.s3.amazonaws.com
 .ponz.me
 .poofx.com
 .pool.ntp.org
+.poolin.com
 .popbox.com
 .popcap.com
 .popcash.net
@@ -20091,6 +20097,7 @@ zeenews-fonts.s3.amazonaws.com
 .releaseinternational.org
 .releenc.org
 .reliance
+.religionnews.com
 .religioustolerance.org
 .reloadtech.com
 .remanum.com
@@ -27745,7 +27752,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.okex.me
 .www.okxav.com
 .www.oldje.com
-.www.olevod.com
 .www.oltentime.com
 .www.omaha.com
 .www.onacle.tv
@@ -27997,7 +28003,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.redtube.org
 .www.redwap.me
 .www.reginacn.com
-.www.religionnews.com
 .www.remotevpn.net
 .www.renrenyum.com
 .www.repaik.com
