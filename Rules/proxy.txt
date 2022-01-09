@@ -23445,6 +23445,7 @@ zeenews-fonts.s3.amazonaws.com
 .ubpop.com
 .ubs
 .ubshe.com
+.ubuntu-touch.io
 .ubuntu.com
 .ubuntu.net
 .ubuntuforums.org
