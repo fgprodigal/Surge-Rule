@@ -15864,6 +15864,7 @@ zeenews-fonts.s3.amazonaws.com
 .manbetx852.com
 .manchukuo.net
 .mandatewire.com
+.mandiant.com
 .manga-town.net
 .mangafox.com
 .mangafox.me
@@ -18131,6 +18132,7 @@ zeenews-fonts.s3.amazonaws.com
 .om
 .omahcupang.com
 .ombley.com
+.omct.org
 .omega
 .omega.yikyakapi.net
 .omegle.com
@@ -23701,7 +23703,6 @@ zeenews-fonts.s3.amazonaws.com
 .ustinka.org
 .ustream.tv
 .ustv123.com
-.usunitednews.com
 .usus.cc
 .usvimosquito.com
 .usvimosquitoproject.com
@@ -23757,12 +23758,12 @@ zeenews-fonts.s3.amazonaws.com
 .uyghuramerican.org
 .uyghuraustralia.proboards.com
 .uyghurbiz.org
-.uyghurcanadiansociety.org
 .uyghurche.com
 .uyghurcongress.org
 .uyghurpen.org
 .uyghurpress.com
 .uyghurstudies.org
+.uyghurtribunal.com
 .uygur.fc2web.com
 .uygur.org
 .uymaarip.com
@@ -29231,6 +29232,7 @@ zeenews-fonts.s3.amazonaws.com
 .xn--7hv594h.com
 .xn--90wwvt03e.com
 .xn--9kr7l.com
+.xn--9pr62r24a.com
 .xn--9trs65b.com
 .xn--b4w605ferd
 .xn--cckwcxetd
