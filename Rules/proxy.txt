@@ -4935,6 +4935,7 @@ zeenews-fonts.s3.amazonaws.com
 .behindkink.com
 .beibao.com
 .beijing1989.com
+.beijing2022.art
 .beijingbiden.com
 .beijingcream.com
 .beijinger.com
