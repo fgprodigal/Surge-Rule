@@ -19025,6 +19025,7 @@ zeenews-fonts.s3.amazonaws.com
 .pittpatt.com
 .pivotalinitiative.com
 .pivx.com
+.piwheels.org
 .pixanalytics.com
 .pixandvideo.com
 .pixapp.net
