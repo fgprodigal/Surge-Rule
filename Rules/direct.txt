@@ -825,7 +825,6 @@ xz.pphimalayanrt.com
 .0728f.com
 .0730188.com
 .0730news.com
-.0730seo.com
 .073122.com
 .0731a.com
 .0731cfw.com
@@ -6754,7 +6753,6 @@ xz.pphimalayanrt.com
 .8090app.com
 .8090cdn.com
 .8090mt.com
-.8090st.com
 .8090vision.com
 .8090xx.com
 .8090yx.com
@@ -19296,6 +19294,7 @@ xz.pphimalayanrt.com
 .ddsaas.com
 .ddske.com
 .ddstarapp.com
+.ddswcm.com
 .ddsy.com
 .ddtaba.com
 .ddtugame.com
@@ -25808,7 +25807,6 @@ xz.pphimalayanrt.com
 .gongchou.com
 .gongfubb.com
 .gongheshengshi.com
-.gongjianglaile.com
 .gongjiao.com
 .gongjiaomi.com
 .gongju.com
@@ -27218,7 +27216,6 @@ xz.pphimalayanrt.com
 .hamanw.com
 .hambut.com
 .hamir.net
-.han-cang.com
 .han-tang.cc
 .han66.com
 .hanamichi.wiki
@@ -32446,6 +32443,7 @@ xz.pphimalayanrt.com
 .itaokecms.com
 .itaotuo.com
 .itavcn.com
+.itazhi.com
 .itbegin.com
 .itbeihe.com
 .itbiaoju.com
@@ -33300,6 +33298,7 @@ xz.pphimalayanrt.com
 .jhsctv.com
 .jhsdai.com
 .jhsfojiao.com
+.jhsjtxx.com
 .jhssapp.com
 .jht868.com
 .jhtcgroup.com
@@ -34219,7 +34218,6 @@ xz.pphimalayanrt.com
 .jjcto.com
 .jjdc.net
 .jjdede.com
-.jjdf.com
 .jjdiaoyu.com
 .jjdzc.com
 .jjecn.com
@@ -34592,7 +34590,6 @@ xz.pphimalayanrt.com
 .joywii.net
 .joywok.com
 .joyyang.com
-.joyyoo.com
 .joyzlan.com
 .jp-moco.com
 .jp.com
@@ -39173,6 +39170,7 @@ xz.pphimalayanrt.com
 .lsuoled.com
 .lsup.net
 .lsw315.com
+.lswld.com
 .lswlsw.com
 .lsxz.org
 .lsywtc.com
@@ -42298,6 +42296,7 @@ xz.pphimalayanrt.com
 .mymova.com
 .mynb8.com
 .mynee.com
+.myoas.com
 .myodatech.com
 .myoldtime.com
 .myonlystar.com
@@ -53129,7 +53128,6 @@ xz.pphimalayanrt.com
 .szpichappy.com
 .szpmi.org
 .szpowerpms.com
-.szpxb.com
 .szpxe.com
 .szqcz.com
 .szqf.org
@@ -53415,6 +53413,7 @@ xz.pphimalayanrt.com
 .tangdouimg.com
 .tangeche.com
 .tanggu11g.com
+.tangguoxian.com
 .tanghushi.com
 .tangide.com
 .tangjie.me
@@ -54485,6 +54484,7 @@ xz.pphimalayanrt.com
 .titan007.com
 .titan24.com
 .titanar.com
+.titanmatrix.com
 .titapark.com
 .tivitv.com
 .tixa.com
@@ -58137,7 +58137,6 @@ xz.pphimalayanrt.com
 .weikd.com
 .weike.fm
 .weikebaba.net
-.weikefanli.com
 .weikeimg.com
 .weikejianghu.com
 .weikengtech.com
@@ -62252,6 +62251,7 @@ xz.pphimalayanrt.com
 .xsb.tw
 .xsb120.com
 .xsbiquge.com
+.xsbnggzyjyxx.com
 .xscbs.com
 .xschu.com
 .xsdwk.com
