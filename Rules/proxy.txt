@@ -5096,6 +5096,7 @@ zeenews-fonts.s3.amazonaws.com
 .bifa98.com
 .big.one
 .big2wt.com
+.bigbeans.solutions
 .bigbigshop.com
 .bigbir.com
 .bigbird18.com
@@ -5136,11 +5137,32 @@ zeenews-fonts.s3.amazonaws.com
 .bilyoner.com
 .binads.com
 .binance-cn.com
+.binance.cc
 .binance.charity
 .binance.cloud
+.binance.co
 .binance.com
+.binance.info
+.binance.me
+.binance.net
+.binance.org
 .binance.vision
+.binanceapi.com
+.binancezh.be
+.binancezh.biz
+.binancezh.cc
+.binancezh.co
 .binancezh.com
+.binancezh.info
+.binancezh.ink
+.binancezh.kim
+.binancezh.link
+.binancezh.live
+.binancezh.mobi
+.binancezh.net
+.binancezh.pro
+.binancezh.sh
+.binancezh.top
 .binary.com
 .bind2.com
 .bine.me
@@ -5824,6 +5846,7 @@ zeenews-fonts.s3.amazonaws.com
 .boyfriend.tv
 .boyfriendtv.com
 .boylove.cc
+.boyloves.cc
 .boysfood.com
 .boysmaster.com
 .boyxv.com
@@ -9182,7 +9205,6 @@ zeenews-fonts.s3.amazonaws.com
 .ec
 .ecademy.com
 .ecar.jlr-apps.com
-.ecchi.iwara.tv
 .ecgapp.net
 .echo-balancer.org
 .echocdn.com
@@ -10432,6 +10454,7 @@ zeenews-fonts.s3.amazonaws.com
 .fookpan.com
 .fooooo.com
 .footensalle.be
+.footseen.com
 .for-some.biz
 .forbes.com
 .forbesimg.com
@@ -11474,6 +11497,7 @@ zeenews-fonts.s3.amazonaws.com
 .girlfriendvideos.com
 .girlprops.com
 .girlsgogames.com
+.girlspoopingtube.com
 .gisplanning.com
 .git-scm.com
 .git.io
@@ -13964,6 +13988,7 @@ zeenews-fonts.s3.amazonaws.com
 .iwancai.com
 .iwank.tv
 .iwantclips.com
+.iwara.tv
 .iwc
 .iwork.com
 .iwork.wang
@@ -17804,6 +17829,7 @@ zeenews-fonts.s3.amazonaws.com
 .nomulus.foo
 .non-fakenews.org
 .nonesovile.com
+.nonktube.com
 .noodlevpn.com
 .norados.com
 .norbulingka.org
@@ -19234,6 +19260,7 @@ zeenews-fonts.s3.amazonaws.com
 .porngals4.com
 .porngo.com
 .pornhd.com
+.pornhits.com
 .pornhost.com
 .pornhub.com
 .pornhub.it
@@ -19243,11 +19270,13 @@ zeenews-fonts.s3.amazonaws.com
 .pornhubdeutsch.net
 .pornhublive.com
 .pornhubpremium.com
+.pornkai.com
 .pornmaki.com
 .pornmd.com
 .pornmm.net
 .pornoadler.com
 .pornocarioca.com
+.pornogramxxx.com
 .pornorama.com
 .pornoxo.com
 .pornpics.com
@@ -23114,6 +23143,7 @@ zeenews-fonts.s3.amazonaws.com
 .tubepornclassic.com
 .tuberb.com
 .tuberl.com
+.tubesafari.com
 .tubestack.com
 .tubestart.com
 .tubeteen18.com
@@ -24670,6 +24700,7 @@ zeenews-fonts.s3.amazonaws.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
+.watchanimeattheoffice.com
 .watchbabeshows.com
 .watchdisneyfe.com
 .watchespn.com
@@ -29811,7 +29842,6 @@ zeenews-fonts.s3.amazonaws.com
 .ysapp1.com
 .ysapp4.com
 .ysb88.com
-.yshyqxx.com
 .ysixdesign.com
 .ysmall.yitabangs.com
 .yt
