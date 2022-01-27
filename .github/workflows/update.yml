@@ -48,7 +48,7 @@ jobs:
           sed -i 's#https://raw.githubusercontent.com/yichahucha/surge/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/*.sgmodule
           cp yichahucha/*.js Surge-Rule/Script/
 
-          git clone https://github.com/onewayticket255/Surge-Script.git onewayticket255
+          # git clone https://github.com/onewayticket255/Surge-Script.git onewayticket255
           # cp onewayticket255/module/*.sgmodule Surge-Rule/Module/
           sed -i 's#https://raw.githubusercontent.com/onewayticket255/Surge-Script/master#https://cdn.jsdelivr.net/gh/fgprodigal/Surge-Rule@master/Script#g' Surge-Rule/Module/*.sgmodule
           cp onewayticket255/*.js Surge-Rule/Script/
