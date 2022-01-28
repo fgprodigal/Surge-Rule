@@ -16721,6 +16721,7 @@ zeenews-fonts.s3.amazonaws.com
 .moodys.com
 .moodyz.com
 .moon.com
+.moon.fm
 .moonbbs.com
 .moonbingo.com
 .moonpoet.com
@@ -19106,6 +19107,7 @@ zeenews-fonts.s3.amazonaws.com
 .pocketcasts.com
 .pocketmags.com
 .podbean.com
+.podcast.co
 .podictionary.com
 .podvpn9.com
 .podzone.net
