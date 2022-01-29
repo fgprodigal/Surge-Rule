@@ -7965,7 +7965,6 @@ zeenews-fonts.s3.amazonaws.com
 .daoc.net
 .daodu14.jigsy.com
 .daolan.net
-.daozhongxing.org
 .dapao888.com
 .darivoa.com
 .dark.moe
