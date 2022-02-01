@@ -20580,6 +20580,7 @@ zeenews-fonts.s3.amazonaws.com
 .sci-hub.ee
 .sci-hub.mksa.top
 .sci.hubg.org
+.science.org
 .sciencedirect.com
 .sciencedirectassets.com
 .sciencemag.org
