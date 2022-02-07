@@ -4953,6 +4953,7 @@ zeenews-fonts.s3.amazonaws.com
 .belshire.com
 .bemywife.cc
 .benchprep.org
+.benghuai.com
 .benjibot.xyz
 .benliton.com
 .bennyp.net
@@ -5061,6 +5062,7 @@ zeenews-fonts.s3.amazonaws.com
 .bgsystem.1680210.com
 .bgvpn.com
 .bh
+.bh3.com
 .bhaktivedantacollege.com
 .bharti
 .bhkta.org
@@ -7172,6 +7174,7 @@ zeenews-fonts.s3.amazonaws.com
 .clicksia.com
 .client.meethue.com
 .clientflow.apple.com.akadns.net
+.clinicalkey.com
 .clinique
 .clipconverter.cc
 .cliphunter.com
@@ -10473,7 +10476,6 @@ zeenews-fonts.s3.amazonaws.com
 .forumer.com
 .forumosa.com
 .forums.catholic.com
-.forums.mihoyo.com
 .forums.tripwireinteractive.com
 .forusex.com
 .forwarddemocracy.com
@@ -10992,6 +10994,7 @@ zeenews-fonts.s3.amazonaws.com
 .funball78.com
 .fundaiphone5s.com
 .fundfire.com
+.fundinginstitutional.com
 .fundpaypal.com
 .fundraisingwithfacebook.com
 .funimation.com
@@ -16143,6 +16146,7 @@ zeenews-fonts.s3.amazonaws.com
 .men9.net
 .menatplay.com
 .menck.com
+.mendeley.com
 .menicon.com
 .menonedge.com
 .menoopiu.it
@@ -16329,6 +16333,8 @@ zeenews-fonts.s3.amazonaws.com
 .midentsolutions.com
 .midnightfever.com
 .mih
+.mihayou.com
+.mihoyo.com
 .mihr.com
 .mihua.org
 .mii
@@ -17259,6 +17265,7 @@ zeenews-fonts.s3.amazonaws.com
 .natura
 .naturalvoices.com
 .nature.com
+.naturemag.org
 .naughtyamerica.com
 .naughtyblog.org
 .naughtymag.com
@@ -19994,6 +20001,7 @@ zeenews-fonts.s3.amazonaws.com
 .realvision.com
 .reason.com
 .reastatic.net
+.reaxys.com
 .rebatesrule.net
 .reboyc.com
 .rebrandly.com
@@ -20580,6 +20588,7 @@ zeenews-fonts.s3.amazonaws.com
 .sci-hub.ee
 .sci-hub.mksa.top
 .sci.hubg.org
+.science.com
 .science.org
 .sciencedirect.com
 .sciencedirectassets.com
@@ -20591,6 +20600,7 @@ zeenews-fonts.s3.amazonaws.com
 .scientology.tv
 .scieron.com
 .scitation.org
+.scival.com
 .scjohnson
 .scmc-db.weebly.com
 .scmp.com
@@ -29761,6 +29771,7 @@ zeenews-fonts.s3.amazonaws.com
 .ytvpn.com
 .yu33.net
 .yuanming.net
+.yuanshen.com
 .yuanzhengtang.org
 .yuanzone.no-ip.net
 .yubew.com
