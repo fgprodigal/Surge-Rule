@@ -2710,6 +2710,7 @@ zeenews-fonts.s3.amazonaws.com
 .aabc.gq
 .aabc.ml
 .aac91.com
+.aacrjournals.org
 .aad91.com
 .aae91.com
 .aak588.com
@@ -3038,6 +3039,7 @@ zeenews-fonts.s3.amazonaws.com
 .ai-wen.net
 .ai.binwang.me
 .ai780.com
+.aiaa.org
 .aibaobei.me
 .aig
 .aigo
@@ -3195,6 +3197,7 @@ zeenews-fonts.s3.amazonaws.com
 .alearroyo.com
 .alesso.net
 .alexa.com
+.alexanderstreet.com
 .alexgallego.org
 .alexlur.org
 .alfaromeo
@@ -3434,6 +3437,7 @@ zeenews-fonts.s3.amazonaws.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
+.ams.org
 .ams02.space
 .amtb-taipei.org
 .amvs22.com
@@ -3955,6 +3959,7 @@ zeenews-fonts.s3.amazonaws.com
 .artofpeacefoundation.org
 .artstation.com
 .artstationmedia.com
+.artstor.org
 .artsy.net
 .arxiv.org
 .arzon.com
@@ -3964,6 +3969,7 @@ zeenews-fonts.s3.amazonaws.com
 .asagaku.com
 .asahi.com
 .ascar.io
+.ascelibrary.org
 .asda
 .asebay.com
 .aseschool.org
@@ -4003,9 +4009,13 @@ zeenews-fonts.s3.amazonaws.com
 .askubuntu.com
 .askynz.net
 .aslbeauty.byethost7.com
+.asm.org
+.asme.org
+.asminternational.org
 .asnebula.cf
 .asp-cc.com
 .asp.net
+.aspenpublishing.com
 .aspnetcdn.com
 .asproex.com
 .asproexapi.com
@@ -4022,6 +4032,7 @@ zeenews-fonts.s3.amazonaws.com
 .asstr.org
 .assult.com
 .assylum.com
+.astm.org
 .astrill.com
 .astrill4u.com
 .astrium
@@ -5470,6 +5481,7 @@ zeenews-fonts.s3.amazonaws.com
 .bloomfortune.com
 .bloomingdales
 .bloommicroventures.com
+.bloomsburydesignlibrary.com
 .blpcareers.com
 .blpevents.com
 .blpink.xyz
@@ -5526,6 +5538,7 @@ zeenews-fonts.s3.amazonaws.com
 .bmh001.com
 .bmia.org
 .bmicapa.org
+.bmj.com
 .bml.info
 .bms
 .bmw
@@ -5799,6 +5812,7 @@ zeenews-fonts.s3.amazonaws.com
 .bookonsky.net
 .booksamillion.com
 .booksamillioninc.com
+.booksinprint.com
 .bookstagram.com
 .booloo.com
 .booms.cc
@@ -5897,6 +5911,7 @@ zeenews-fonts.s3.amazonaws.com
 .breakingtweets.com
 .breakwall.net
 .breitbart.com
+.brepolis.net
 .brew.sh
 .brewmp.com
 .brewster.kahle.org
@@ -6186,6 +6201,7 @@ zeenews-fonts.s3.amazonaws.com
 .buzztter.com
 .bv
 .bv866.com
+.bvdinfo.com
 .bvin.com
 .bvpn.com
 .bw
@@ -6382,6 +6398,7 @@ zeenews-fonts.s3.amazonaws.com
 .caige.a2020.com
 .caijinglengyan.com
 .caime.xyz
+.cairn.info
 .caiyutw.com
 .calameo.com
 .calebelston.com
@@ -6473,6 +6490,7 @@ zeenews-fonts.s3.amazonaws.com
 .caoporn.com
 .caphad.com
 .capitalgames.com
+.capitaliq.com
 .capitalone
 .captureage.com
 .carabinasypistolas.com
@@ -6510,6 +6528,7 @@ zeenews-fonts.s3.amazonaws.com
 .cartoonsexx.net
 .cartoonsqueen.com
 .carxzp.com
+.cas.org
 .casacam.net
 .casadeltibetbcn.org
 .casamea.org
@@ -8495,6 +8514,7 @@ zeenews-fonts.s3.amazonaws.com
 .dlercloud.org
 .dleris.best
 .dlfacebook.com
+.dlib.eastview.com
 .dlive.tv
 .dlsite.com
 .dlyoutube.com
@@ -9194,6 +9214,8 @@ zeenews-fonts.s3.amazonaws.com
 .ebookee.com
 .ebookforipad.com
 .ebooks-share.net
+.ebsco.com
+.ebscohost.com
 .ebtcbank.com
 .ebuyheadphones.com
 .ec
@@ -9357,6 +9379,7 @@ zeenews-fonts.s3.amazonaws.com
 .emblstatic.net
 .embs.org
 .emcs.org
+.emerald.com
 .emerck
 .emerson
 .emersonbrookforest.org
@@ -9371,6 +9394,7 @@ zeenews-fonts.s3.amazonaws.com
 .empfil.com
 .empflix.com
 .empfs.com
+.ems-ph.org
 .emsuryadi.com
 .emu486.net
 .emule-ed2k.com
@@ -9925,6 +9949,7 @@ zeenews-fonts.s3.amazonaws.com
 .factograph.info
 .factpedia.org
 .factwire.org
+.facultyopinions.com
 .facvebook.com
 .facwebook.com
 .facxebook.com
@@ -11525,6 +11550,7 @@ zeenews-fonts.s3.amazonaws.com
 .glennhilton.com
 .glide.com
 .global-proxy.com
+.global-sci.org
 .global.ishadowx.net
 .globaleast.org
 .globaledu.org
@@ -12289,6 +12315,7 @@ zeenews-fonts.s3.amazonaws.com
 .hegre-art.com
 .hegre.com
 .heidsiek.net
+.heinonline.org
 .heinz
 .helloandroid.com
 .helloavgirls.com
@@ -12427,6 +12454,7 @@ zeenews-fonts.s3.amazonaws.com
 .highpeakspureearth.com
 .highrockmedia.com
 .hightopnikes.com
+.highwirepress.com
 .hihbt.com
 .hihiforum.com
 .hihistory.net
@@ -13127,6 +13155,7 @@ zeenews-fonts.s3.amazonaws.com
 .iceblaze.com
 .icecast.org
 .icevil.webege.com
+.icevirtuallibrary.com
 .icgirls.com
 .ichineseporn.com
 .icij.org
@@ -13261,6 +13290,7 @@ zeenews-fonts.s3.amazonaws.com
 .igcdn.com
 .igfw.net
 .igfw.tech
+.igi-global.com
 .ignitedetroit.net
 .ignites.com
 .ignitesasia.com
@@ -13269,6 +13299,7 @@ zeenews-fonts.s3.amazonaws.com
 .igoogle.com
 .igoshopping.net
 .igossip.com
+.igpublish.com
 .igsonar.com
 .igtv.com
 .iguatemala.com
@@ -13959,6 +13990,7 @@ zeenews-fonts.s3.amazonaws.com
 .iwancai.com
 .iwank.tv
 .iwantclips.com
+.iwaponline.com
 .iwara.tv
 .iwc
 .iwork.com
@@ -15153,6 +15185,7 @@ zeenews-fonts.s3.amazonaws.com
 .level-plus.net
 .levote68.net
 .lewrockwell.com
+.lexisnexis.com
 .lexuemei.com
 .lexus
 .leyinga.com
@@ -18263,6 +18296,7 @@ zeenews-fonts.s3.amazonaws.com
 .openweave.io
 .openwebster.com
 .openwrt.org
+.opg.optica.org
 .opinionjournal.com
 .opior.com
 .opml.radiotime.com
@@ -20995,6 +21029,7 @@ zeenews-fonts.s3.amazonaws.com
 .shwchurch.org
 .shwchurch3.com
 .si
+.siam.org
 .siblount.weebly.com
 .sibreal.org
 .sibylcloud.com
@@ -24794,6 +24829,7 @@ zeenews-fonts.s3.amazonaws.com
 .westernshugdensociety.org
 .westernwolves.com
 .westkit.net
+.westlaw.com
 .westperry.org
 .westword.com
 .wethinker.com
