@@ -34,6 +34,7 @@ csis-prod.s3.amazonaws.com
 d1k2us671qcoau.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
+databank.worldbank.org
 database.asahi.com
 deutschewelle.h-cdn.com
 developer.microsoft.com
@@ -3044,6 +3045,7 @@ zeenews-fonts.s3.amazonaws.com
 .aig
 .aigo
 .aimei133.com
+.aimsciences.org
 .aing01.com
 .aint2late.com
 .aiot7.com
@@ -4015,6 +4017,7 @@ zeenews-fonts.s3.amazonaws.com
 .asnebula.cf
 .asp-cc.com
 .asp.net
+.aspbjournals.org
 .aspenpublishing.com
 .aspnetcdn.com
 .asproex.com
@@ -7029,6 +7032,7 @@ zeenews-fonts.s3.amazonaws.com
 .chocalanwines.com
 .chocolatey.org
 .chocolatkey.com
+.choicereviews.org
 .chomp.com
 .chordscenter.net
 .chrdnet.com
@@ -7079,6 +7083,7 @@ zeenews-fonts.s3.amazonaws.com
 .cinchcast.com
 .cineblog01.com
 .cinemax.com
+.cios.org
 .cipfg.org
 .cipriani
 .ciprianman.net
@@ -7373,6 +7378,7 @@ zeenews-fonts.s3.amazonaws.com
 .cobrasearch.com
 .cochina.co
 .cochina.org
+.cochranelibrary.com
 .coco-master.weebly.com
 .cocoa.zonble.net
 .cod36.com
@@ -9332,6 +9338,7 @@ zeenews-fonts.s3.amazonaws.com
 .electionsmeter.com
 .electrek.co
 .electricluxury.com
+.electrochem.org
 .electronicarts.com
 .electronjs.org
 .element.io
@@ -9339,6 +9346,7 @@ zeenews-fonts.s3.amazonaws.com
 .elenasandu.com
 .elephantsdream.org
 .elephantvpn.com
+.elgaronline.com
 .elgoog.im
 .elianapinzon.com
 .elifesciences.org
@@ -9370,6 +9378,7 @@ zeenews-fonts.s3.amazonaws.com
 .emaga.com
 .email.collegeplanning.com
 .emanna.com
+.embase.com
 .embed-cdn.com
 .embed.culturalspot.org
 .embeddedsw.org
@@ -9598,6 +9607,7 @@ zeenews-fonts.s3.amazonaws.com
 .euphotravel.com
 .eurashe.be
 .eurasianet.org
+.eurekaselect.com
 .eurekavpt.com
 .eurogirlsongirls.com
 .euroipad.com
@@ -25166,6 +25176,7 @@ zeenews-fonts.s3.amazonaws.com
 .worldofwarcraft.com
 .worldpay.com
 .worldpress.com
+.worldscientific.com
 .worldsecureemail.com
 .worldsecuresystems.com
 .worldsex.com
