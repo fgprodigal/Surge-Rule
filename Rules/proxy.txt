@@ -13,6 +13,7 @@ azuremarketplace.microsoft.com
 bcovlive-a.akamaihd.net
 bcsecure01-a.akamaihd.net
 beatselectronicsllc.tt.omtrdc.net
+beck-online.beck.de
 blizzard.nefficient.co.kr
 blizzcon-a.akamaihd.net
 blzddist1-a.akamaihd.net
@@ -41,6 +42,7 @@ developer.microsoft.com
 developer.mozilla.org
 developers.facebook.com
 dfp6rglgjqszk.cloudfront.net
+dl.begellhouse.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
 ds-linear-abematv.akamaized.net
@@ -56,6 +58,7 @@ espndotcom.tt.omtrdc.net
 fandom.zendesk.com
 faronics.kayako.com
 fbcdn-a.akamaihd.net
+firstsearch.oclc.org
 fontshop-prod-responsive-images.s3.amazonaws.com
 foxnewsplayer-a.akamaihd.net
 gamedownloads-rockstargames-com.akamaized.net
@@ -80,6 +83,8 @@ lolstatic-a.akamaihd.net
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
 media.prod.mdn.mozit.cloud
+medone-education.thieme.com
+muse.jhu.edu
 mwf-service.akamaized.net
 nab.demdex.net
 nationalaustraliaban.tt.omtrdc.net
@@ -192,6 +197,7 @@ tesla-cdn.thron.com
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
+ulrichsweb.serialssolutions.com
 venmo.s3.amazonaws.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
@@ -203,6 +209,7 @@ vod-sub-uk-live.akamaized.net
 vod-thumb-uk-live.akamaized.net
 vod-thumb-ww-live.akamaized.net
 widgets.stripst.com
+wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
 .000000000000000000000000000000000000000000000000000000000000001.com
@@ -2768,6 +2775,7 @@ zeenews-fonts.s3.amazonaws.com
 .ac.jiruan.net
 .ac1124.com
 .ac1125.com
+.academic.eb.com
 .academynetriders.com
 .accbusiness.com
 .accenture
@@ -3484,6 +3492,7 @@ zeenews-fonts.s3.amazonaws.com
 .anandaminers.com
 .anandtech.com
 .anarchistan.com
+.anatomy.tv
 .anb.org
 .anchor.fm
 .anchorfree.com
@@ -3919,6 +3928,7 @@ zeenews-fonts.s3.amazonaws.com
 .ar
 .ar.hao123.com
 .arabicbible.org
+.arabidopsis.org
 .arabslavetrade.com
 .aramco
 .aravas.io
@@ -4014,6 +4024,7 @@ zeenews-fonts.s3.amazonaws.com
 .asm.org
 .asme.org
 .asminternational.org
+.asn-online.org
 .asnebula.cf
 .asp-cc.com
 .asp.net
@@ -5196,9 +5207,11 @@ zeenews-fonts.s3.amazonaws.com
 .binux.me
 .binves.com
 .bioexpress.pt
+.biologists.com
 .biomedcentral.com
 .bione.cc
 .bione.me
+.bioone.org
 .biorxiv.org
 .bioware.com
 .biowarestore.com
@@ -5484,6 +5497,7 @@ zeenews-fonts.s3.amazonaws.com
 .bloomfortune.com
 .bloomingdales
 .bloommicroventures.com
+.bloomsburycollections.com
 .bloomsburydesignlibrary.com
 .blpcareers.com
 .blpevents.com
@@ -6873,6 +6887,7 @@ zeenews-fonts.s3.amazonaws.com
 .checkgfw.com
 .checkthis.com
 .cheezit.com
+.chemnetbase.com
 .chen0430tw.comyr.com
 .chenboyo.com
 .chenboywe.synology.me
@@ -14397,6 +14412,7 @@ zeenews-fonts.s3.amazonaws.com
 .journalgame.com
 .journalism.org
 .journalofdemocracy.org
+.jove.com
 .joymii.com
 .joymiihub.com
 .joyourself.com
@@ -14582,6 +14598,7 @@ zeenews-fonts.s3.amazonaws.com
 .kanzhongguo.com
 .kaotic.com
 .karayou.com
+.karger.com
 .karirbdl.com
 .karkhung.com
 .karmapa-teachings.org
@@ -16779,6 +16796,7 @@ zeenews-fonts.s3.amazonaws.com
 .moralesbrothers.com
 .morazzia.com
 .moreheadphones.com
+.morganclaypool.com
 .morlive.com
 .morningsun.org
 .moromie-av.com
@@ -18074,6 +18092,7 @@ zeenews-fonts.s3.amazonaws.com
 .oddxv.com
 .odin3.en.lo4d.com
 .odysee.com
+.oecd-ilibrary.org
 .oed.com
 .oeea.org
 .oex.com
@@ -18306,7 +18325,6 @@ zeenews-fonts.s3.amazonaws.com
 .openweave.io
 .openwebster.com
 .openwrt.org
-.opg.optica.org
 .opinionjournal.com
 .opior.com
 .opml.radiotime.com
@@ -18314,6 +18332,7 @@ zeenews-fonts.s3.amazonaws.com
 .opposix.com
 .opsxtv.com
 .optanedifference.com
+.optica.org
 .opticalize.com
 .opticsforthecloud.net
 .optimumssl.com
@@ -18355,6 +18374,7 @@ zeenews-fonts.s3.amazonaws.com
 .orxtv.com
 .orzistic.org
 .osakamotion.net
+.osapublishing.org
 .oscdn.origin-apple.com.akadns.net
 .osdn.net
 .osfoora.com
@@ -19452,6 +19472,7 @@ zeenews-fonts.s3.amazonaws.com
 .projectapex.com
 .projectara.com
 .projectbaseline.com
+.projecteuclid.org
 .projectinterfaith.org
 .projectmurphy.net
 .projectsangam.com
@@ -20377,6 +20398,7 @@ zeenews-fonts.s3.amazonaws.com
 .runhomefast.com
 .runnike.com
 .runningnike.com
+.rupress.org
 .ruralgenius.com
 .ruralict.com
 .ruruba.com
@@ -20451,6 +20473,7 @@ zeenews-fonts.s3.amazonaws.com
 .sactownbankruptcy.com
 .sadistic-v.com
 .sadout.com
+.sae.org
 .safe-inet.com
 .safecart.com
 .safechat.com
@@ -22575,6 +22598,7 @@ zeenews-fonts.s3.amazonaws.com
 .thewirecutter.com
 .thewonderful101.com
 .theync.com
+.thieme-connect.com
 .thieme.com
 .thinkable.org
 .thinkboxsoftware.com
@@ -22917,6 +22941,7 @@ zeenews-fonts.s3.amazonaws.com
 .tosh.comedycentral.com
 .toshiba
 .total
+.totalmateria.com
 .totalvpn.com
 .totheglory.im
 .totogeeks.com
@@ -25130,6 +25155,7 @@ zeenews-fonts.s3.amazonaws.com
 .wolfgang.site40.net
 .wolislaw.com
 .wolterskluwer
+.wolterskluwer.com
 .womany.net
 .wombo.ai
 .womensnikeshox.com
