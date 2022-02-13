@@ -1932,6 +1932,7 @@ zeenews-fonts.s3.amazonaws.com
 .6up.bet
 .6up.com
 .6yhy.com
+.7-zip.org
 .7.buyu213.com
 .7004202.com
 .7009.cc
