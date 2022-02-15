@@ -1,5 +1,6 @@
 abematv.akamaized.net
 amp.akamaized.net
+angle.com.tw
 api-p.videomarket.jp
 api.viu.now.com
 apple.com.akadns.net
@@ -12743,6 +12744,7 @@ zeenews-fonts.s3.amazonaws.com
 .hongkongfp.org
 .honglinzhang.com
 .hongmeimei.com
+.honkaistarrail.com
 .honven.xyz
 .hooloo.tv
 .hoolu.com
@@ -12812,6 +12814,8 @@ zeenews-fonts.s3.amazonaws.com
 .howtoforge.com
 .howtohackfacebook-account.com
 .hoxx.com
+.hoyolab.com
+.hoyoverse.com
 .hp-imagine.com
 .hp-infolab.com
 .hp-invent.com

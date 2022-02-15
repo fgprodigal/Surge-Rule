@@ -278,6 +278,7 @@ www.apple.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.gstatic.com
+www.libvideo.com
 www.microsoft.com
 www.recaptcha.net
 www4-static.gog-statics.com
@@ -17087,6 +17088,7 @@ xz.pphimalayanrt.com
 .cnsce.net
 .cnscee.com
 .cnscfa.com
+.cnsciedu.com
 .cnscore.com
 .cnsdjxw.com
 .cnsdtv.com
@@ -29090,6 +29092,7 @@ xz.pphimalayanrt.com
 .hongzhoukan.com
 .hongztl.com
 .honkaiimpact3.com
+.honkaistarrail.com
 .honorfair.com
 .honpery.com
 .honpu.com
@@ -29228,6 +29231,8 @@ xz.pphimalayanrt.com
 .hoxing.com
 .hoxue.com
 .hoyakeji.com
+.hoyolab.com
+.hoyoverse.com
 .hozin.com
 .hp-marathon.com
 .hp123.com
@@ -29446,6 +29451,7 @@ xz.pphimalayanrt.com
 .htback.com
 .htbenet.net
 .htc-media.com
+.htcases.com
 .htcbbs.net
 .htcis.net
 .htciy.com
@@ -30707,6 +30713,7 @@ xz.pphimalayanrt.com
 .ibbwhat.com
 .ibcar.net
 .ibcde.com
+.ibcet.org
 .ibczy.com
 .ibeifeng.com
 .ibeiig.com
@@ -40265,6 +40272,7 @@ xz.pphimalayanrt.com
 .mediav.com
 .mediawords.org
 .mediaxinan.com
+.medicexam.net
 .mediecogroup.com
 .medimg.org
 .meditic.com
@@ -55972,6 +55980,7 @@ xz.pphimalayanrt.com
 .ultramanol.com
 .ulucu.com
 .ulzdk.com
+.umajor.net
 .umaman.com
 .umbpay.com
 .umcloud.com
@@ -56759,6 +56768,7 @@ xz.pphimalayanrt.com
 .vipdlt.com
 .vipdy.cc
 .vipersaudio.com
+.vipexam.org
 .vipfengfei.com
 .vipfengxiao.com
 .vipfinal.com
