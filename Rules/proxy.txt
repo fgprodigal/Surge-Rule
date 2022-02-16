@@ -12059,6 +12059,7 @@ zeenews-fonts.s3.amazonaws.com
 .gw
 .gw.ipfspin.com
 .gw.poscointl.com
+.gwiki.net
 .gwins.org
 .gwtproject.org
 .gx08s1635.deflanid.com
@@ -12491,6 +12492,7 @@ zeenews-fonts.s3.amazonaws.com
 .hilive.tv
 .hiload.com
 .hilton
+.himalaya.exchange
 .himalaya2020.com
 .himalayan-foundation.org
 .himalayanconsensus.org
