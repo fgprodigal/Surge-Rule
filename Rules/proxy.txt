@@ -5877,6 +5877,7 @@ zeenews-fonts.s3.amazonaws.com
 .boyfriend.tv
 .boyfriendtv.com
 .boylove.cc
+.boylove.com
 .boyloves.cc
 .boysfood.com
 .boysmaster.com
@@ -15224,6 +15225,7 @@ zeenews-fonts.s3.amazonaws.com
 .lexus
 .leyinga.com
 .lezcuties.com
+.lezpoo.com
 .lfai.foundation
 .lflink.com
 .lflinkup.com
@@ -20342,6 +20344,7 @@ zeenews-fonts.s3.amazonaws.com
 .rosehills.com
 .rosinstrument.com
 .rotten.com
+.roughman.net
 .roupacaipira.com
 .routledgehandbooks.com
 .royalcams.com
@@ -22623,6 +22626,7 @@ zeenews-fonts.s3.amazonaws.com
 .thisispolaris.com
 .thismon.ee
 .thisvid.com
+.thisvidscat.net
 .thlib.org
 .thomasbernhard.org
 .thomasmckenzie.com
