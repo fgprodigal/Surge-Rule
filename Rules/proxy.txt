@@ -25,6 +25,9 @@ bnetcmsus-a.akamaihd.net
 bnetproduct-a.akamaihd.net
 bnetshopus.akamaized.net
 brightcove.imgix.net
+cbsi.live.ott.irdeto.com
+cbsplaylistserver.aws.syncbak.com
+cbsservice.aws.syncbak.com
 cdn77.scoreuniverse.com
 cdngarenanow-a.akamaihd.net
 chinapower.csis.org
@@ -80,6 +83,7 @@ interactive-examples.mdn.mozilla.net
 itunes-apple.com.akadns.net
 lgelectronics.122.2o7.net
 linear-abematv.akamaized.net
+link.theplatform.com
 lolstatic-a.akamaihd.net
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
@@ -3425,6 +3429,7 @@ zeenews-fonts.s3.amazonaws.com
 .amigobbs.net
 .amiibo.com
 .amjs669.com
+.amlg.io
 .amnesty.org
 .amnestyusa.org
 .amnistia.me
@@ -16975,6 +16980,7 @@ zeenews-fonts.s3.amazonaws.com
 .mtt.org
 .mtu.sp5178.net
 .mtvav.com
+.mtvnservices.com
 .mu
 .mua6sf.net
 .muadness.com
@@ -18618,6 +18624,7 @@ zeenews-fonts.s3.amazonaws.com
 .paragon.com
 .paramitadirect.com
 .paramount.com
+.paramountplus.com
 .parastorage.com
 .parcocolosseo.it
 .pardot.com
@@ -19382,6 +19389,7 @@ zeenews-fonts.s3.amazonaws.com
 .pp59.net
 .pp9444.com
 .ppaypal.com
+.pplusstatic.com
 .ppnycaction.org
 .ppp626.net
 .pppds.com
