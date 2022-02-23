@@ -23087,6 +23087,7 @@ zeenews-fonts.s3.amazonaws.com
 .truth101.co.tv
 .truthontour.org
 .truthortrust.com
+.truthsocial.com
 .truthtalkradio.net
 .truveo.com
 .trv
