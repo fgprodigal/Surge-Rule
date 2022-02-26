@@ -12003,6 +12003,7 @@ zeenews-fonts.s3.amazonaws.com
 .gts-vpn.com
 .gtv.org
 .gtv1.org
+.gtvmediagroupfairfund.com
 .gtxxtv.com
 .gu
 .gu-chu-sum.org
@@ -17513,6 +17514,7 @@ zeenews-fonts.s3.amazonaws.com
 .news1024.com
 .news1130.com
 .news24.com
+.news3.rexcha.com
 .newsamerica.com
 .newsancai.com
 .newsblur.com
@@ -17585,6 +17587,7 @@ zeenews-fonts.s3.amazonaws.com
 .nflxvideo.net
 .nforce.com
 .nfoxo.com
+.nfscdict.com
 .nfsworld.com
 .ng
 .ngan.ml
@@ -29685,6 +29688,7 @@ zeenews-fonts.s3.amazonaws.com
 .yinlei.org
 .yippy.com
 .yipub.com
+.yiqiedoushiganggangkaishi.org
 .yisay.substack.com
 .yivarlden.com
 .yiyechat.com

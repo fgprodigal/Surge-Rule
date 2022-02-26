@@ -8347,10 +8347,8 @@ xz.pphimalayanrt.com
 .admpub.com
 .admqr.com
 .adnineplus.com
-.adnmb.com
 .adnmb1.com
 .adnmb2.com
-.adnmb3.com
 .adnyg.com
 .adobe55.com
 .adobeae.com
@@ -8490,7 +8488,6 @@ xz.pphimalayanrt.com
 .agora.io
 .agoralab.co
 .agrantsem.com
-.agri35.com
 .agrittex.com
 .agrochemshow.com
 .agrodt.com
@@ -9899,6 +9896,7 @@ xz.pphimalayanrt.com
 .apsgo.com
 .apt.so
 .aptchina.com
+.aptchip.com
 .aptenon.com
 .apusic.com
 .apxm.net
@@ -12777,6 +12775,7 @@ xz.pphimalayanrt.com
 .bqg5.cc
 .bqg8.cc
 .bqg8.la
+.bqgwu.com
 .bqgyy.com
 .bqiapp.com
 .bqimg.com
@@ -17894,6 +17893,7 @@ xz.pphimalayanrt.com
 .csfounder.com
 .csftyy.com
 .csgm168.com
+.csgokai.com
 .csgpc.org
 .csgwbn.com
 .csharpkit.com
@@ -18855,6 +18855,7 @@ xz.pphimalayanrt.com
 .daqsoft.com
 .daquan.com
 .darczpw.com
+.darenceping.com
 .darevip.com
 .darkmi.com
 .darmao.com
@@ -23036,6 +23037,7 @@ xz.pphimalayanrt.com
 .fastsoso.cc
 .fat999.com
 .fatedier.com
+.fateskins.com
 .fatiao.pro
 .fatjiong.com
 .fatkun.com
@@ -28072,7 +28074,6 @@ xz.pphimalayanrt.com
 .henanlvyi.com
 .henanpige.com
 .henansenli.com
-.henanxiaochi.com
 .henanyouth.com
 .henbt.com
 .hencin.com
@@ -31385,7 +31386,6 @@ xz.pphimalayanrt.com
 .ilaitui.com
 .ilancai.com
 .ilanluo.com
-.ilanni.com
 .ilanx.net
 .ilanx0.net
 .ilaw66.com
@@ -31833,7 +31833,6 @@ xz.pphimalayanrt.com
 .intlscdn.com
 .intmedic.com
 .intmian.com
-.intnet.net
 .intohard.com
 .intopet.com
 .intovfx.com
@@ -33874,7 +33873,6 @@ xz.pphimalayanrt.com
 .jiuday.com
 .jiudianjiu.com
 .jiudianyuedu.com
-.jiuding18.com
 .jiudingcapital.com
 .jiudingdalv.com
 .jiugang.com
@@ -41674,7 +41672,6 @@ xz.pphimalayanrt.com
 .mtdx.net
 .mtedu.com
 .mtestin.com
-.mtf.wiki
 .mtgchina.com
 .mti100.com
 .mtiancity.com
@@ -44690,6 +44687,7 @@ xz.pphimalayanrt.com
 .pgcog.com
 .pgjcqm.com
 .pgl-world.com
+.pglstatp-toutiao-b.com
 .pglstatp-toutiao.com
 .pgnan.com
 .pgsql.tech
@@ -47840,6 +47838,7 @@ xz.pphimalayanrt.com
 .rippleos.com
 .risc-v1.com
 .riscv-mcu.com
+.riscv.club
 .risecd.net
 .risecenter.com
 .risechina.org
@@ -50096,7 +50095,6 @@ xz.pphimalayanrt.com
 .shouyoujz.com
 .shouyoumen.com
 .shouyouqianxian.com
-.shouyouribao.com
 .shouyoushenqi.com
 .shouyoutan.com
 .shouyoutv.com
@@ -60798,7 +60796,6 @@ xz.pphimalayanrt.com
 .xiaoying.co
 .xiaoying.com
 .xiaoying.tv
-.xiaoyiquan.com
 .xiaoyiwo.net
 .xiaoyouxi100.com
 .xiaoyouxiqun.com
@@ -63255,7 +63252,6 @@ xz.pphimalayanrt.com
 .yidianling.com
 .yidiansz.com
 .yidianting.xin
-.yidianzhidao.com
 .yidianzixun.com
 .yidianzx.com
 .yidmall.com
