@@ -21805,6 +21805,7 @@ zeenews-fonts.s3.amazonaws.com
 .steam-chat.com
 .steamcommunity.com
 .steamcontent.com
+.steamdeck.com
 .steamgames.com
 .steamoe.com
 .steampowered.com
