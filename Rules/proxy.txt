@@ -18173,6 +18173,7 @@ zeenews-fonts.s3.amazonaws.com
 .oktube.net
 .oktvusa.com
 .oktw.6te.net
+.okx.com
 .olayan
 .olayangroup
 .olcl.com
