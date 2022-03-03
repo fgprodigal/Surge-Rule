@@ -7193,7 +7193,6 @@ zeenews-fonts.s3.amazonaws.com
 .cl.powayusd.com
 .cl.yyq.im
 .cl1-cdn.origin-apple.com.akadns.net
-.cl2.apple.com.edgekey.net.globalredir.akadns.net
 .cl3-cdn.origin-apple.com.akadns.net
 .cl4-cdn.origin-apple.com.akadns.net
 .cl5-cdn.origin-apple.com.akadns.net
@@ -24505,6 +24504,7 @@ zeenews-fonts.s3.amazonaws.com
 .vsassets.io
 .vsb.edsby.com
 .vsco.com
+.vscode.dev
 .vsh.org
 .vsphere.com
 .vsphere.net
