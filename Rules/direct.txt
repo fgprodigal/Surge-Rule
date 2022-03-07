@@ -1475,6 +1475,7 @@ xz.pphimalayanrt.com
 .123juzi.net
 .123lihun.com
 .123meiyan.com
+.123menpiao.com
 .123nice.net
 .123novel.com
 .123qibu.com
@@ -8263,6 +8264,7 @@ xz.pphimalayanrt.com
 .adapay.tech
 .adarrive.com
 .adashuo.com
+.adawod.com
 .adaxin.com
 .adbats.com
 .adbxb.com
@@ -12318,6 +12320,7 @@ xz.pphimalayanrt.com
 .bjznnt.com
 .bjzph.com
 .bjzqcbook.com
+.bjzqhy.net
 .bjzqw.com
 .bjzs114.com
 .bjzwzx.com
@@ -17156,6 +17159,7 @@ xz.pphimalayanrt.com
 .cocostudio.org
 .cocounion.com
 .cocss.com
+.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -18450,6 +18454,7 @@ xz.pphimalayanrt.com
 .d5power.com
 .d5wx.com
 .d65d6.com
+.d777.com
 .d77777777.com
 .d7baike.net
 .d7ol.com
@@ -19390,7 +19395,6 @@ xz.pphimalayanrt.com
 .dfdjy.net
 .dfdtt.com
 .dfedu.com
-.dfgzqc.com
 .dfham.com
 .dfhon.com
 .dfhtjn.com
@@ -25230,6 +25234,7 @@ xz.pphimalayanrt.com
 .giga-da.com
 .gigabyte.com
 .gigaget.com
+.giikin.com
 .giiso.com
 .gildata.com
 .gilieye.com
@@ -25286,7 +25291,6 @@ xz.pphimalayanrt.com
 .gjceshi9.com
 .gjds.vip
 .gjfax.com
-.gjgov.com
 .gjgwy.net
 .gjgwy.org
 .gjgzpw.com
@@ -31584,7 +31588,6 @@ xz.pphimalayanrt.com
 .imwexpo.com
 .imwork.net
 .imxh.com
-.imxingzhe.com
 .imxpan.com
 .imxyd.com
 .imycdn.com
@@ -32429,7 +32432,6 @@ xz.pphimalayanrt.com
 .iwapan.com
 .iwasai.com
 .iwatch365.com
-.iwatch365.net
 .iwcoo.com
 .iwebad.com
 .iwebchoice.com
@@ -34500,7 +34502,6 @@ xz.pphimalayanrt.com
 .jsjs.org
 .jsjyrcb.com
 .jskaiborui.com
-.jskdjd.com
 .jskpcg.org
 .jskwt.com
 .jsldweb.com
@@ -44012,6 +44013,7 @@ xz.pphimalayanrt.com
 .ourwebpic.com
 .ourwebpic.info
 .ourwebpic.org
+.ourwebpicvip.com
 .oushangstyle.com
 .oushinet.com
 .oushivoyages.com
@@ -57410,7 +57412,6 @@ xz.pphimalayanrt.com
 .wcyecs.com
 .wczf.net
 .wd1266.com
-.wd6667.com
 .wdace.com
 .wdashi.com
 .wdaveh5game.com
@@ -57832,6 +57833,7 @@ xz.pphimalayanrt.com
 .weixun.com
 .weixuncj.com
 .weixunyunduan.net
+.weixz.com
 .weixz8.com
 .weiyan.me
 .weiyangx.com
@@ -59529,6 +59531,7 @@ xz.pphimalayanrt.com
 .wwleww.com
 .wwmhdq.com
 .wws23.com
+.wwstat.com
 .www-05.ibm.com
 .www-123490.com
 .www-175345.com
