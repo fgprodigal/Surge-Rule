@@ -12756,6 +12756,7 @@ zeenews-fonts.s3.amazonaws.com
 .hongkongfp.org
 .honglinzhang.com
 .hongmeimei.com
+.honkaiimpact3.com
 .honkaistarrail.com
 .honven.xyz
 .hooloo.tv
