@@ -69,7 +69,6 @@ gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
-github-avatars.oss-cn-hongkong.aliyuncs.com
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 heads4-ak-spotify-com.akamaized.net
@@ -7479,6 +7478,7 @@ zeenews-fonts.s3.amazonaws.com
 .commandandconquer.com
 .commandarms.com
 .commbank
+.comments.app
 .commentshk.com
 .commercebank.com
 .commerceos.com
@@ -22815,6 +22815,7 @@ zeenews-fonts.s3.amazonaws.com
 .tigerchicken.com
 .tigerdirect.com
 .tigervpn.com
+.tik-tokapi.com
 .tiktok.com
 .tiktokcdn.com
 .tiktokv.com
