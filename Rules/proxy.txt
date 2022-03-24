@@ -29624,6 +29624,7 @@ zeenews-fonts.s3.amazonaws.com
 .yahoofinance.com
 .yahoohealth.com
 .yahoomusic.com
+.yahoosandbox.com
 .yahoosportsbook.com
 .yakbutterblues.com
 .yam.com
