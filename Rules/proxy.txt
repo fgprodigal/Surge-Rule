@@ -8251,6 +8251,8 @@ zeenews-fonts.s3.amazonaws.com
 .denverpost.com
 .dependabot.com
 .depositphotos.com
+.deps.dev
+.deps.info
 .deptofhealth.xyz
 .derekhsu.homeip.net
 .desertbmw.com
@@ -18367,6 +18369,8 @@ zeenews-fonts.s3.amazonaws.com
 .openmaps.org
 .openresty.org
 .openshift.redhat.com
+.opensourceinsight.dev
+.opensourceinsights.dev
 .openssl.org
 .openstreetmap.com
 .openstreetmap.net
