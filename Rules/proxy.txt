@@ -1072,6 +1072,9 @@ zeenews-fonts.s3.amazonaws.com
 .2drdrebeats.com
 .2dway.com
 .2femdom.com
+.2k.com
+.2kcoretech.online
+.2kgames.com
 .2l387.cc
 .2lib.org
 .2lipstube.com
@@ -22269,6 +22272,7 @@ zeenews-fonts.s3.amazonaws.com
 .taiwanus.net
 .taiwanyes.com
 .taiwanyes.ning.com
+.take2games.com
 .takeafile.com
 .takegoto.com
 .talentlens.com
