@@ -7492,6 +7492,7 @@ zeenews-fonts.s3.amazonaws.com
 .communitychoicecu.com
 .como-hackearfacebook.com
 .comodo.com
+.comodo.net
 .comodoca.com
 .comodoca2.com
 .comodoca3.com
@@ -8352,6 +8353,7 @@ zeenews-fonts.s3.amazonaws.com
 .diggingtunnels.com
 .digi-ateljee.be
 .digibet.com
+.digicert-cn.com
 .digicert.com
 .digikey
 .digisfera.com
@@ -18611,6 +18613,7 @@ zeenews-fonts.s3.amazonaws.com
 .packagist.org
 .packer.io
 .packetix.net
+.pacloudflare.com
 .pacopacomama.com
 .pacspace.com
 .padmanet.com
@@ -19367,6 +19370,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornrabbit.com
 .pornradise.com
 .pornrapidshare.com
+.pornrips.cc
 .pornsake.com
 .pornscum.com
 .pornsharing.com
@@ -22622,6 +22626,7 @@ zeenews-fonts.s3.amazonaws.com
 .thenational.scot
 .thenationalpulse.com
 .thenewamerican.com
+.thenewgirlspooping.com
 .thenewgrace.org
 .thenewslens.com
 .thenextweb.com
