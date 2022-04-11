@@ -40401,6 +40401,9 @@ xz.pphimalayanrt.com
 .mihayo.com
 .mihayou.com
 .mihoyo.com
+.mihoyocg.com
+.mihoyogift.com
+.mihoyomall.com
 .mihtool.com
 .mihua.net
 .mihuashi.com
@@ -40659,6 +40662,7 @@ xz.pphimalayanrt.com
 .miyaboke.com
 .miyanlife.com
 .miyapay.com
+.miyoushe.com
 .miyouu.com
 .miyuangz.com
 .miyupu.com

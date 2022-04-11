@@ -11387,6 +11387,7 @@ zeenews-fonts.s3.amazonaws.com
 .gendai.net
 .genesis2013.com
 .genius.com
+.genshinimpact.com
 .genshinlab.com
 .genting
 .gentoo.org
@@ -16451,8 +16452,12 @@ zeenews-fonts.s3.amazonaws.com
 .midentsolutions.com
 .midnightfever.com
 .mih
+.mihayo.com
 .mihayou.com
 .mihoyo.com
+.mihoyocg.com
+.mihoyogift.com
+.mihoyomall.com
 .mihr.com
 .mihua.org
 .mii
@@ -16658,6 +16663,7 @@ zeenews-fonts.s3.amazonaws.com
 .mixpod.com
 .mixturecloud.com
 .mixx.com
+.miyoushe.com
 .mizado.com
 .mizzmona.com
 .mjfuentes.com
@@ -17317,6 +17323,7 @@ zeenews-fonts.s3.amazonaws.com
 .n.cr.rs
 .n.hd36.win
 .n.stood.pw
+.n0vadesktop.com
 .n1g.org
 .n2646.com
 .n33285.com
@@ -22619,6 +22626,7 @@ zeenews-fonts.s3.amazonaws.com
 .thememriblog.org
 .themillions.com
 .themimosagal.com
+.themisweeps.com
 .themostimportantnews.com
 .themoviedb.org
 .thenanfang.com
