@@ -52,6 +52,7 @@ dlmobilegarena-a.akamaihd.net
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 dtlgalleryint.cloudapp.net
+e122475.dscg.akamaiedge.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
 ebay-25-assets.s3-us-west-1.amazonaws.com
@@ -81,8 +82,10 @@ imperial.insendi.com
 interactive-examples.mdn.mozilla.net
 itunes-apple.com.akadns.net
 lgelectronics.122.2o7.net
+licdn.cn.cdn20.com
 linear-abematv.akamaized.net
 link.theplatform.com
+linkedin.sc.omtrdc.net
 lolstatic-a.akamaihd.net
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
@@ -5279,6 +5282,7 @@ zeenews-fonts.s3.amazonaws.com
 .biz.qltx1.com
 .bizhat.com
 .bizimama.com
+.bizographics.com
 .bizzapp.com
 .bj
 .bj.ssvps.site
@@ -11931,6 +11935,7 @@ zeenews-fonts.s3.amazonaws.com
 .gqfx.com
 .gqueues.com
 .gr
+.gr-assets.com
 .gr8domain.biz
 .gr8name.biz
 .grababrand.com
@@ -14979,6 +14984,8 @@ zeenews-fonts.s3.amazonaws.com
 .kz
 .kzeng.info
 .kzqzb.com
+.l-0005.dc-msedge.net
+.l-0005.l-msedge.net
 .la-forum.org
 .la4065.com
 .lab.gracecode.com
@@ -20721,6 +20728,7 @@ zeenews-fonts.s3.amazonaws.com
 .scasino.com
 .scb
 .scdn.co
+.scene7.com
 .scenesource.me
 .sceper.ws
 .schaeffler
