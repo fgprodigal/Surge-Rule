@@ -7454,6 +7454,7 @@ zeenews-fonts.s3.amazonaws.com
 .codecademy.com
 .codecampo.com
 .codefarmer.cf
+.codeforaliving.io
 .codeger.com
 .codeguru.com
 .codei.sh
@@ -16975,6 +16976,7 @@ zeenews-fonts.s3.amazonaws.com
 .moviesmobile.net
 .movistar
 .mowrygrimson.com
+.mox.moe
 .moxaftp.box.com
 .moyuv5.com
 .mozaic
@@ -21847,9 +21849,11 @@ zeenews-fonts.s3.amazonaws.com
 .stackexchange.com
 .stackmod.blog
 .stackoverflow.blog
+.stackoverflow.co
 .stackoverflow.com
 .stackoverflow.email
 .stackoverflowbusiness.com
+.stackoverflowcareers.com
 .stackpath.com
 .stackpath.dev
 .stacksnippets.net
@@ -24506,6 +24510,7 @@ zeenews-fonts.s3.amazonaws.com
 .voicettank.org
 .voipfone.net
 .vokevr.com
+.vol.moe
 .volafile.io
 .volafile.org
 .volaris.com
