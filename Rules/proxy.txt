@@ -4525,6 +4525,7 @@ zeenews-fonts.s3.amazonaws.com
 .bankmandiri.co.id
 .bankmobilevibe.com
 .banned.video
+.bannedbook.net
 .bannedbook.org
 .bannednews.org
 .banorte.com
@@ -18088,6 +18089,7 @@ zeenews-fonts.s3.amazonaws.com
 .ntdca.com
 .ntdcantonese.com
 .ntdimg.com
+.ntdtv-dc.com
 .ntdtv.com
 .ntdtv.org
 .ntdtvla.com
@@ -26248,7 +26250,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.ballbustingtube.com
 .www.bamsoftware.com
 .www.banjuan.net
-.www.bannedbook.net
 .www.bannersbroker.com
 .www.bao1616.com
 .www.baoyang98.com
