@@ -12930,6 +12930,7 @@ zeenews-fonts.s3.amazonaws.com
 .howtoforge.com
 .howtohackfacebook-account.com
 .hoxx.com
+.hoyo.link
 .hoyolab.com
 .hoyoverse.com
 .hp-imagine.com
@@ -18457,6 +18458,7 @@ zeenews-fonts.s3.amazonaws.com
 .openresty.org
 .opensea.io
 .openshift.redhat.com
+.opensource.guide
 .opensourceinsight.dev
 .opensourceinsights.dev
 .openssl.org
