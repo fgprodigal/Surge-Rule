@@ -1970,7 +1970,6 @@ xz.pphimalayanrt.com
 .17sucai.com
 .17syi.com
 .17sysj.com
-.17tanwan.com
 .17taotaoa.com
 .17taotaob.com
 .17taotaoba.com
@@ -6692,7 +6691,6 @@ xz.pphimalayanrt.com
 .84dwc.com
 .84fk.com
 .84ktv.com
-.84lm.net
 .84zcb.com
 .84zhu.com
 .85.com
@@ -9858,6 +9856,8 @@ xz.pphimalayanrt.com
 .artp.cc
 .artplusall.com
 .artpro.com
+.artpro.vip
+.artproglobal.com
 .artrade.com
 .artron.net
 .artronimages.com
@@ -13855,7 +13855,6 @@ xz.pphimalayanrt.com
 .cdmm.net
 .cdmoz.org
 .cdn-cdn.net
-.cdn-chuang.com
 .cdn-data-cloud.com
 .cdn-dns-kubo.com
 .cdn-files.net
@@ -14444,6 +14443,7 @@ xz.pphimalayanrt.com
 .chaoxin.com
 .chaoxing.cc
 .chaoxing.com
+.chaoxingv.com
 .chaoxz.com
 .chaoyindj.com
 .chaoyisy.com
@@ -14615,7 +14615,6 @@ xz.pphimalayanrt.com
 .chengyangnews.com
 .chengyangyang.com
 .chengye-capital.com
-.chengyin.org
 .chengyuw.com
 .chengyuwb.com
 .chengzhongmugu.wang
@@ -16756,7 +16755,6 @@ xz.pphimalayanrt.com
 .cnrmobile.com
 .cnrouter.com
 .cnrunda.com
-.cnrv.io
 .cns.hk
 .cnsaes.org
 .cnsal.com
@@ -17959,6 +17957,7 @@ xz.pphimalayanrt.com
 .cx930.net
 .cxacg.com
 .cxas.com
+.cxbiji.com
 .cxbz958.com
 .cxc233.com
 .cxcc.me
@@ -18891,7 +18890,6 @@ xz.pphimalayanrt.com
 .ddstarapp.com
 .ddswcm.com
 .ddsy.com
-.ddtaba.com
 .ddtugame.com
 .ddtui.com
 .ddun.com
@@ -19127,6 +19125,7 @@ xz.pphimalayanrt.com
 .dezhongmobi.com
 .dezhoudaily.com
 .dezhouqh.com
+.dezhuyun.com
 .df81.com
 .df9377.com
 .dfafei.com
@@ -25156,7 +25155,6 @@ xz.pphimalayanrt.com
 .gng92.com
 .gnhpc.com
 .gnrcbank.com
-.gnss.help
 .gnssinfo.com
 .gnssopenlab.org
 .gnvip.net
@@ -28515,6 +28513,7 @@ xz.pphimalayanrt.com
 .hongbaorili.com
 .hongbeibang.com
 .hongbizi.org
+.hongbo100.com
 .hongbocheng.com
 .hongbowang.net
 .hongchalin.com
@@ -29257,7 +29256,6 @@ xz.pphimalayanrt.com
 .huayiauto.com
 .huayicn.com
 .huayidiaosu.com
-.huayilawyers.com
 .huayimedia.com
 .huayiming.com
 .huayingsc.com
@@ -30524,7 +30522,6 @@ xz.pphimalayanrt.com
 .idianchou.com
 .idianfa.com
 .idianshijia.com
-.idig8.com
 .idigi.net
 .idkaiu.com
 .idler-et.com
@@ -38644,6 +38641,8 @@ xz.pphimalayanrt.com
 .luyinla.com
 .luyouqi.biz
 .luyouqi.com
+.luyouwang.com
+.luyouwang.net
 .luyouxia.com
 .luyuanqj.com
 .luzexi.com
@@ -40626,6 +40625,7 @@ xz.pphimalayanrt.com
 .mn21.com
 .mnancheng.com
 .mnbvtgv.com
+.mndqlib.net
 .mndsoft.com
 .mng0303.com
 .mng044.com
@@ -41163,6 +41163,7 @@ xz.pphimalayanrt.com
 .mtr8.com
 .mtrendgroup.com
 .mtscj.com
+.mttsq.com
 .mtty.com
 .mtu46.com
 .mtunique.com
@@ -42230,6 +42231,7 @@ xz.pphimalayanrt.com
 .nifengz.com
 .nightwishcn.com
 .nihao.net
+.nihaoafrica.org
 .nihaodd.com
 .nihaotw.com
 .nihaowang.com
@@ -48050,6 +48052,7 @@ xz.pphimalayanrt.com
 .scdnl3bk.com
 .scdnl9cm.com
 .scdnmogt.com
+.scdnn4t9.com
 .scdno5zl.com
 .scdnrvy1.com
 .scdnucc5.com
@@ -51107,6 +51110,7 @@ xz.pphimalayanrt.com
 .ssjzw.com
 .ssky123.com
 .sslaaa.com
+.sslawy.com
 .sslceshi.com
 .sslchaoshi.com
 .sslchina.com
@@ -52297,6 +52301,7 @@ xz.pphimalayanrt.com
 .tadu.com
 .taeapp.com
 .tag.gg
+.tagjj.com
 .taglyst.com
 .tagmmm.com
 .tagphi.net
@@ -53305,6 +53310,7 @@ xz.pphimalayanrt.com
 .tianzeba.com
 .tianzhao.net
 .tianzhuo.com
+.tianzhuobj.com
 .tianzikj.com
 .tianziyu.com
 .tianzongyouxi.com
@@ -55274,6 +55280,8 @@ xz.pphimalayanrt.com
 .uoj.ac
 .uoko.com
 .uomg.com
+.uonline-sh.com
+.uonline-sh.net
 .uono4521.com
 .uooconline.com
 .uoocool.com
@@ -61360,6 +61368,7 @@ xz.pphimalayanrt.com
 .xuexb.com
 .xuexi.la
 .xuexi365.com
+.xuexi365.net
 .xuexi637.com
 .xuexiaodaquan.com
 .xuexiaodaquan.net
@@ -61537,6 +61546,7 @@ xz.pphimalayanrt.com
 .xxd.io
 .xxdao.com
 .xxfzl.com
+.xxghh.biz
 .xxgj47.com
 .xxgzmlt.com
 .xxhd-tech.com
@@ -61587,6 +61597,7 @@ xz.pphimalayanrt.com
 .xxtaotao.com
 .xxtiao.com
 .xxtjs.com
+.xxtmail.com
 .xxwenda.com
 .xxwolo.com
 .xxxfeng.com
@@ -63087,6 +63098,7 @@ xz.pphimalayanrt.com
 .ylhh.net
 .ylhsrsrc.com
 .ylife9.com
+.ylike.net
 .ylimg.com
 .yliyun.com
 .yljc888.com
@@ -64785,6 +64797,7 @@ xz.pphimalayanrt.com
 .zaibei.net
 .zaidu.la
 .zaiduu.com
+.zaifan.com
 .zaih.com
 .zaihuangshi.com
 .zaijia.com
@@ -65695,6 +65708,7 @@ xz.pphimalayanrt.com
 .zhiguagua.com
 .zhiguang.me
 .zhigudata.com
+.zhihang100.com
 .zhihe.mobi
 .zhihejia.com
 .zhihemobi.com
