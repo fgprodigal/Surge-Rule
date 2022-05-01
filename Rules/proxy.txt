@@ -10871,6 +10871,7 @@ zeenews-fonts.s3.amazonaws.com
 .freehulu.com
 .freeilhamtohti.org
 .freejav.org
+.freejavbt.com
 .freekazakhs.org
 .freekwonpyong.org
 .freelan.org
@@ -14228,6 +14229,7 @@ zeenews-fonts.s3.amazonaws.com
 .jav-onlines.com
 .jav.com
 .jav.guru
+.jav.land
 .jav.place
 .jav01.cc
 .jav101.com
@@ -14547,6 +14549,10 @@ zeenews-fonts.s3.amazonaws.com
 .jp-sex.com
 .jp.hao123.com
 .jp01-28.ssv4.net
+.jpg4.biz
+.jpg4.info
+.jpg4.pw
+.jpg4us.net
 .jpiq.com
 .jpmorgan
 .jpmorganchase
@@ -14586,6 +14592,7 @@ zeenews-fonts.s3.amazonaws.com
 .jstor.org
 .jtbc.joins.com
 .jtfx.mobi
+.jtube.space
 .jtvnw.net
 .jtzgcd.neocities.org
 .ju11.net
@@ -14619,6 +14626,7 @@ zeenews-fonts.s3.amazonaws.com
 .justforex.com
 .justforu
 .justfreevpn.com
+.justhd.xyz
 .justhideme.com
 .justicefortenzin.org
 .justicewillprevail.com
@@ -17901,6 +17909,7 @@ zeenews-fonts.s3.amazonaws.com
 .ninjacloak.com
 .ninjaproxy.ninja
 .ninjaweb.xyz
+.ninpu.cyou
 .nintendium.com
 .nintendo-europe-sales.com
 .nintendo-europe.com
@@ -19440,6 +19449,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornhublive.com
 .pornhubpremium.com
 .pornkai.com
+.pornlulu.com
 .pornmaki.com
 .pornmd.com
 .pornmm.net
@@ -23642,6 +23652,7 @@ zeenews-fonts.s3.amazonaws.com
 .u2bet.net
 .u666999.com
 .u78929.com
+.u9a9.com
 .u9un.com
 .ua
 .ub0.cc
@@ -29583,6 +29594,7 @@ zeenews-fonts.s3.amazonaws.com
 .xvideo-jp.com
 .xvideo.cc
 .xvideos-cdn.com
+.xvideos-dl.top
 .xvideos.com
 .xvideos.org
 .xvideos.tv
