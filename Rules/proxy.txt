@@ -6,6 +6,7 @@ api.viu.now.com
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
+as-hls-uk-live.akamaized.net
 asahishimbun.sc.omtrdc.net
 audio-ak-spotify-com.akamaized.net
 avatargarenanow-a.akamaihd.net
@@ -1454,6 +1455,7 @@ zeenews-fonts.s3.amazonaws.com
 .4gtv.tv
 .4irc.com
 .4jok.com
+.4kup.net
 .4musclemen.com
 .4mydomain.com
 .4myminicard.com
@@ -6795,6 +6797,7 @@ zeenews-fonts.s3.amazonaws.com
 .celo.net
 .celticnorse.com
 .cencoastbmw.com
+.cenkei.com
 .centerforhumanreprod.com
 .centos.org
 .central64.com
@@ -7266,6 +7269,7 @@ zeenews-fonts.s3.amazonaws.com
 .clipconverter.cc
 .cliphunter.com
 .clips4sale.com
+.clipsex.asia
 .clipsyndicate.com
 .cliti.com
 .clkads.com
@@ -8754,6 +8758,7 @@ zeenews-fonts.s3.amazonaws.com
 .dooprime.net
 .doorbrowse.com
 .doosan
+.dopaminegirl.com
 .dorcel.com
 .dorcelclub.com
 .dorceltv.com
@@ -10513,6 +10518,7 @@ zeenews-fonts.s3.amazonaws.com
 .flushingcn.com
 .flutter.dev
 .flutterapp.com
+.flydiv.com
 .flyercenter.com
 .flyflv.com
 .flyingcloudproductions.com
@@ -14523,6 +14529,8 @@ zeenews-fonts.s3.amazonaws.com
 .joinmastodon.org
 .jojofx.com
 .jokerlu.com
+.jokerlu1.cc
+.jokerlu1.info
 .jollytime.com
 .jom2u.com
 .jonathancervantes.me
@@ -15681,6 +15689,8 @@ zeenews-fonts.s3.amazonaws.com
 .lsmwebcast.com
 .lsnzxzy1.com
 .lso.saponeworld.com
+.lspimg.com
+.lss55.com
 .lsublog.shorelight.com
 .lsxszzg.com
 .lt
@@ -17038,6 +17048,7 @@ zeenews-fonts.s3.amazonaws.com
 .mrcatfcat.com
 .mrcatlove.com
 .mrcboy.com
+.mrcong.com
 .mrface.com
 .mrgreen.com
 .mrmuscle
@@ -18116,6 +18127,7 @@ zeenews-fonts.s3.amazonaws.com
 .nude-art-erotic.com
 .nude.tv
 .nudeflix.com
+.nudevietnam.com
 .nudevista.com
 .nuexpo.com
 .nuget.org
@@ -21335,6 +21347,7 @@ zeenews-fonts.s3.amazonaws.com
 .sis.powayusd.com
 .sis.xxx
 .sis001.com
+.sisisl.com
 .sismonda.com
 .sitcup.net
 .site.com
@@ -23576,6 +23589,7 @@ zeenews-fonts.s3.amazonaws.com
 .twitvid.com
 .twitzap.com
 .twiyia.com
+.twlegs.com
 .twnextdigital.com
 .twreporter.org
 .twskype.com
@@ -29358,6 +29372,7 @@ zeenews-fonts.s3.amazonaws.com
 .xiaobaiwu.com
 .xiaobingss.com
 .xiaochuncnjp.com
+.xiaogirls.com
 .xiaohexie.com
 .xiaohouzi.club
 .xiaojiadianmovie.asia
@@ -29390,6 +29405,7 @@ zeenews-fonts.s3.amazonaws.com
 .xinlingcihang.com
 .xinlingfamen.net
 .xinlingfamen.org
+.xinmeitulu.com
 .xinmicredit.com
 .xinqimeng.over-blog.com
 .xinsheng.net
