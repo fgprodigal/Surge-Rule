@@ -217,6 +217,7 @@ vod-hls-uk-live.akamaized.net
 vod-sub-uk-live.akamaized.net
 vod-thumb-uk-live.akamaized.net
 vod-thumb-ww-live.akamaized.net
+vs-cmaf-push-uk-live.akamaized.net
 widgets.stripst.com
 wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
@@ -3358,6 +3359,7 @@ zeenews-fonts.s3.amazonaws.com
 .allgirlsallowed.org
 .allgravure.com
 .allhorsesex.com
+.alliancesages.com
 .alliehaze.com
 .allinfa.com
 .allinternal.com
@@ -8107,6 +8109,7 @@ zeenews-fonts.s3.amazonaws.com
 .cumfox.com
 .cumlouder.com
 .cumteenporn.com
+.cuntempire.com
 .cup888.tv
 .cups.org
 .curanderahealing.com
@@ -9600,6 +9603,7 @@ zeenews-fonts.s3.amazonaws.com
 .ec.skokka.com
 .ecademy.com
 .ecar.jlr-apps.com
+.ecchi.xxx
 .ecgapp.net
 .echo-balancer.org
 .echocdn.com
@@ -9906,6 +9910,7 @@ zeenews-fonts.s3.amazonaws.com
 .erni
 .ero-anime.net
 .ero-kawa.com
+.ero-labs.com
 .ero-video.net
 .erocool.net
 .erocurves.com
@@ -9920,6 +9925,10 @@ zeenews-fonts.s3.amazonaws.com
 .erogazou-pinkline.com
 .erogazoufactory.com
 .erohentai.net
+.erolabs.cloud
+.erolabs.com
+.erolabs.games
+.erolabs.net
 .erolord.com
 .eromanga-kingdom.com
 .eromangadouzin.com
@@ -11805,6 +11814,7 @@ zeenews-fonts.s3.amazonaws.com
 .gdansk-amazon.com
 .gdbt.net
 .gdgdocs.org
+.gdsrx888.com
 .gdssecurity.com
 .gdthing.com
 .gdzf.org
@@ -13270,6 +13280,7 @@ zeenews-fonts.s3.amazonaws.com
 .hkwesi7.xyz
 .hkwesi77.xyz
 .hkzone.org
+.hlbelygl.com
 .hllm.cc
 .hllm.net
 .hlw22.com
@@ -15019,6 +15030,7 @@ zeenews-fonts.s3.amazonaws.com
 .jiuping.net
 .jiuweike.com
 .jiuyaoyouxi.com
+.jiuzhouyihuo.com
 .jize-macau.business.site
 .jizzboom.com
 .jizzbunker.com
@@ -19943,6 +19955,8 @@ zeenews-fonts.s3.amazonaws.com
 .pink.komica.org
 .pinkape.net
 .pinkclips.mobi
+.pinkcore.com
+.pinkcore.net
 .pinkpussy.tv
 .pinkrod.com
 .pinkteentube.net
@@ -20174,6 +20188,7 @@ zeenews-fonts.s3.amazonaws.com
 .porbhub.com
 .poringa.net
 .pormhub.com
+.porn-images-xxx.com
 .porn-star.com
 .porn-w.org
 .porn-wanted.com
@@ -30907,6 +30922,7 @@ zeenews-fonts.s3.amazonaws.com
 .yangjianli.com
 .yangyangyang.me
 .yaoluba.com
+.yaoyaomumu.com
 .yaptube.com
 .yarininsuyu.com
 .yarnpkg.com
