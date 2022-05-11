@@ -10042,6 +10042,7 @@ zeenews-fonts.s3.amazonaws.com
 .europornstar.com
 .eurorgb.com
 .eurovision
+.evaelfie.com
 .evemodels.com
 .events4fun.net
 .eventsinfocus.org
@@ -23229,6 +23230,7 @@ zeenews-fonts.s3.amazonaws.com
 .swdist.apple.com.akadns.net
 .sweetadult-tube.com
 .sweetkiss.me
+.sweetmlif.net
 .sweetpacks-search.com
 .sweetsinner.com
 .swegold.com
