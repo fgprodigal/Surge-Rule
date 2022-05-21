@@ -3822,6 +3822,7 @@ zeenews-fonts.s3.amazonaws.com
 .app.box.com
 .app.box.net
 .app.e8777.com
+.app.evozi.com
 .app.simplenote.com
 .app.smartmailcloud.com
 .app.staging.nuorder.com
@@ -4042,6 +4043,7 @@ zeenews-fonts.s3.amazonaws.com
 .approvedusedbmw.com
 .apps.box.com
 .apps.education2020.com
+.apps.evozi.com
 .appshopper.com
 .appsocks.net
 .appsonebay.net
@@ -5433,6 +5435,7 @@ zeenews-fonts.s3.amazonaws.com
 .bitballoon.com
 .bitbank.cc
 .bitbay.net
+.bitbucket.io
 .bitbucket.org
 .bitchmomporn.com
 .bitchute.com
@@ -5604,6 +5607,7 @@ zeenews-fonts.s3.amazonaws.com
 .blog.pshrmn.com
 .blog.radi.ws
 .blog.ranxiang.com
+.blog.reimu.net
 .blog.revillweb.com
 .blog.sessionstack.com
 .blog.sitcomsonline.com
@@ -6998,6 +7002,7 @@ zeenews-fonts.s3.amazonaws.com
 .celticnorse.com
 .cencoastbmw.com
 .cenkei.com
+.censorship.ai
 .centerforhumanreprod.com
 .centos.org
 .central64.com
@@ -10056,7 +10061,6 @@ zeenews-fonts.s3.amazonaws.com
 .evilangel.com
 .evilbs.com
 .evise.com
-.evozi.com
 .evpn.me
 .evropaelire.org
 .evschool.net
@@ -12288,7 +12292,6 @@ zeenews-fonts.s3.amazonaws.com
 .google.bf
 .google.bt
 .google.cat
-.google.cc
 .google.cf
 .google.ch
 .google.ci
@@ -12313,12 +12316,10 @@ zeenews-fonts.s3.amazonaws.com
 .google.dm
 .google.ee
 .google.fm
-.google.gf
 .google.gg
 .google.gp
 .google.hr
 .google.im
-.google.io
 .google.is
 .google.it
 .google.kfd.me
@@ -14062,6 +14063,7 @@ zeenews-fonts.s3.amazonaws.com
 .imagineecommerce.com
 .imamat
 .imanhua.com
+.imap.vivaldi.net
 .imb.org
 .imbell.com
 .imc.signify.net
@@ -14842,6 +14844,7 @@ zeenews-fonts.s3.amazonaws.com
 .javhdfree.net
 .javhdonline.com
 .javhdporn.com
+.javhdporn.net
 .javher.com
 .javhihi.com
 .javhip.com
@@ -16630,7 +16633,6 @@ zeenews-fonts.s3.amazonaws.com
 .maiio.net
 .maikou.com
 .mail-archive.com
-.mail.com
 .mail.cyberpower.com
 .mail.dynit.it
 .mail.embraco.com
@@ -16984,8 +16986,8 @@ zeenews-fonts.s3.amazonaws.com
 .mehide.org
 .meibath.com
 .meilizhongguo.biz
-.meirifuli.org
-.meirixiaochao.com
+.meizhong.blog
+.meizhong.report
 .meltdownintibet.com
 .meltoday.com
 .member.cff888.com
@@ -17056,6 +17058,7 @@ zeenews-fonts.s3.amazonaws.com
 .meteorshowersonline.com
 .methdad.com
 .metlife
+.metro.taipei
 .metropolitana.tokyo
 .metropouloslaw.com
 .metropulsa.org
@@ -18110,7 +18113,6 @@ zeenews-fonts.s3.amazonaws.com
 .n1g.org
 .n2646.com
 .n33285.com
-.n3ro.live
 .n3ro.lol
 .n3ro.net
 .n3ro.wtf
@@ -18302,6 +18304,7 @@ zeenews-fonts.s3.amazonaws.com
 .netme.cc
 .netmums.com
 .netpornsex.com
+.netsarang.com
 .netsee.co
 .netsneak.com
 .nettyinternet.com
@@ -19875,7 +19878,6 @@ zeenews-fonts.s3.amazonaws.com
 .pewreligion.org
 .pewresearch.org
 .pewsocialtrends.org
-.pexcn.me
 .pf
 .pf.anonplus.org
 .pfdc89.com
@@ -21189,7 +21191,6 @@ zeenews-fonts.s3.amazonaws.com
 .registerhulu.com
 .registeridm.com
 .rehabforum.org
-.reimu.net
 .reindeervpn.com
 .rejectccp.com
 .rejecttheccp.com
@@ -22526,6 +22527,7 @@ zeenews-fonts.s3.amazonaws.com
 .soirt4.fun
 .sokamonline.com
 .sokmil.com
+.solana.com
 .solarcity.com
 .solidaritetibet.org
 .solidaritywithtibet.org
@@ -24979,6 +24981,7 @@ zeenews-fonts.s3.amazonaws.com
 .usawebproxy.net
 .usb3.gq
 .uscellular.com
+.uscnpm.org
 .uscti.org
 .usdehua.com
 .useplannr.com
@@ -25481,7 +25484,6 @@ zeenews-fonts.s3.amazonaws.com
 .viu.tv
 .viva
 .vivahentai4u.net
-.vivaldi.net
 .vivatube.com
 .vivianchan.com
 .viviparana.com
@@ -26112,6 +26114,7 @@ zeenews-fonts.s3.amazonaws.com
 .webmail.ino.it
 .webmail.intrepidcs.com
 .webmail.mtco.com
+.webmail.vivaldi.net
 .webmastervpn.com
 .webmobinetworks.com
 .webmoneyinfo.com
@@ -28908,7 +28911,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.mesubuta.net
 .www.metasploit.com
 .www.metcn.com
-.www.metro.taipei
 .www.metropolismag.com
 .www.mgm8091.com
 .www.mgscl123.com
