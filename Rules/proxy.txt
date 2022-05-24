@@ -19099,6 +19099,7 @@ zeenews-fonts.s3.amazonaws.com
 .omnitek.tv
 .omniture.com
 .omny.fm
+.omobi.cc
 .omoplanet.com
 .omscr.com
 .omtrdc.net
