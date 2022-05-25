@@ -5176,7 +5176,6 @@ zeenews-fonts.s3.amazonaws.com
 .belshire.com
 .bemywife.cc
 .benchprep.org
-.benghuai.com
 .benjibot.xyz
 .benliton.com
 .bennyp.net
@@ -5294,7 +5293,6 @@ zeenews-fonts.s3.amazonaws.com
 .bgsystem.1680210.com
 .bgvpn.com
 .bh
-.bh3.com
 .bhaktivedantacollege.com
 .bharti
 .bhkta.org
@@ -10978,6 +10976,7 @@ zeenews-fonts.s3.amazonaws.com
 .forumer.com
 .forumosa.com
 .forums.catholic.com
+.forums.mihoyo.com
 .forums.tripwireinteractive.com
 .forusex.com
 .forwarddemocracy.com
@@ -17203,12 +17202,6 @@ zeenews-fonts.s3.amazonaws.com
 .midentsolutions.com
 .midnightfever.com
 .mih
-.mihayo.com
-.mihayou.com
-.mihoyo.com
-.mihoyocg.com
-.mihoyogift.com
-.mihoyomall.com
 .mihr.com
 .mihua.org
 .mii
@@ -17429,7 +17422,6 @@ zeenews-fonts.s3.amazonaws.com
 .mixturecloud.com
 .mixvintagesex.com
 .mixx.com
-.miyoushe.com
 .mizado.com
 .mizzmona.com
 .mjfuentes.com
@@ -20538,6 +20530,7 @@ zeenews-fonts.s3.amazonaws.com
 .prostudiobeatscybersale.com
 .proteinalactea.com
 .protempproducts.com
+.proton.me
 .protonmail.ch
 .protonmail.com
 .protonstatus.com
@@ -23760,7 +23753,6 @@ zeenews-fonts.s3.amazonaws.com
 .themilfmovies.com
 .themillions.com
 .themimosagal.com
-.themisweeps.com
 .themostimportantnews.com
 .themoviedb.org
 .thenanfang.com
@@ -31266,7 +31258,6 @@ zeenews-fonts.s3.amazonaws.com
 .ytvpn.com
 .yu33.net
 .yuanming.net
-.yuanshen.com
 .yuanzhengtang.org
 .yuanzone.no-ip.net
 .yubew.com
