@@ -10562,6 +10562,7 @@ zeenews-fonts.s3.amazonaws.com
 .fate2013.weebly.com
 .fatew.com
 .fatstube.com
+.fau11.com
 .favebook.com
 .favjapaneseporn.com
 .favotter.net
@@ -12867,6 +12868,7 @@ zeenews-fonts.s3.amazonaws.com
 .hdtvb.net
 .hdxnxx.xxx
 .hdzog.com
+.he.net
 .he2911.com
 .headphonepubs.com
 .headphones-cool.com
@@ -15489,6 +15491,7 @@ zeenews-fonts.s3.amazonaws.com
 .kk63.net
 .kk98.net
 .kkbox.com
+.kkff2484.live
 .kkk16.net
 .kkk633.net
 .kkkcp2.com
@@ -19264,7 +19267,6 @@ zeenews-fonts.s3.amazonaws.com
 .orchid.com
 .order.shadowsocks.ch
 .order.webunion.com
-.ordns.he.net
 .oreilco.com
 .oreilly.com
 .oreilly.review
@@ -24675,6 +24677,7 @@ zeenews-fonts.s3.amazonaws.com
 .txdirectv.com
 .txe.gp9697.com
 .txmao.xyz
+.txqzz34r.com
 .txvia.com
 .txvip888.com
 .txvlog.com
