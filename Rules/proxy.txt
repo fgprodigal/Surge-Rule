@@ -3627,6 +3627,7 @@ zeenews-fonts.s3.amazonaws.com
 .amyh8588.com
 .amytele.com
 .amz123.com
+.amzn.asia
 .amzn.com
 .amznl.com
 .an
