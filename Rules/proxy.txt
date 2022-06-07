@@ -1798,6 +1798,7 @@ zeenews-fonts.s3.amazonaws.com
 .62877.com
 .628776.com
 .6297991.com
+.62fh1bnj.me
 .6310461.com
 .632.bobwills4homes.com
 .6325701.com
@@ -5308,6 +5309,7 @@ zeenews-fonts.s3.amazonaws.com
 .betway995.com
 .beurettesvideo.com
 .bewww.net
+.bexjt5wz.xyz
 .bextbuy.com
 .beyondcore.com
 .beyondfirewall.com
@@ -6270,6 +6272,7 @@ zeenews-fonts.s3.amazonaws.com
 .bs-adreview.com
 .bs919.com
 .bsdrp.net
+.bsersd.xyz
 .bst5588.com
 .bstatic.com
 .bt-king.xyz
@@ -6494,6 +6497,7 @@ zeenews-fonts.s3.amazonaws.com
 .bv
 .bv866.com
 .bvdinfo.com
+.bvfce6wz.xyz
 .bvin.com
 .bvpn.com
 .bw
@@ -9855,6 +9859,7 @@ zeenews-fonts.s3.amazonaws.com
 .enatura.biz
 .encoretvb.com
 .encrypt.me
+.encuentroscasualesoecuador.com
 .encyclopedia.com
 .encyclopedia.thefreedictionary.com
 .endccp.com
@@ -10610,6 +10615,7 @@ zeenews-fonts.s3.amazonaws.com
 .favotter.net
 .favstar.fm
 .fawanghuihui.org
+.fawgaf.xyz
 .fayaa.com
 .faycbok.com
 .faydao.com
@@ -14158,6 +14164,7 @@ zeenews-fonts.s3.amazonaws.com
 .impermium.com
 .improv4business.com
 .impulsoti.com
+.imsrbx.xyz
 .imstagram.com
 .imsystem.site
 .imtagram.com
@@ -14902,6 +14909,7 @@ zeenews-fonts.s3.amazonaws.com
 .javher.com
 .javhihi.com
 .javhip.com
+.javhub.me
 .javhub.net
 .javhuge.com
 .javjunkies.com
@@ -15401,6 +15409,7 @@ zeenews-fonts.s3.amazonaws.com
 .kb.monitorware.com
 .kba-tx.org
 .kbc.be
+.kbdxlesx.xyz
 .kchr.org
 .kcoolonline.com
 .kd667.com
@@ -15544,6 +15553,7 @@ zeenews-fonts.s3.amazonaws.com
 .kk63.net
 .kk98.net
 .kkbox.com
+.kkfcc03.com
 .kkff2484.live
 .kkk16.net
 .kkk633.net
@@ -17876,6 +17886,7 @@ zeenews-fonts.s3.amazonaws.com
 .mtvav.com
 .mtvnservices.com
 .mu
+.mu6bce1c.xyz
 .mua6sf.net
 .muadness.com
 .mubi.com
@@ -18956,6 +18967,7 @@ zeenews-fonts.s3.amazonaws.com
 .nuvid.com
 .nuzcom.com
 .nvdst.com
+.nverxs.xyz
 .nvidia.asia
 .nvidia.be
 .nvidia.ch
@@ -23570,6 +23582,7 @@ zeenews-fonts.s3.amazonaws.com
 .tcsofbc.org
 .tcsovi.org
 .tcstudents.org
+.tctsx28d.xyz
 .td
 .td.com
 .tdesktop.com
@@ -24801,6 +24814,7 @@ zeenews-fonts.s3.amazonaws.com
 .typesquare.com
 .typography.com
 .typora.io
+.tytng189.com
 .tz
 .u.f-q.me
 .u.georgianlimerick.com
@@ -25866,6 +25880,7 @@ zeenews-fonts.s3.amazonaws.com
 .vraiesagesse.net
 .vrbangers.com
 .vrchat.net
+.vrfdgswx.xyz
 .vrmtr.com
 .vrporn.com
 .vrsmash.com
@@ -25956,6 +25971,8 @@ zeenews-fonts.s3.amazonaws.com
 .vworldc.com
 .vx.domain888.pw
 .vx.freepac.pw
+.vxnbbrs.xyz
+.vxxsred.xyz
 .vyprofficial.com
 .vyprvpn.com
 .vzw.com
@@ -26801,9 +26818,9 @@ zeenews-fonts.s3.amazonaws.com
 .wuxiapple.com
 .wuyanblog.com
 .wuzuowei.com
+.wvm0agb4.me
 .wvw-82737.com
 .ww.daliulian.net
-.ww.encuentroscasualesoecuador.com
 .ww.jamate.com
 .ww.orange01.org
 .ww15.441mi.com
@@ -30337,7 +30354,6 @@ zeenews-fonts.s3.amazonaws.com
 .www2036.o0-5.com
 .www3.panasonic.biz
 .www8-hp.com
-.www8.javhub.me
 .wwwapple.com
 .wwwapple.net
 .wwwapplemusic.com
@@ -30866,6 +30882,7 @@ zeenews-fonts.s3.amazonaws.com
 .xxxaporn.com
 .xxxbolivianas.com
 .xxxbunker.com
+.xxxccc4.com
 .xxxdessert.com
 .xxxdinotube.com
 .xxxfk.com
@@ -31097,6 +31114,9 @@ zeenews-fonts.s3.amazonaws.com
 .yeswegays.com
 .yewtu.be
 .yeyeclub.com
+.yeyuehuachao11.com
+.yeyuehuachao12.com
+.yeyuehuachao13.com
 .yf188.org
 .yf676.org
 .yf888.net
