@@ -7246,6 +7246,7 @@ zeenews-fonts.s3.amazonaws.com
 .chickteases.com
 .chiemtinhviet.com
 .chihair-straightener.com
+.chikiporn.com
 .childrenyoutube.com
 .chillingo.com
 .chimeforchange.org
@@ -13071,6 +13072,7 @@ zeenews-fonts.s3.amazonaws.com
 .hentaiverse.org
 .hentaivideoworld.com
 .hentaiworld.tv
+.hentaixxxvids.com
 .hentaizilla.com
 .heptio.com
 .heqinglian.net
@@ -13093,6 +13095,7 @@ zeenews-fonts.s3.amazonaws.com
 .herringnetwork.com
 .herrneckara.bhitest.com
 .heryan.web.id
+.hetzner.cloud
 .hetzner.com
 .heungkongdiscuss.com
 .hex.win
@@ -20479,6 +20482,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornsyte.com
 .porntea.com
 .porntrex.com
+.porntry.com
 .porntube.com
 .porntube24.com
 .porntubenews.com
@@ -23206,6 +23210,7 @@ zeenews-fonts.s3.amazonaws.com
 .streamingthe.net
 .streamking.org
 .streamlatina.com
+.streamporn.cc
 .streamsex.com
 .streamxxx.tv
 .streema.com
