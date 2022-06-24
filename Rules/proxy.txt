@@ -102,6 +102,7 @@ muse.jhu.edu
 mwf-service.akamaized.net
 nab.demdex.net
 nationalaustraliaban.tt.omtrdc.net
+netflix.com.edgesuite.net
 nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.tt.omtrdc.net
 officecdn-microsoft-com.akamaized.net
@@ -6960,7 +6961,9 @@ zeenews-fonts.s3.amazonaws.com
 .cc.eye.rs
 .cc.srsr.ml
 .cc1505.com
+.cc18.biz
 .cc18.tv
+.cc18tv.com
 .cc353.com
 .cc36.net
 .cc383.net
@@ -20401,6 +20404,7 @@ zeenews-fonts.s3.amazonaws.com
 .porndisk.com
 .porndoe.com
 .porndoepremium.com
+.porndr.com
 .pornerbros.com
 .pornfacebook.com
 .pornfidelity.com
@@ -22063,6 +22067,7 @@ zeenews-fonts.s3.amazonaws.com
 .sensualmothers.com
 .senzuritv.net
 .sephora.com
+.seqing.one
 .seqingx.com
 .sequence.com
 .sergapnews.com
