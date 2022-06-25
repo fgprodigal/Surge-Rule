@@ -1517,6 +1517,7 @@ zeenews-fonts.s3.amazonaws.com
 .4mydomain.com
 .4myminicard.com
 .4pig.com
+.4porn.com
 .4pu.com
 .4rbtv.com
 .4sex4.com
@@ -15654,6 +15655,7 @@ zeenews-fonts.s3.amazonaws.com
 .komatsu
 .komica2.net
 .komicolle.org
+.kompoz.com
 .kompoz2.com
 .kompozer.net
 .konachan.com
@@ -20415,6 +20417,7 @@ zeenews-fonts.s3.amazonaws.com
 .porngames.games
 .porngladiator.com
 .porngo.com
+.pornhat.com
 .pornhd.com
 .pornhits.com
 .pornhost.com
@@ -23967,6 +23970,7 @@ zeenews-fonts.s3.amazonaws.com
 .thepaypalshop.com
 .thepiratebay.ee
 .thepiratebay.org
+.thepornbet.com
 .theporndude.com
 .thepornlist.com
 .thepornscat.com
