@@ -1558,6 +1558,7 @@ zeenews-fonts.s3.amazonaws.com
 .5062941.com
 .50655.com
 .507678.com
+.50dh.app
 .50na50.net
 .511zhang.com
 .512.tv321.pw
@@ -10974,6 +10975,8 @@ zeenews-fonts.s3.amazonaws.com
 .flirt4free.com
 .flirtyhoookup.com
 .flitto.com
+.fljmh.com
+.fljmh1.com
 .fll.cc
 .flnet.org
 .floplus.com
@@ -14903,6 +14906,7 @@ zeenews-fonts.s3.amazonaws.com
 .jasoncoyne.com
 .jav-1080.com
 .jav-720p.com
+.jav-legend.com
 .jav-onlines.com
 .jav.com
 .jav.guru
@@ -22824,6 +22828,7 @@ zeenews-fonts.s3.amazonaws.com
 .sovec.net
 .soylentnews.org
 .soytwitter.com
+.sp.cool
 .sp1.comefreeloaders.com
 .sp667.com
 .space-18.com
@@ -31449,6 +31454,7 @@ zeenews-fonts.s3.amazonaws.com
 .youx.xxx
 .youxu.info
 .youyoutube.com
+.youyu.services
 .yoyo22.com
 .yoyoav.net
 .yoyovpn.com
