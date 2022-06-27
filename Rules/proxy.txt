@@ -79,6 +79,7 @@ gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
+hammerandchisel.ssl.zendesk.com
 heads4-ak-spotify-com.akamaized.net
 homebrew.bintray.com
 hpstore.corpmerchandise.com
@@ -2967,6 +2968,7 @@ zeenews-fonts.s3.amazonaws.com
 .adac
 .adad06.com
 .adad09.com
+.adanaatikhaber.com
 .adanwebnet.site44.com
 .adaptivecards.io
 .adbecrsl.com
@@ -4317,6 +4319,7 @@ zeenews-fonts.s3.amazonaws.com
 .attwirelessinternet.com
 .attwirelessonline.com
 .attwirelesssolutions.com
+.atube.xxx
 .atx.snfda.com
 .atypi.org
 .au
@@ -4455,24 +4458,6 @@ zeenews-fonts.s3.amazonaws.com
 .avsox.host
 .avsp2p.com
 .avstar.me
-.avstar01.com
-.avstar01.me
-.avstar02.com
-.avstar02.me
-.avstar03.com
-.avstar03.me
-.avstar04.com
-.avstar04.me
-.avstar05.com
-.avstar05.me
-.avstar06.com
-.avstar06.me
-.avstar07.com
-.avstar07.me
-.avstar08.com
-.avstar08.me
-.avstar09.com
-.avstar09.me
 .avstry.com
 .avt-global.com
 .avxde.org
@@ -4929,6 +4914,7 @@ zeenews-fonts.s3.amazonaws.com
 .bdj98.com
 .bdn.dev
 .bdsmforall.com
+.bdsmland.org
 .bdsmlibrary.com
 .bdsmstreak.com
 .bdsmtv.cc
@@ -8008,6 +7994,7 @@ zeenews-fonts.s3.amazonaws.com
 .creaders.net
 .creadersnet.com
 .creamasia.com
+.creamlemon.info
 .creampietubeporn.com
 .createspace.com
 .creativecloud.com
@@ -14865,6 +14852,7 @@ zeenews-fonts.s3.amazonaws.com
 .jadult.net
 .jaedo415.weebly.com
 .jafa888.com
+.jafgrown.com
 .jagex.com
 .jaguar
 .jahproxy.net
@@ -14961,7 +14949,9 @@ zeenews-fonts.s3.amazonaws.com
 .javfinder.sh
 .javfor.me
 .javfree.me
+.javfuck.net
 .javfull.net
+.javhard.net
 .javhaven.com
 .javhd.com
 .javhd.pro
@@ -14992,9 +14982,12 @@ zeenews-fonts.s3.amazonaws.com
 .javpub.me
 .javpush.com
 .javqd.com
+.javscat.net
+.javscatting.com
 .javscreens.com
 .javseeds.com
 .javseen.com
+.javsex.asia
 .javsharing.com
 .javsin.com
 .javtag.com
@@ -15002,6 +14995,7 @@ zeenews-fonts.s3.amazonaws.com
 .javtasty.com
 .javtube.com
 .javvan.cc
+.javvids.com
 .javwide.com
 .javwide.tv
 .javynow.com
@@ -20361,6 +20355,7 @@ zeenews-fonts.s3.amazonaws.com
 .poofx.com
 .pool.ntp.org
 .poolin.com
+.poop-pee.online
 .popbox.com
 .popcap.com
 .popcash.net
@@ -20436,6 +20431,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornhubselect.com
 .pornicom.com
 .pornid.xxx
+.pornjav.org
 .pornjizz.co
 .pornkai.com
 .pornktube.com
@@ -20872,6 +20868,7 @@ zeenews-fonts.s3.amazonaws.com
 .purevpn.com
 .purevpn.org
 .purextc.com
+.puripuriunkomura.com
 .purplelotus.org
 .pursuestar.com
 .pusacg.org
@@ -21899,6 +21896,8 @@ zeenews-fonts.s3.amazonaws.com
 .scamadviser.com
 .scandalplanet.com
 .scasino.com
+.scat-japan.com
+.scatvids.club
 .scb
 .scdn.co
 .scene7.com
@@ -22340,6 +22339,8 @@ zeenews-fonts.s3.amazonaws.com
 .shireyishunjian.com
 .shit.com
 .shitaotv.org
+.shithd.com
+.shitjav.com
 .shittytube.com
 .shixiao.org
 .shixudong.ml
