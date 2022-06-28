@@ -12934,6 +12934,7 @@ zeenews-fonts.s3.amazonaws.com
 .hd.cssyz.xyz
 .hd.port0.org
 .hd1565.com
+.hdb1.app
 .hddirectv.com
 .hdfc
 .hdfcbank
@@ -12941,6 +12942,8 @@ zeenews-fonts.s3.amazonaws.com
 .hdhole.com
 .hdjavonline.com
 .hdlt.me
+.hdouban.com
+.hdouban2.com
 .hdouga.com
 .hdpornfree.xxx
 .hdpornfull.com
@@ -14172,6 +14175,7 @@ zeenews-fonts.s3.amazonaws.com
 .imamat
 .imanhua.com
 .imap.vivaldi.net
+.imaypb.com
 .imb.org
 .imbell.com
 .imc.signify.net
@@ -19267,6 +19271,7 @@ zeenews-fonts.s3.amazonaws.com
 .ondemand.ecornell.com
 .one.one.one
 .one.posco.net
+.one889.app
 .oneapi.com
 .onebigfluke.com
 .onederfultech.com
@@ -22234,6 +22239,7 @@ zeenews-fonts.s3.amazonaws.com
 .sg9095.com
 .sg9097.com
 .sgforums.com
+.sgp1.fun
 .sgtsourcing.box.com
 .sh223.cf
 .sha0001.com
@@ -22979,6 +22985,7 @@ zeenews-fonts.s3.amazonaws.com
 .ss36507.com
 .ss36508.com
 .ss66088.com
+.ss7.app
 .ss733.net
 .ss9874.com
 .ss99066.com
@@ -30980,6 +30987,7 @@ zeenews-fonts.s3.amazonaws.com
 .xx316.net
 .xx3641.com
 .xx383.net
+.xx9.app
 .xxbay.com
 .xxbbx.com
 .xxeronetxx.info
