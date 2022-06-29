@@ -9403,6 +9403,7 @@ zeenews-fonts.s3.amazonaws.com
 .dx3303.com
 .dx7711.com
 .dx7722.com
+.dx9527.cc
 .dy606.com
 .dy9910.com
 .dy9950.com
@@ -16195,6 +16196,7 @@ zeenews-fonts.s3.amazonaws.com
 .limbopro.xyz
 .limejs.com
 .limelight.com
+.limertw.cc
 .limeteensex.com
 .limetorrents.cc
 .limiao.net
@@ -25326,6 +25328,7 @@ zeenews-fonts.s3.amazonaws.com
 .v66612.com
 .v6ss.xyz
 .v78929.com
+.v7hds.com
 .v8.dev
 .v8293.com
 .v89168.com
@@ -30579,6 +30582,7 @@ zeenews-fonts.s3.amazonaws.com
 .xanimeporn.com
 .xartfan.com
 .xb.dnsmail.xyz
+.xb18.me
 .xbabe.com
 .xbahis33.com
 .xbahis44.com
