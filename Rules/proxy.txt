@@ -83,6 +83,7 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
 heads4-ak-spotify-com.akamaized.net
+himalaya-exchange.zendesk.com
 homebrew.bintray.com
 hpstore.corpmerchandise.com
 i.jeded.com
@@ -7924,6 +7925,7 @@ zeenews-fonts.s3.amazonaws.com
 .corriere.it
 .cortanaanalytics.com
 .cortanaskills.com
+.cortexrpg.com
 .corumcollege.com
 .cos-moe.com
 .cosersuki.net
