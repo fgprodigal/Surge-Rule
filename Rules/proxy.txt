@@ -2499,6 +2499,7 @@ zeenews-fonts.s3.amazonaws.com
 .91cqmm.com
 .91cy.app
 .91dizhi.com
+.91fans.org
 .91gay.me
 .91pic.net
 .91porn.com
@@ -7614,6 +7615,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudlock.com
 .cloudmosa.com
 .cloudn.me
+.cloudproxy.app
 .cloudrobotics.com
 .cloudup.com
 .cloudvolumes.com
@@ -16477,6 +16479,7 @@ zeenews-fonts.s3.amazonaws.com
 .lscanm.com
 .lsforum.net
 .lsg368.com
+.lsj2.shop
 .lsm.org
 .lsmchinese.org
 .lsmkorean.org
