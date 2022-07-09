@@ -2131,6 +2131,7 @@ zeenews-fonts.s3.amazonaws.com
 .7587366.com
 .7589330.com
 .7589942.com
+.75m.co
 .76034.wang
 .7611567.com
 .762125.cc
@@ -11957,6 +11958,7 @@ zeenews-fonts.s3.amazonaws.com
 .geinoueroch.com
 .gekikame.com
 .gelbooru.com
+.gelbooru.me
 .gemfire.net
 .gemfury.com
 .genashtim.com
@@ -13558,6 +13560,7 @@ zeenews-fonts.s3.amazonaws.com
 .hottv.cc
 .hottystop.com
 .hotvpn.com
+.hotzxgirl.com
 .hougaige.com
 .hourlyhost.com
 .housing.com
