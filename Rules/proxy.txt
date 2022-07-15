@@ -3433,6 +3433,7 @@ zeenews-fonts.s3.amazonaws.com
 .allover30.com
 .allowed.org
 .allpasswords.com
+.allpornsitespass.com
 .allstate
 .allstate.com
 .allthingsd.com
@@ -10841,7 +10842,6 @@ zeenews-fonts.s3.amazonaws.com
 .fi.doh.dns.snopyta.org
 .fi11.com
 .fi11av1.com
-.fi11sm34.com
 .fi11tv1.com
 .fi22.cc
 .fiat
@@ -14951,6 +14951,7 @@ zeenews-fonts.s3.amazonaws.com
 .jav-legend.com
 .jav-onlines.com
 .jav.com
+.jav.dog
 .jav.guru
 .jav.land
 .jav.place
@@ -15277,7 +15278,6 @@ zeenews-fonts.s3.amazonaws.com
 .johntool.com
 .johren.games
 .johren.net
-.join.allpornsitespass.com
 .joinclubhouse.com
 .joinmaidez.com
 .joinmastodon.org
