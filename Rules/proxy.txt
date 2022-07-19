@@ -4433,6 +4433,7 @@ zeenews-fonts.s3.amazonaws.com
 .avgod.club
 .avh.world
 .avhd101.com
+.avhome.one
 .avhot.cc
 .avi78.com
 .avia88.com
@@ -20645,6 +20646,7 @@ zeenews-fonts.s3.amazonaws.com
 .pp337.net
 .pp5789.com
 .pp59.net
+.pp6.info
 .pp9444.com
 .ppaypal.com
 .pplah.com
