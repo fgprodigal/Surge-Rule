@@ -877,6 +877,10 @@ zeenews-fonts.s3.amazonaws.com
 .1jsa22.vip
 .1kan.com
 .1lib.ch
+.1lib.cloud
+.1lib.domains
+.1lib.education
+.1lib.limited
 .1lib.net
 .1lib.org
 .1mobile.com
@@ -4155,6 +4159,7 @@ zeenews-fonts.s3.amazonaws.com
 .arph.org
 .arphic.com
 .arrowsoftruth.org
+.art1lib.com
 .art4tibet1998.org
 .artcomix.com
 .arte
@@ -4562,6 +4567,8 @@ zeenews-fonts.s3.amazonaws.com
 .azurewebsites.net
 .b-ok.as
 .b-ok.cc
+.b-ok.global
+.b-ok.org
 .b.cowoo.win
 .b.cr.rs
 .b.hd36.win
@@ -6112,12 +6119,19 @@ zeenews-fonts.s3.amazonaws.com
 .bookclubgirl.com
 .bookdepository.com
 .bookepub.com
+.bookfi.net
 .booking.com
 .bookmark.xxx
 .bookmybridgestonetyre.com
 .bookonsky.net
 .booksamillion.com
 .booksamillioninc.com
+.booksc.me
+.booksc.org
+.booksc.xyz
+.bookshome.info
+.bookshome.net
+.bookshome.world
 .booksinprint.com
 .bookstagram.com
 .booloo.com
@@ -8575,6 +8589,7 @@ zeenews-fonts.s3.amazonaws.com
 .de-sci.org
 .de.hideproxy.me
 .de1.vpnme.me
+.de1lib.org
 .de9999.com
 .deadline.com
 .deadspacegame.com
@@ -8963,6 +8978,7 @@ zeenews-fonts.s3.amazonaws.com
 .djyimg.com
 .dk
 .dkbeatsbydre.com
+.dkcloud.cc
 .dkk37.com
 .dkn.tv
 .dkr.com
@@ -13366,6 +13382,7 @@ zeenews-fonts.s3.amazonaws.com
 .hk01.com
 .hk1.pro.rixcloud.net
 .hk148forum.com
+.hk1lib.org
 .hk32168.com
 .hk5.xyttk.vip
 .hkaac.byethost11.com
@@ -13587,6 +13604,7 @@ zeenews-fonts.s3.amazonaws.com
 .hotmovs.com
 .hotntubes.com
 .hotnudegirls.net
+.hotporn.today
 .hotpornshow.com
 .hotporntubes.com
 .hotshame.com
@@ -16234,6 +16252,9 @@ zeenews-fonts.s3.amazonaws.com
 .library.pressdisplay.com
 .librarylovefest.com
 .libreswan.org
+.libsolutions.app
+.libsolutions.domains
+.libsolutions.net
 .licdn.com
 .licensebuttons.net
 .lidecheng.com
@@ -16776,6 +16797,7 @@ zeenews-fonts.s3.amazonaws.com
 .m9955.com
 .ma
 .ma.hao123.com
+.ma1lib.org
 .ma8009.com
 .maasstadbv.com
 .mabelleepoque.ch
@@ -17978,6 +18000,7 @@ zeenews-fonts.s3.amazonaws.com
 .mrface.com
 .mrgreen.com
 .mrmuscle
+.mrporngeek.com
 .mrporter
 .mrskin.com
 .mrslove.com
@@ -22371,6 +22394,7 @@ zeenews-fonts.s3.amazonaws.com
 .sg.yepdns.com
 .sg120.me
 .sg138app.com
+.sg1lib.org
 .sg5.vip
 .sg60.vip
 .sg9095.com
@@ -22418,6 +22442,7 @@ zeenews-fonts.s3.amazonaws.com
 .shangrila
 .shanmao.tv
 .shaogood.com
+.shapelcounset.xyz
 .shapeservices.com
 .share.ovi.com
 .share.playbabies.net
@@ -22613,6 +22638,8 @@ zeenews-fonts.s3.amazonaws.com
 .sing68.com
 .singaporeair.com
 .singfortibet.com
+.singlelogin.app
+.singlelogin.me
 .singtao.com
 .singtaobooks.com
 .singtaola.com
@@ -24131,9 +24158,11 @@ zeenews-fonts.s3.amazonaws.com
 .thepiratebay.ee
 .thepiratebay.org
 .thepornbet.com
+.theporndude.cc
 .theporndude.com
 .theporndude.vip
 .thepornlist.com
+.thepornmap.com
 .thepornscat.com
 .theportalwiki.com
 .theproject333.com
@@ -30850,6 +30879,7 @@ zeenews-fonts.s3.amazonaws.com
 .xiaobaiwu.com
 .xiaobingss.com
 .xiaochuncnjp.com
+.xiaofu.me
 .xiaogirls.com
 .xiaohexie.com
 .xiaohouzi.club
@@ -31132,6 +31162,7 @@ zeenews-fonts.s3.amazonaws.com
 .xvideos2.com
 .xvideoscom.me
 .xvideoshd.net
+.xvideosjingxiang.com
 .xvidz.xyz
 .xvidzz.com
 .xvinlink.com
@@ -31906,6 +31937,9 @@ zeenews-fonts.s3.amazonaws.com
 .zkaip.com
 .zkgsxf.com
 .zl66.me
+.zlib.life
+.zlibcdn.com
+.zlibcdn2.com
 .zm
 .zndsk.com
 .zneth.com
