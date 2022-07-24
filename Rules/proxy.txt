@@ -1223,6 +1223,7 @@ zeenews-fonts.s3.amazonaws.com
 .325735.com
 .32853333.com
 .3288js.com
+.32bm.cc
 .32red.com
 .32thing.com
 .33.homeip.net
@@ -1605,6 +1606,7 @@ zeenews-fonts.s3.amazonaws.com
 .51luoben.com
 .51luoli.info
 .51mh.app
+.51pincha.cc
 .51sa36.com
 .51smt2.xyz
 .51x.mododns.com
@@ -14879,6 +14881,7 @@ zeenews-fonts.s3.amazonaws.com
 .ivpn.50webs.com
 .ivpn.net
 .ivyseeds.com
+.iw8j.cc
 .iwancai.com
 .iwank.tv
 .iwantclips.com
@@ -15139,6 +15142,7 @@ zeenews-fonts.s3.amazonaws.com
 .jeongfamily.net
 .jepic.org
 .jerkmate.com
+.jerkmatelive.org
 .jerryxiao.cc
 .jessewilkinson.com
 .jesus-army.com
@@ -22486,6 +22490,7 @@ zeenews-fonts.s3.amazonaws.com
 .shenyunshop.com
 .shenzhoufilm.com
 .shenzhouzhengdao.org
+.shequ8.cam
 .sherabgyaltsen.com
 .sherig.org
 .sheshaft.com
@@ -26094,6 +26099,7 @@ zeenews-fonts.s3.amazonaws.com
 .voxops.net
 .voy.com
 .voyeurhit.com
+.voyeurhouse.com
 .voyeurstyle.com
 .voyeurweb.com
 .vozvos.com
@@ -26482,6 +26488,7 @@ zeenews-fonts.s3.amazonaws.com
 .weather
 .weatherchannel
 .weathtown.com
+.weav.xyz
 .web-instagram.net
 .web.app
 .web.dev
@@ -30758,6 +30765,7 @@ zeenews-fonts.s3.amazonaws.com
 .xandr.com
 .xanga.com
 .xanimeporn.com
+.xapplist.com
 .xartfan.com
 .xb.dnsmail.xyz
 .xb18.me
@@ -30893,6 +30901,7 @@ zeenews-fonts.s3.amazonaws.com
 .xiaowei11.com
 .xiaowei3.com
 .xiaoxiaose.com
+.xiaoyaoge.xyz
 .xiasi.net
 .xiaxiaoqiang.net
 .xiefox.com
