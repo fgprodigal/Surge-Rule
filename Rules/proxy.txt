@@ -3394,6 +3394,8 @@ zeenews-fonts.s3.amazonaws.com
 .alforattv.net
 .algogator.com
 .alhayat.com
+.alhs.link
+.alhs.xyz
 .ali3215.com
 .alias.awsapps.com
 .alibabacloud.com
@@ -13169,6 +13171,7 @@ zeenews-fonts.s3.amazonaws.com
 .hentaiclub.net
 .hentaicore.org
 .hentaidude.com
+.hentaiera.com
 .hentaifox.com
 .hentaigamer.org
 .hentaigasm.com
@@ -20604,6 +20607,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornerbros.com
 .pornfacebook.com
 .pornfidelity.com
+.pornfind.org
 .pornfromczech.com
 .pornfu.tv
 .pornfun.com
@@ -23236,6 +23240,7 @@ zeenews-fonts.s3.amazonaws.com
 .ssglobal.co
 .ssglobal.me
 .ssh91.com
+.sshs.club
 .sshs.pw
 .sshs.xyz
 .ssl-certificate.ch
