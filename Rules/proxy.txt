@@ -41,6 +41,7 @@ cisco.evergage.com
 ciscolivehls-i.akamaihd.net
 cloudsync-prod.s3.amazonaws.com
 courier-push-apple.com.akadns.net
+crl.microsoft.com
 csis-prod.s3.amazonaws.com
 d1k2us671qcoau.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
@@ -64,7 +65,6 @@ e122475.dscg.akamaiedge.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
 ebay-25-assets.s3-us-west-1.amazonaws.com
-eca.hinet.net
 ecapi-pchome.cdn.hinet.net
 elib.maruzen.co.jp
 espn.hb.omtrdc.net
@@ -81,7 +81,6 @@ gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
-gtlsca.nat.gov.tw
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
 heads4-ak-spotify-com.akamaized.net
@@ -105,6 +104,7 @@ media-rockstargames-com.akamaized.net
 media.prod.mdn.mozit.cloud
 medone-education.thieme.com
 mobilelive-hamivideo.cdn.hinet.net
+mscrl.microsoft.com
 muse.jhu.edu
 mwf-service.akamaized.net
 nab.demdex.net
@@ -112,9 +112,9 @@ nationalaustraliaban.tt.omtrdc.net
 netflix.com.edgesuite.net
 nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.tt.omtrdc.net
-ocsp.eca.hinet.net
-ocsp.gtlsca.nat.gov.tw
+ocsp.microsoft.com
 officecdn-microsoft-com.akamaized.net
+oneocsp.microsoft.com
 opgg-static.akamaized.net
 origin-a.akamaihd.net
 p-events-delivery.akamaized.net
