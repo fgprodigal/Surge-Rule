@@ -1,6 +1,7 @@
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
+anime-rule34-world.b-cdn.net
 api-p.videomarket.jp
 api.viu.now.com
 apl-hamivideo.cdn.hinet.net
@@ -2255,6 +2256,7 @@ zeenews-fonts.s3.amazonaws.com
 .808pb.com
 .810127.com
 .81100888.com
+.8111y.top
 .8121283.com
 .8130592.com
 .815126.com
@@ -4529,6 +4531,7 @@ zeenews-fonts.s3.amazonaws.com
 .awc7.com
 .aweencore.com
 .awetv.com
+.awflapp.top
 .awk.so
 .awn1.icu
 .aws
@@ -5297,6 +5300,7 @@ zeenews-fonts.s3.amazonaws.com
 .bellsouth.net
 .belshire.com
 .bemywife.cc
+.benaughty.fun
 .benchprep.org
 .benjibot.xyz
 .benliton.com
@@ -10187,6 +10191,7 @@ zeenews-fonts.s3.amazonaws.com
 .erosberry.com
 .erosintl.com
 .erotelki.org
+.erothots.co
 .eroticbeauties.net
 .eroticbeautyhub.com
 .eroticsaloon.net
@@ -10767,6 +10772,7 @@ zeenews-fonts.s3.amazonaws.com
 .fanqiangdang.com
 .fanqianggfw.weebly.com
 .fanqianghou.com
+.fanqianglu.com
 .fanqiangyakexi.net
 .fanqiangzhe.com
 .fansteek.com
@@ -13183,9 +13189,12 @@ zeenews-fonts.s3.amazonaws.com
 .hbg.com
 .hbo
 .hbo.com
+.hbo.com.c.footprint.net
+.hbo.com.edgesuite.net
 .hboasia.com
 .hbogo.com
 .hbogoasia.com
+.hbogoasia.id
 .hbomax.com
 .hbomaxcdn.com
 .hbonow.com
@@ -14029,6 +14038,7 @@ zeenews-fonts.s3.amazonaws.com
 .httpsfacebook.com
 .httpwwwfacebook.com
 .httwww.ossxtv.com
+.htyj-bj.com
 .hu
 .hu1u.com
 .hua-yue.net
@@ -14948,7 +14958,9 @@ zeenews-fonts.s3.amazonaws.com
 .iqq.life
 .iqq.one
 .iqq1.net
+.iqq2.cc
 .iqq2.net
+.iqq3.cc
 .iqq3.net
 .iqqtv.me
 .iqqtv.net
@@ -18050,11 +18062,13 @@ zeenews-fonts.s3.amazonaws.com
 .modelhub.com
 .modelmediaus.com
 .modeloswebcambogota.com
+.modeltv.com
 .modernchinastudies.org
 .modrinth.com
 .modular.im
 .moebox.moe
 .moeerolibrary.com
+.moefuns.co
 .moefuns.com
 .moefuns.vip
 .moeimg.net
@@ -20135,6 +20149,7 @@ zeenews-fonts.s3.amazonaws.com
 .paldengyal.com
 .palestineremix.com
 .palevo.com
+.pali.ltd
 .paljorpublications.com
 .paltalk.com
 .pamperedchef
@@ -22209,6 +22224,7 @@ zeenews-fonts.s3.amazonaws.com
 .rukoebxx.com
 .rukor.org
 .rule-34.net
+.rule34.world
 .rule34.xxx
 .rule34.xyz
 .rule34video.com
@@ -22583,6 +22599,7 @@ zeenews-fonts.s3.amazonaws.com
 .seattletimes.com
 .sebe.fairuse.org
 .secomtrust.net
+.secret-flirt-hub.com
 .secretchina.com
 .secretofluck.com
 .secretproxy.org
@@ -22835,6 +22852,7 @@ zeenews-fonts.s3.amazonaws.com
 .sgforums.com
 .sgp1.fun
 .sgtsourcing.box.com
+.sh-xuxingda.com
 .sh223.cf
 .sha0001.com
 .shaaid.com
@@ -28976,7 +28994,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.familyradio.com
 .www.fanqiang-cn.com
 .www.fanqiang.net
-.www.fanqianglu.com
 .www.fanwall.org
 .www.farxian.com
 .www.fast-ssr.org
