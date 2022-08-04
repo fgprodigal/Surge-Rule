@@ -5804,6 +5804,7 @@ zeenews-fonts.s3.amazonaws.com
 .blogspot.rs
 .blogtd.net
 .blogtd.org
+.blogterest.net
 .blogunions.com
 .blogus.sina.com
 .blogvirals.com
@@ -7543,6 +7544,7 @@ zeenews-fonts.s3.amazonaws.com
 .chwr7s8u.com
 .chyl168.com
 .chyoa.com
+.ci-en.net
 .ci170.fafafa3388.com
 .ci77.net
 .ci88.net
@@ -9108,6 +9110,7 @@ zeenews-fonts.s3.amazonaws.com
 .dlib.eastview.com
 .dlive.tv
 .dlsite.com
+.dlsitestudio.com
 .dlyoutube.com
 .dm530.net
 .dmcdn.net
@@ -10191,6 +10194,7 @@ zeenews-fonts.s3.amazonaws.com
 .erosberry.com
 .erosintl.com
 .erotelki.org
+.eroterest.net
 .erothots.co
 .eroticbeauties.net
 .eroticbeautyhub.com
@@ -15323,6 +15327,7 @@ zeenews-fonts.s3.amazonaws.com
 .javlibrary.com
 .javmany.com
 .javme.me
+.javmix.tv
 .javmobile.net
 .javmodel.com
 .javmoo.com
@@ -16007,6 +16012,7 @@ zeenews-fonts.s3.amazonaws.com
 .klik.me
 .klnwcity.org
 .km.1024ky.biz
+.kmc-av.com
 .kms.03k.org
 .kn
 .kn3.net
@@ -18239,7 +18245,6 @@ zeenews-fonts.s3.amazonaws.com
 .movidius.com
 .movidius.net
 .movie-jamrock.com
-.movie.eroterest.net
 .moviefap.com
 .movienthusiast.com
 .movieproxy.com
@@ -19877,6 +19882,7 @@ zeenews-fonts.s3.amazonaws.com
 .opior.com
 .opml.radiotime.com
 .oppai-doga.info
+.oppainorakuen.com
 .oppapers.com
 .opposix.com
 .opsxtv.com
@@ -25200,6 +25206,7 @@ zeenews-fonts.s3.amazonaws.com
 .trikepatrol.com
 .trimleng.com
 .trinita.tv
+.triokini.com
 .trisla.com
 .tristatebmw.com
 .trithucvn.net
@@ -25722,6 +25729,7 @@ zeenews-fonts.s3.amazonaws.com
 .ug.freepac.pw
 .ugg.com
 .ugo.com
+.uguisupapa.net
 .uhdwallpapers.org
 .uhostjobs.com
 .uhrp.org
@@ -26947,6 +26955,7 @@ zeenews-fonts.s3.amazonaws.com
 .wapedia.mobi
 .waplog.com
 .wapsports.tlc178.com
+.waranlov.com
 .warbler.iconfactory.net
 .wariolandshakeit.com
 .wariowarediy.com
@@ -31585,6 +31594,7 @@ zeenews-fonts.s3.amazonaws.com
 .xn--h2brj9c8c
 .xn--hb4aw0g.com
 .xn--hckl3e1e8a8ajin0czf.net
+.xn--hhr917d3fecva.xyz
 .xn--hxt035cmppuel
 .xn--hxt035czzpffl
 .xn--hxtr4rozx.xn--czr694b
