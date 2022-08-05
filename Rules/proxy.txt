@@ -21670,6 +21670,7 @@ zeenews-fonts.s3.amazonaws.com
 .r1665.com
 .r18.clickme.net
 .r18.com
+.r18av.com
 .r18lu.com
 .r2646.com
 .r3.cr.rs
