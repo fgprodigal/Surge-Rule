@@ -2483,6 +2483,7 @@ zeenews-fonts.s3.amazonaws.com
 .8dice168.com
 .8dy.me
 .8fig.net
+.8kcosplay.com
 .8mei.vip
 .8muses.com
 .8muses.io
@@ -20751,6 +20752,7 @@ zeenews-fonts.s3.amazonaws.com
 .playboy.com
 .playboyplus.com
 .playbydurex.com
+.playcover.io
 .player.fm
 .playerjs.io
 .playersdiner.com
@@ -26004,6 +26006,7 @@ zeenews-fonts.s3.amazonaws.com
 .uwpcommunitytoolkit.com
 .uxdesign.cc
 .uxdict.io
+.uxxxporn.com
 .uy
 .uy500.com
 .uybbb.com
