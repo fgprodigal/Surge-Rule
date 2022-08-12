@@ -4454,6 +4454,7 @@ zeenews-fonts.s3.amazonaws.com
 .auricularemonsterbeats.com
 .auricularesbeatsbaratosshop.com
 .auricularesbeatsmarkt.com
+.auroraoss.com
 .ausbeatsbydrdre.com
 .ausnz.net
 .ausnznet.com
@@ -7996,6 +7997,9 @@ zeenews-fonts.s3.amazonaws.com
 .colegialasdeverdad.com
 .colegialasreales.com
 .colgate.com
+.collabora.com
+.collabora.org
+.collaboraoffice.com
 .collaboration.iec.ch
 .collateralmurder.com
 .collateralmurder.org
@@ -9276,6 +9280,7 @@ zeenews-fonts.s3.amazonaws.com
 .dnswho.xyz
 .dnvod.tv
 .do-essential-oils.com
+.do.co
 .do25.gq
 .dobbyporn.com
 .doc.trolltech.com
@@ -17186,7 +17191,6 @@ zeenews-fonts.s3.amazonaws.com
 .m.cscp.me
 .m.df08aaaaa.com
 .m.dj0020.com
-.m.do.co
 .m.dvd99.xyz
 .m.dy9907.com
 .m.dzcp8999.com
@@ -32477,6 +32481,7 @@ zeenews-fonts.s3.amazonaws.com
 .ying168.com
 .yingeli.net
 .yingmang.com
+.yingpianqu.com
 .yingsuoss.com
 .yinhehyvip.com
 .yinlei.org
