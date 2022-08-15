@@ -799,6 +799,8 @@ zeenews-fonts.s3.amazonaws.com
 .18comic3.biz
 .18comic4.biz
 .18commic.com
+.18doujin.com
+.18exgfs.com
 .18gal.xyz
 .18girlssex.com
 .18h.tv
@@ -1033,6 +1035,7 @@ zeenews-fonts.s3.amazonaws.com
 .233k7.com
 .2349391.com
 .234wnsr.com
+.2371tom.com
 .237yu.com
 .24.n4t.co
 .2401084.com
@@ -1545,6 +1548,7 @@ zeenews-fonts.s3.amazonaws.com
 .4everproxy.com
 .4freeproxy.com
 .4gtv.tv
+.4hu.tv
 .4irc.com
 .4jok.com
 .4kporn.xxx
@@ -1777,6 +1781,7 @@ zeenews-fonts.s3.amazonaws.com
 .58756.com
 .58880244.com
 .5899767.com
+.58avgo.com
 .58kupu.com
 .58vod.me
 .5911221.com
@@ -4719,6 +4724,7 @@ zeenews-fonts.s3.amazonaws.com
 .b6687.com
 .b6797.com
 .b6812.com
+.b6b33.com
 .b7688.com
 .b778.com
 .b7869.com
@@ -6296,6 +6302,7 @@ zeenews-fonts.s3.amazonaws.com
 .botframework.com
 .botorch.org
 .botstop.com
+.boulx.com
 .bounceme.net
 .boundhub.com
 .boundless-sky.com
@@ -7111,6 +7118,7 @@ zeenews-fonts.s3.amazonaws.com
 .cathaypacific.com
 .cathnews.com
 .catholicherald.com
+.catmiimi.com
 .cato.org
 .catpro.io
 .catsoncrack.com
@@ -9198,6 +9206,7 @@ zeenews-fonts.s3.amazonaws.com
 .dlib.eastview.com
 .dlive.tv
 .dlsite.com
+.dlsitenews.com
 .dlsitestudio.com
 .dlyoutube.com
 .dm530.net
@@ -9411,6 +9420,7 @@ zeenews-fonts.s3.amazonaws.com
 .doujin-night.com
 .doujinantena.com
 .doujincafe.com
+.doujinfree.com
 .doujinnomori.com
 .doujins.com
 .douwriteright.com
@@ -9980,6 +9990,7 @@ zeenews-fonts.s3.amazonaws.com
 .edgecastcdn.net
 .edgedatg.com
 .edgefonts.net
+.edgemeplease.com
 .edialogue.org
 .edicypages.com
 .edilly.com
@@ -10041,6 +10052,7 @@ zeenews-fonts.s3.amazonaws.com
 .ehentai.org
 .ehgt.org
 .ehtracker.org
+.ehv.cc
 .ehwiki.org
 .eic-av.com
 .eiga.com
@@ -10264,12 +10276,16 @@ zeenews-fonts.s3.amazonaws.com
 .ero-comic-hunter.net
 .ero-kawa.com
 .ero-labs.com
+.ero-manga-platinum.net
+.ero-mangalife.com
 .ero-video.net
 .erocool.net
 .erocurves.com
 .erodaizensyu.com
+.erodouga.8sp.biz
 .erodougazo.com
 .erodoujinlog.com
+.erodoujinshi-world.com
 .erodoujinworld.com
 .eroelog.com
 .eroero69.work
@@ -10281,10 +10297,6 @@ zeenews-fonts.s3.amazonaws.com
 .erogazou-pinkline.com
 .erogazoufactory.com
 .erohentai.net
-.erolabs.cloud
-.erolabs.com
-.erolabs.games
-.erolabs.net
 .erolord.com
 .eromanga-cafe.com
 .eromanga-kingdom.com
@@ -12187,6 +12199,8 @@ zeenews-fonts.s3.amazonaws.com
 .gaxycloud.ml
 .gay-needed.com
 .gay-porns.com
+.gay.bingo
+.gay0day.com
 .gay1069.cf
 .gay69.tv
 .gayapatal.com
@@ -15766,6 +15780,7 @@ zeenews-fonts.s3.amazonaws.com
 .johntool.com
 .johren.games
 .johren.net
+.joiasmr.com
 .joinclubhouse.com
 .joinmaidez.com
 .joinmastodon.org
@@ -17016,6 +17031,7 @@ zeenews-fonts.s3.amazonaws.com
 .loveofkuanyin.com
 .loveparents.org
 .loverslab.com
+.lovesexbody.com
 .lovesexdurex.com
 .lovethiscity.com
 .lovetibet.ti-da.net
@@ -17299,6 +17315,7 @@ zeenews-fonts.s3.amazonaws.com
 .macgamestore.com
 .mach-os.com
 .mach-os.net
+.machigle-sp.com
 .machogaytube.com
 .machos.net
 .machotube.tv
@@ -17734,6 +17751,7 @@ zeenews-fonts.s3.amazonaws.com
 .mehide.org
 .meibath.com
 .meilizhongguo.biz
+.meitula.net
 .meizhong.blog
 .meizhong.report
 .melbourne
@@ -18706,6 +18724,7 @@ zeenews-fonts.s3.amazonaws.com
 .myav.tv
 .myav123.com
 .myavfun.com
+.myavok.com
 .myavsuper.com
 .mybeatsbydrestudio.com
 .mybeatsbydreuk.com
@@ -19131,6 +19150,7 @@ zeenews-fonts.s3.amazonaws.com
 .nevex.com
 .new-3lunch.net
 .new-akiba.com
+.new-jero.net
 .new-redtube.com
 .new.ltshk.net
 .new.m19b.com
@@ -19694,6 +19714,8 @@ zeenews-fonts.s3.amazonaws.com
 .nuexpo.com
 .nuget.org
 .nugettest.org
+.nuita.net
+.nuki-dokoro.com
 .nukistream.com
 .numbr.com
 .nunuyy.cc
@@ -20157,6 +20179,7 @@ zeenews-fonts.s3.amazonaws.com
 .osdn.net
 .osfoora.com
 .osilo.net
+.osiri-suki-club.com
 .osm.org
 .osmfoundation.org
 .ospray.net
@@ -21310,6 +21333,7 @@ zeenews-fonts.s3.amazonaws.com
 .pornvideotube.online
 .pornvisit.com
 .pornwatchers.com
+.pornwebmasters.com
 .pornwhite.com
 .pornworms.com
 .pornxs.com
@@ -21409,6 +21433,7 @@ zeenews-fonts.s3.amazonaws.com
 .pressreader.com
 .prestige-av.com
 .prestigecasino.com
+.pretty-ass.xyz
 .prettynubiles.com
 .prettysimpleimages.com
 .prettyteentube.com
@@ -22580,6 +22605,7 @@ zeenews-fonts.s3.amazonaws.com
 .sadout.com
 .sae.org
 .safe-inet.com
+.safebooru.org
 .safecart.com
 .safechat.com
 .safeforwork.net
@@ -24359,6 +24385,7 @@ zeenews-fonts.s3.amazonaws.com
 .sushi.com
 .susjed.com
 .sustainthesound.com
+.suxib.com
 .suyangg.com
 .suzuki
 .sv
@@ -24583,6 +24610,7 @@ zeenews-fonts.s3.amazonaws.com
 .tata
 .tatamotors
 .tatar
+.tati-log.com
 .taup.net
 .taweet.com
 .taxi69.com
@@ -24620,6 +24648,7 @@ zeenews-fonts.s3.amazonaws.com
 .tbb004.com
 .tbbet8888.com
 .tbcollege.org
+.tbib.org
 .tbicn.org
 .tbjyt.org
 .tblop.com
@@ -26181,6 +26210,7 @@ zeenews-fonts.s3.amazonaws.com
 .upxtv.com
 .ur7s.com
 .uraban.me
+.urasma.com
 .urasob.com
 .urast.com
 .urban14.net
@@ -31999,6 +32029,7 @@ zeenews-fonts.s3.amazonaws.com
 .xnxx-sex-videos.com
 .xnxx-teens.com
 .xnxx.com
+.xnxx.health
 .xnxx.net
 .xnxx.tv
 .xnxx.xxx
@@ -32837,6 +32868,7 @@ zeenews-fonts.s3.amazonaws.com
 .zeplin.dev
 .zeplin.io
 .zeriamerikes.com
+.zerochan.net
 .zerohedge.com
 .zeronet.io
 .zeronettv.weebly.com
@@ -32846,6 +32878,7 @@ zeenews-fonts.s3.amazonaws.com
 .zeta.zentek.net
 .zetagalleries.com
 .zetify.com
+.zettai-ero.com
 .zeutch.com
 .zff.co
 .zfreet.com
