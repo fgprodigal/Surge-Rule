@@ -11145,6 +11145,7 @@ zeenews-fonts.s3.amazonaws.com
 .festinhasbrasil.com
 .fetish-bb.com
 .fetishbank.net
+.fetishdreamz.com
 .fetishfishcams.com
 .fetishpapa.com
 .fetishpornfilms.com
@@ -20208,6 +20209,7 @@ zeenews-fonts.s3.amazonaws.com
 .openvpn.com
 .openvpn.net
 .openvpn.org
+.openweathermap.org
 .openweave.io
 .openwebster.com
 .openwrt.org
@@ -26287,6 +26289,7 @@ zeenews-fonts.s3.amazonaws.com
 .unix100.com
 .unknownproxy.com
 .unknownspace.org
+.unkoscene.com
 .unlocator.com
 .unlock-iceland.com
 .unlocklimitlesslearning.com
