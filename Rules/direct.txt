@@ -15187,6 +15187,7 @@ xz.pphimalayanrt.com
 .chongwuxiang.com
 .chongya.com
 .chongyacdn.com
+.chongyejia.com
 .chongyitang.org
 .chongzhi.com
 .chonka.com
@@ -22980,6 +22981,7 @@ xz.pphimalayanrt.com
 .fodian.net
 .fodlab.com
 .fodoco.com
+.fofa.info
 .foguanghui.org
 .fokan88.com
 .folieyun.com
@@ -31478,6 +31480,7 @@ xz.pphimalayanrt.com
 .iyiyun.com
 .iyocloud.com
 .iyong.com
+.iyongpdf.com
 .iyooread.com
 .iyoowi.com
 .iyoucai.com
@@ -37551,6 +37554,7 @@ xz.pphimalayanrt.com
 .lpetl.com
 .lpllol.com
 .lply.net
+.lppoll.com
 .lppz.com
 .lpq1688.com
 .lprcx.com
@@ -40794,6 +40798,7 @@ xz.pphimalayanrt.com
 .n3293.com
 .n3ko.co
 .n3sd.com
+.n4115.com
 .n423.com
 .n459.com
 .n5878.com
@@ -45099,7 +45104,6 @@ xz.pphimalayanrt.com
 .qjrc.com
 .qjren.com
 .qjsb88.com
-.qjshe.com
 .qjsmartech.com
 .qjtrip.com
 .qjwhzs.com
