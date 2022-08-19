@@ -7995,6 +7995,7 @@ zeenews-fonts.s3.amazonaws.com
 .codecampo.com
 .codefarmer.cf
 .codeforaliving.io
+.codeforces.com
 .codeger.com
 .codeguru.com
 .codei.sh
@@ -15098,6 +15099,7 @@ zeenews-fonts.s3.amazonaws.com
 .io.freess.org
 .ioe.com
 .ioffergift.com
+.ioinformatics.org
 .ionic.cf
 .iop.org
 .ios-icloud.com
