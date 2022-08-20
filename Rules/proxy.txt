@@ -5578,6 +5578,9 @@ zeenews-fonts.s3.amazonaws.com
 .biguz.net
 .biitii.com
 .bijakids.com
+.bikaa.xyz
+.bikac.xyz
+.bikaios.xyz
 .bilibili230.com
 .bilibili301.xyz
 .bilibili306.xyz
@@ -20939,7 +20942,10 @@ zeenews-fonts.s3.amazonaws.com
 .pianopiano.pt
 .piavpn.com
 .pic5.pixclub.net
+.picacg2022.com
+.picacn.xyz
 .picacomic.com
+.picacomic.xyz
 .picacomiccn.com
 .picasa.com
 .picasaweb.com
@@ -27759,6 +27765,7 @@ zeenews-fonts.s3.amazonaws.com
 .wiiugamepad.com
 .wiivc.net
 .wikaba.com
+.wikawika.xyz
 .wiki.cnitter.com
 .wiki.esu.im
 .wiki.moegirl.org
