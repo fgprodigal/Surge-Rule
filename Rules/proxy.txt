@@ -3199,6 +3199,7 @@ zeenews-fonts.s3.amazonaws.com
 .aetoscg.com
 .aex.com
 .af
+.af-south-1.myhuaweicloud.com
 .afamilycompany
 .afantibbs.com
 .afcp01.com
@@ -3917,6 +3918,9 @@ zeenews-fonts.s3.amazonaws.com
 .aorus.com
 .aosintegrity.com
 .aouwe.com
+.ap-southeast-1.myhuaweicloud.com
+.ap-southeast-2.myhuaweicloud.com
+.ap-southeast-3.myhuaweicloud.com
 .ap.org
 .ap0le.com
 .ap5.ragic.com
@@ -10456,6 +10460,7 @@ zeenews-fonts.s3.amazonaws.com
 .eu
 .eu-consumer-empowerment.com
 .eu-ssa.org
+.eu-west-0.myhuaweicloud.com
 .eu.org
 .eu49.com
 .eubluecardvisa.com
@@ -12423,6 +12428,7 @@ zeenews-fonts.s3.amazonaws.com
 .gekikame.com
 .gelbooru.com
 .gelbooru.me
+.gelbooru.wjcodes.com
 .gemfire.net
 .gemfury.com
 .genashtim.com
@@ -13583,7 +13589,9 @@ zeenews-fonts.s3.amazonaws.com
 .hentai247.net
 .hentai2read.com
 .hentai2w.com
+.hentai44.com
 .hentai4manga.com
+.hentai69.online
 .hentaiaction.net
 .hentaiathome.net
 .hentaibar.com
@@ -14338,6 +14346,8 @@ zeenews-fonts.s3.amazonaws.com
 .huashangnews.com
 .huashimedia.site40.net
 .huashundg.com
+.huaweicloud-dns.net
+.huaweicloud-dns.org
 .huaxia-news.com
 .huaxiabao.org
 .huayanjiyu.com
@@ -16357,6 +16367,7 @@ zeenews-fonts.s3.amazonaws.com
 .kompozer.net
 .konachan.com
 .konachan.net
+.konachan.wjcodes.com
 .konami
 .kone
 .kone.com
@@ -16502,6 +16513,8 @@ zeenews-fonts.s3.amazonaws.com
 .l-0005.dc-msedge.net
 .l-0005.l-msedge.net
 .la-forum.org
+.la-north-2.myhuaweicloud.com
+.la-south-2.myhuaweicloud.com
 .la4065.com
 .lab.gracecode.com
 .lab.skk.moe
@@ -19074,6 +19087,7 @@ zeenews-fonts.s3.amazonaws.com
 .n9919.com
 .na
 .na-att-idns.net
+.na-mexico-1.myhuaweicloud.com
 .na.kalone.net
 .naacoalition.org
 .nab
@@ -19808,6 +19822,7 @@ zeenews-fonts.s3.amazonaws.com
 .nsat.collegeboard.org
 .nsfw.xxx
 .nsfwgifs.com
+.nsfwmemes.com
 .nsimg.net
 .nstagram.com
 .ntc.party
@@ -20321,6 +20336,7 @@ zeenews-fonts.s3.amazonaws.com
 .ortsbo.com
 .orxtv.com
 .orzistic.org
+.orzqwq.com
 .osaka
 .osakamotion.net
 .osapublishing.org
@@ -22654,6 +22670,7 @@ zeenews-fonts.s3.amazonaws.com
 .rtsinfo.ch
 .rtycminnesota.org
 .ru
+.ru-northwest-2.myhuaweicloud.com
 .ruanyifeng.com
 .rubias19.com
 .rubixfxasia.com
@@ -22758,6 +22775,7 @@ zeenews-fonts.s3.amazonaws.com
 .s99bet.com
 .s99bet.net
 .sa
+.sa-brazil-1.myhuaweicloud.com
 .sa.hao123.com
 .saalt.org
 .saarland
@@ -23118,6 +23136,7 @@ zeenews-fonts.s3.amazonaws.com
 .seneporno.com
 .sener
 .seniorexpress.org
+.senpaiheat.com
 .sensolnet.com
 .sensortower.com
 .sensorynetworks.com
@@ -26884,6 +26903,7 @@ zeenews-fonts.s3.amazonaws.com
 .vipletou.com
 .vipshoes2.com
 .vipstudiocali.com
+.viralcum.com
 .viralporn.com
 .virbuzz.com
 .virgin
