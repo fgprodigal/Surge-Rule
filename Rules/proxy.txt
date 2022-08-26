@@ -6957,6 +6957,7 @@ zeenews-fonts.s3.amazonaws.com
 .calgoncarbon.com
 .calgonit.com
 .call-3u8633.com
+.callabitch.org
 .callersbane.com
 .callhulu.com
 .calvappd.me
@@ -18486,6 +18487,7 @@ zeenews-fonts.s3.amazonaws.com
 .mondex.org
 .mondomedia.com
 .moneyhome.biz
+.moneyswift.online
 .moneywithfacebook.com
 .mongodb.com
 .mongodb.org
@@ -22826,6 +22828,7 @@ zeenews-fonts.s3.amazonaws.com
 .safeway
 .saffrontech.com
 .sagepub.com
+.sagernet.org
 .sahabatsetiasmartone.com
 .sahvow.tv
 .saidit.net
@@ -25591,6 +25594,7 @@ zeenews-fonts.s3.amazonaws.com
 .topbtc.com
 .topcartoonsites.com
 .topchats.com
+.topcoder.com
 .toperoticartsites.com
 .topescortbabes.com
 .topface.com
@@ -26485,6 +26489,7 @@ zeenews-fonts.s3.amazonaws.com
 .us52.cf
 .usa-beatsbydreheadphonesonsale.net
 .usacn.com
+.usaco.org
 .usahealth.xyz
 .usatoday.com
 .usatodaynetworkservice.com
