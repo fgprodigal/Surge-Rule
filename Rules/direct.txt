@@ -2624,7 +2624,6 @@ xz.pphimalayanrt.com
 .25dx.com
 .25game.com
 .25ku.com
-.25mao.com
 .25nc.com
 .25pp.com
 .25pyg.com
@@ -2959,6 +2958,7 @@ xz.pphimalayanrt.com
 .324.com
 .3259.com
 .32800.com
+.328888.xyz
 .328f.com
 .328vip.com
 .32bh.com
@@ -13159,6 +13159,7 @@ xz.pphimalayanrt.com
 .cccitu.com
 .cccity.cc
 .ccciw.com
+.cccmat.com
 .cccnec.com
 .cccollector.com
 .cccpan.com
@@ -17318,7 +17319,6 @@ xz.pphimalayanrt.com
 .ctcnn.com
 .ctcnpa.com
 .ctcwri.org
-.ctdc-itshare.org
 .ctdcn.com
 .ctdisk.com
 .ctdns.net
@@ -19086,6 +19086,7 @@ xz.pphimalayanrt.com
 .discuz.chat
 .discuz.com
 .discuz.net
+.discuz.org
 .discuzfans.net
 .discuzlab.com
 .dishen.com
@@ -19971,6 +19972,7 @@ xz.pphimalayanrt.com
 .duantian.com
 .duanwenxue.com
 .duanwxue.com
+.duanxb.com
 .duanxin321.com
 .duanxin520.com
 .duanyoutv.vip
@@ -27873,6 +27875,7 @@ xz.pphimalayanrt.com
 .hongqipress.com
 .hongrenzhuang.site
 .hongru.com
+.hongruike.com
 .hongsanban.com
 .hongsat.com
 .hongsehuoxian.com
@@ -32309,6 +32312,7 @@ xz.pphimalayanrt.com
 .jilinpujiyiyuan.com
 .jilinwula.com
 .jiliyun.com
+.jimeisilk.com
 .jimeng.mobi
 .jimi168.com
 .jimicn.com
@@ -39810,6 +39814,7 @@ xz.pphimalayanrt.com
 .modernsky.com
 .modernweekly.com
 .modian.com
+.modianverse.com
 .modooplay.com
 .modulesocean.com
 .moduovr.com
@@ -41004,7 +41009,6 @@ xz.pphimalayanrt.com
 .neofussvr.sslcs.cdngc.net
 .neohytung.com
 .neojos.com
-.neokylinschool.com
 .neolee.com
 .neolix.net
 .neoremind.com
@@ -42649,6 +42653,7 @@ xz.pphimalayanrt.com
 .pa18.com
 .pa1pa.com
 .paahu.com
+.paalermat.com
 .paascloud.net
 .paat.com
 .pabulika.com
@@ -45124,10 +45129,13 @@ xz.pphimalayanrt.com
 .qpzq.net
 .qq-xmail.com
 .qq.cc
+.qq.cn.com
 .qq.com
+.qq.design
 .qq.do
 .qq.net
 .qq.tc
+.qq.wang
 .qq123.xin
 .qq163.cc
 .qq163.com
@@ -50565,6 +50573,7 @@ xz.pphimalayanrt.com
 .surdoc.net
 .sure56.com
 .suremotoo.site
+.surgerycast.com
 .surprising.studio
 .sursen.com
 .sursenelec.com
@@ -51767,6 +51776,8 @@ xz.pphimalayanrt.com
 .tencent-gf.com
 .tencent.com
 .tencent.com.hk
+.tencent.design
+.tencent.net
 .tencentads.com
 .tencentcdb.com
 .tencentclb.com
@@ -59945,6 +59956,7 @@ xz.pphimalayanrt.com
 .xuanchuanyi.com
 .xuandan.com
 .xuande99.com
+.xuandecarpet.com
 .xuandui.me
 .xuanfengge.com
 .xuanfengkeji.com
@@ -60484,7 +60496,6 @@ xz.pphimalayanrt.com
 .y6162.com
 .y7q8.com
 .y80s.com
-.y821.cc
 .y999.com
 .y9photo.com
 .ya17.com

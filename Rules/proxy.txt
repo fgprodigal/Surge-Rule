@@ -22045,6 +22045,7 @@ zeenews-fonts.s3.amazonaws.com
 .qporno.com
 .qporno.xxx
 .qprize.com
+.qq.design
 .qq2018.com
 .qq31666.com
 .qq404.cf
@@ -25003,6 +25004,8 @@ zeenews-fonts.s3.amazonaws.com
 .tenacy.home.kg
 .tenacy.link
 .tenbyfotolia.com
+.tencent.co.id
+.tencent.design
 .tengbo9885.com
 .tenor.com
 .tensorflow.org
