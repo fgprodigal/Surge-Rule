@@ -93,7 +93,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 imperial.insendi.com
 interactive-examples.mdn.mozilla.net
-itunes-apple.com.akadns.net
 lgelectronics.122.2o7.net
 licdn.cn.cdn20.com
 linear-abematv.akamaized.net
@@ -15899,8 +15898,12 @@ zeenews-fonts.s3.amazonaws.com
 .jm
 .jm607.com
 .jmara.net
+.jmcomic.me
 .jmcomic.mobi
+.jmcomic.moe
 .jmcomic.xyz
+.jmcomic1.city
+.jmcomic1.me
 .jmcomic1.mobi
 .jmlr.org
 .jmp
@@ -20275,6 +20278,7 @@ zeenews-fonts.s3.amazonaws.com
 .openlibrary.org
 .openloadfreetv.me
 .openmaps.org
+.openmidas.com
 .openresty.org
 .opensea.io
 .openshift.redhat.com
@@ -22052,6 +22056,7 @@ zeenews-fonts.s3.amazonaws.com
 .qqav.tv
 .qqc.co
 .qqdwc.com
+.qqgamedesign.com
 .qqjj18.com
 .qqjlb001.app
 .qqjlb03.app
@@ -24570,6 +24575,7 @@ zeenews-fonts.s3.amazonaws.com
 .superadultgames.com
 .superbookcity.com
 .superbrownbear.com
+.supercell.com
 .superchina.xyz
 .superearsenjoy.com
 .superfastdatanet.com
@@ -27720,6 +27726,7 @@ zeenews-fonts.s3.amazonaws.com
 .weetok.com
 .wefightcensorship.org
 .wefong.com
+.wegamedeveloper.com
 .wego.here.com
 .weiboleak.com
 .weibosuite.com
