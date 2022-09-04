@@ -126,6 +126,7 @@ prd-priconne-redive.akamaized.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 push-apple.com.akadns.net
+pvr-hamivideo.cdn.hinet.net
 qualcomm.sc.omtrdc.net
 rink.hockeyapp.net
 rtm.tnt-ea.com
@@ -221,6 +222,7 @@ steamvideo-a.akamaihd.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 tesla-cdn.thron.com
+tvcastlive-hamivideo.cdn.hinet.net
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
