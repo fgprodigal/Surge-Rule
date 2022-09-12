@@ -7857,6 +7857,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com
+.cloudflarestorage.com
 .cloudflarestream.com
 .cloudflaretest.com
 .cloudflarewarp.com
@@ -22515,6 +22516,7 @@ zeenews-fonts.s3.amazonaws.com
 .renzhecloud.com
 .repo.akii.art
 .repo.brucezhang.cf
+.repo.new
 .repostone.home.blog
 .repsneakermall.com
 .repswing.com
@@ -24314,6 +24316,7 @@ zeenews-fonts.s3.amazonaws.com
 .starcraft.com
 .starcraft2.com
 .starfares.com
+.starfieldtech.com
 .starfishfx.com
 .starfox.com
 .starhub
