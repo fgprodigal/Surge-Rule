@@ -4020,7 +4020,6 @@ zeenews-fonts.s3.amazonaws.com
 .app.simplenote.com
 .app.smartmailcloud.com
 .app.staging.nuorder.com
-.app.uniswap.org
 .app.vsight.io
 .app.xmx-134-1.com
 .app0le.com
@@ -7268,7 +7267,6 @@ zeenews-fonts.s3.amazonaws.com
 .cdn-main.plus500.com
 .cdn-terapeak.com
 .cdn.assets.lfpcontent.com
-.cdn.cms-twdigitalassets.com
 .cdn.hkwesi22222.xyz
 .cdn.mobileread.com
 .cdn.plus500.com
@@ -7905,6 +7903,7 @@ zeenews-fonts.s3.amazonaws.com
 .cmhalq.com
 .cmi.vpncompany.com
 .cmpaas.com
+.cms-twdigitalassets.com
 .cms.korea.net
 .cmsc106.net
 .cmule.com
@@ -8052,6 +8051,7 @@ zeenews-fonts.s3.amazonaws.com
 .coinex.com
 .coingecko.com
 .coingi.com
+.coinglass.com
 .coinmarketcap.com
 .coinonecore.com
 .coinonecorp.com
@@ -8338,6 +8338,7 @@ zeenews-fonts.s3.amazonaws.com
 .cryptocat.com
 .cryptocert.org
 .cryptocoinsnews.com
+.cryptocompare.com
 .cryptocurrencytalk.com
 .cryptomeans.co
 .cryptorarium.com
@@ -8870,6 +8871,7 @@ zeenews-fonts.s3.amazonaws.com
 .dearelder.com
 .deasians.com
 .deathbychina.com
+.debank.com
 .debate.org
 .debian.org
 .debug.com
@@ -14967,6 +14969,7 @@ zeenews-fonts.s3.amazonaws.com
 .infowars.com
 .infowarsmedia.com
 .infrapedia.com
+.infura.io
 .infy
 .ingads.com
 .ingarden.pt
@@ -15214,7 +15217,6 @@ zeenews-fonts.s3.amazonaws.com
 .ipfs.eternum.io
 .ipfs.eth.aragon.network
 .ipfs.fleek.co
-.ipfs.infura.io
 .ipfs.io
 .ipfs.lain.la
 .ipfs.runfission.com
@@ -19097,6 +19099,7 @@ zeenews-fonts.s3.amazonaws.com
 .mythicentertainment.net
 .mythicgames.com
 .mytizi.com
+.mytokenapi.com
 .mytubeweb.com
 .mytving.com
 .mytvsuper.com
@@ -25845,6 +25848,7 @@ zeenews-fonts.s3.amazonaws.com
 .trueanal.com
 .truebuddha-md.org
 .truedepth3d.com
+.truefi.io
 .trulyergonomic.com
 .trust-provider.com
 .trust.zone
@@ -26191,8 +26195,10 @@ zeenews-fonts.s3.amazonaws.com
 .twitter.com
 .twitter.org
 .twitter4j.org
+.twittercommunity.com
 .twittercounter.com
 .twitterfeed.com
+.twitterflightschool.com
 .twittergadget.com
 .twitterinc.com
 .twitterkr.com
@@ -26442,6 +26448,7 @@ zeenews-fonts.s3.amazonaws.com
 .unification.net
 .uninhibitedcomix.com
 .unirule.cloud
+.uniswap.org
 .unite4tibet.org
 .unitedsocialpress.com
 .unitefortibet.org
