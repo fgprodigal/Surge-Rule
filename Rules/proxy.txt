@@ -47,6 +47,7 @@ csis-prod.s3.amazonaws.com
 d1k2us671qcoau.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
+d33wubrfki0l68.cloudfront.net
 databank.worldbank.org
 database.asahi.com
 default.exp-tas.com
@@ -7262,6 +7263,7 @@ zeenews-fonts.s3.amazonaws.com
 .cdig.info
 .cdjp.org
 .cdkworkshop.com
+.cdmatech.com
 .cdn-apple.com
 .cdn-images.mailchimp.com
 .cdn-main.plus500.com
@@ -8812,6 +8814,7 @@ zeenews-fonts.s3.amazonaws.com
 .dc9977.com
 .dcard.cc
 .dcard.io
+.dcard.link
 .dcdbjkjn.fzgyh.com
 .dchome.net
 .dclk
@@ -19341,7 +19344,9 @@ zeenews-fonts.s3.amazonaws.com
 .netflixdnstest9.com
 .netflixinvestor.com
 .netflixtechblog.com
+.netlify.app
 .netlify.com
+.netlifystatus.com
 .netme.cc
 .netmums.com
 .netpornsex.com
