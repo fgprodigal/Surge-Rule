@@ -3250,6 +3250,7 @@ zeenews-fonts.s3.amazonaws.com
 .affiliate.pncle8.com
 .affiliate.w88win.com
 .affiliates.abab16.com
+.affirmtrust.com
 .affsal365.com
 .afftb388.com
 .affyun.org
@@ -4469,6 +4470,7 @@ zeenews-fonts.s3.amazonaws.com
 .atnext.com
 .atom.io
 .atomyteam.com
+.atos.net
 .atozproxy.com
 .atriumesoteric.org
 .atscaleconference.com
@@ -7118,6 +7120,7 @@ zeenews-fonts.s3.amazonaws.com
 .camelphat.com
 .camelspaceeffect.com
 .cameraboys.com
+.camerfirma.com
 .camfinder.com
 .camfox.com
 .camfrog.com
@@ -7474,8 +7477,10 @@ zeenews-fonts.s3.amazonaws.com
 .cerdas.com
 .cern
 .cern.ch
+.certificat2.com
 .certificate-transparency.org
 .certificate.revocationcheck.com
+.certinomis.com
 .cervetoria.pt
 .cevin.me
 .cex.io
@@ -8715,6 +8720,7 @@ zeenews-fonts.s3.amazonaws.com
 .czechwifeswap.com
 .czhangxu.com
 .d-fukyu.com
+.d-trust.net
 .d-upp.com
 .d.070790.com
 .d.cr.rs
@@ -9994,6 +10000,7 @@ zeenews-fonts.s3.amazonaws.com
 .e-hentaidb.com
 .e-m-a-i-l.org
 .e-traderland.net
+.e-tugra.com
 .e.spagettitoast.com
 .e.spee.pro
 .e.t28.net
@@ -11554,6 +11561,7 @@ zeenews-fonts.s3.amazonaws.com
 .firetell.net
 .firetweet.io
 .firevpn.net
+.firmaprofesional.com
 .firmdale
 .firstanalquest.com
 .firstasianpussy.com
@@ -12479,6 +12487,7 @@ zeenews-fonts.s3.amazonaws.com
 .gammalikker.net
 .gamousa.com
 .gandhidham.com
+.gandi.net
 .ganetstudio.com
 .ganges.com
 .ganjingworld.com
@@ -15212,6 +15221,7 @@ zeenews-fonts.s3.amazonaws.com
 .incezt.net
 .incloak.com
 .inclusivegrowthscore.com
+.incommon-rsa.org
 .ind.sh
 .indazn.com
 .indaznlab.com
@@ -15260,6 +15270,8 @@ zeenews-fonts.s3.amazonaws.com
 .info-buddhism.com
 .info.gf
 .info140419.over-blog.com
+.infocert.digital
+.infocert.it
 .infodns.xyz
 .infofalungong.net
 .infoonhealth.xyz
@@ -17218,6 +17230,7 @@ zeenews-fonts.s3.amazonaws.com
 .letou996.com
 .letou999.net
 .letscorp.net
+.letsencrypt.com
 .letsencrypt.org
 .letsfuckme.net
 .letsjerk.cc
@@ -18006,6 +18019,7 @@ zeenews-fonts.s3.amazonaws.com
 .man
 .managed-pki.ch
 .managedmeetingrooms.com
+.managedpki.com
 .manarat.com
 .manbetx711.com
 .manbetx852.com
@@ -19306,6 +19320,7 @@ zeenews-fonts.s3.amazonaws.com
 .myanmar-porn.com
 .myanniu.com
 .myappleid.com
+.myatos.net
 .myaudiocast.com
 .myav.life
 .myav.tv
@@ -19501,6 +19516,7 @@ zeenews-fonts.s3.amazonaws.com
 .myvalleynews.com
 .myvisaluxuryhotels.com
 .myvnc.com
+.myvodafone.com.ws
 .myway.com
 .mywaytopay.info
 .mywaytopay.net
@@ -19750,6 +19766,7 @@ zeenews-fonts.s3.amazonaws.com
 .netsarang.com
 .netsee.co
 .netsneak.com
+.netsolssl.com
 .nettyinternet.com
 .netvideogirls.com
 .netvigator.com
@@ -20468,6 +20485,7 @@ zeenews-fonts.s3.amazonaws.com
 .ocry.com
 .ocsp-certum.com
 .ocsp-lb.apple.com.akadns.net
+.ocsp-responder.com
 .october-review.org
 .octoteam.com
 .octrev.mysrvnet.com
@@ -20593,6 +20611,7 @@ zeenews-fonts.s3.amazonaws.com
 .omgili.com
 .omgteens.com
 .omhsstaff.org
+.omniroot.com
 .omnitalk.com
 .omnitalk.org
 .omnitek.tv
@@ -22433,6 +22452,7 @@ zeenews-fonts.s3.amazonaws.com
 .pu9955.com
 .puba.com
 .public-sex-porn.com
+.public-trust.com
 .publicaffairsbooks.com
 .publicagent.com
 .publicagentxxx.com
@@ -22683,6 +22703,7 @@ zeenews-fonts.s3.amazonaws.com
 .quoracdn.net
 .quota.com
 .quotable.com
+.quovadisglobal.com
 .quran.com
 .quranexplorer.com
 .quranicaudio.com
@@ -25350,6 +25371,9 @@ zeenews-fonts.s3.amazonaws.com
 .syjidh1.xyz
 .sylfoundation.org
 .symantec
+.symantec.com
+.symcb.com
+.symcd.com
 .synaptic.net
 .sync2it.com
 .syncback.com
@@ -26428,6 +26452,7 @@ zeenews-fonts.s3.amazonaws.com
 .trellocdn.com
 .trementina.ml
 .trendhunter.com
+.trendmicro.com
 .trendsmap.com
 .trendyporn.com
 .treverix.com
@@ -26467,10 +26492,12 @@ zeenews-fonts.s3.amazonaws.com
 .trulyergonomic.com
 .trust-provider.com
 .trust.zone
+.trustcor.com
 .trustdoc.ch
 .trustedanalytics.com
 .trustedanalytics.net
 .trustedreviews.com
+.trustisfps.com
 .trustsign.ch
 .trustwave.com
 .truth-out.org
@@ -27862,6 +27889,8 @@ zeenews-fonts.s3.amazonaws.com
 .vocus.cc
 .vod.com
 .vod360.net
+.vodafone.com
+.vodafone.it
 .vodka
 .voicettank.org
 .voipfone.net
@@ -28699,6 +28728,9 @@ zeenews-fonts.s3.amazonaws.com
 .wireshark.org
 .wisdompubs.org
 .wise-research.com
+.wisecoin.com
+.wiseid.com
+.wisekey.com
 .wisevid.com
 .wish.com
 .wit.im
